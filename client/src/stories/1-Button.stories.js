@@ -9,11 +9,7 @@ export default {
 // You can also configure `withKnobs` as a global decorator.
 
 // Knobs for React props
-export const withAButton = () => (
-  <button disabled={boolean("Disabled", false)}>
-    {text("Label", "Hello Storybook")}
-  </button>
-);
+
 
 // Knobs as dynamic variables.
 export const asDynamicVariables = () => {
@@ -23,3 +19,9 @@ export const asDynamicVariables = () => {
 
   return <div>{content}</div>;
 };
+
+export const withAButton = () => (
+  <button disabled={boolean("Disabled", false)}>
+    {text("Label", "Hello Storybook")}
+  </button>
+);

@@ -34,11 +34,11 @@ const PokemonDisplayer = () => {
       return <div>Loading...</div>;
     } else {
       return (
-        <ul>
+        <div>
           {items.map((item) => (
-            <li key={item.name}>{item.name}</li>
+            <div key={item.name}>{item.name}</div>
           ))}
-        </ul>
+        </div>
       );
     }
   };
