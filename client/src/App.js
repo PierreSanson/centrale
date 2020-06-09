@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import HomePage from "./Pages/HomePage/HomePage";
 import FilmList from "./Pages/FilmList/FilmList";
 import FilmPage from "./Pages/FilmPage/FilmPage";
+import PageFilm from "./components/PageFilm";
 
 const users = [
   {
@@ -15,6 +16,7 @@ const users = [
     name: "Victor"
   }
 ];
+
 
 
 function App() {
@@ -33,6 +35,7 @@ function App() {
         <div>
           <Link to="/">Accueil</Link>
           <Link to="/films">Liste des films</Link>
+          <Link to="/demo">Recherche films</Link>         
           <select
             value={user}
             onChange={updateUser}>
@@ -60,6 +63,9 @@ function App() {
           <Route exact path="/films/:filmId" render={(props) => <FilmPage {...props} user={user} />} />
           <Route exact path="/films">
             <FilmList />
+          </Route>                                                                                                                                                                                                                                               
+          <Route exact path="/demo">
+            <PageFilm />
           </Route>
           <Route exact path="/">
             <HomePage />
