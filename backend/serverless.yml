@@ -25,7 +25,7 @@ functions:
           method: get
 
   get:
-    handler: functions/get.handle
+    handler: functions/get_movie.handle
     events:
       - http:
           method: get
@@ -34,8 +34,8 @@ functions:
             origin: http://localhost:3000
             allowCredentials: true
 
-  create:
-    handler: functions/create.handle
+  create_movie:
+    handler: functions/create_movie.handle
     events:
       - http:
           method: post
