@@ -2,7 +2,7 @@
 const DynamoDB = require('aws-sdk/clients/dynamodb'); // "require" est équivalent au "import" de Python
 
 module.exports.handle = async event => {
-    const data = event; // normalement on met : const data = JSON.stringify(event.body); (c'était pour insérer à la main vite fait)
+    const data = JSON.stringify(event.body);
 
     if (!process.env.tableName) {
         throw new Error('env.tableName must be defined');
@@ -23,7 +23,12 @@ module.exports.handle = async event => {
 
     return {
         statusCode: 200,
+        headers: {
+            'Access-Control-Allow-Origin': '*',
+            'Access-Control-Allow-Credentials': true,
+            },
         body: JSON.stringify(item),
+        
     }
 }
 

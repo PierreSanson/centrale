@@ -9,7 +9,7 @@ const PokemonDisplayer = () => {
 
   const fetchExample = async () => {
     try {
-      const response = await fetch("https://pokeapi.co/api/v2/pokemon/");
+      const response = await fetch("https://mmwouk3l22.execute-api.eu-west-1.amazonaws.com/dev/items");
       const responseJson = await response.json();
       setIsLoaded(true);
       setError(false);

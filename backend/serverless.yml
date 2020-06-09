@@ -24,7 +24,7 @@ functions:
           path: hello
           method: get
 
-  get:
+  get_movie:
     handler: functions/get_movie.handle
     events:
       - http:
