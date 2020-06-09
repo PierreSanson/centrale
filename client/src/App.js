@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import HomePage from "./Pages/HomePage/HomePage";
 import FilmList from "./Pages/FilmList/FilmList";
 import FilmPage from "./Pages/FilmPage/FilmPage";
-import PageFilm from "./components/PageFilm";
+import FilmSearch from "./Pages/FilmSearch/FilmSearch";
 
 const users = [
   {
@@ -65,7 +65,7 @@ function App() {
             <FilmList />
           </Route>                                                                                                                                                                                                                                               
           <Route exact path="/demo">
-            <PageFilm />
+            <FilmSearch />
           </Route>
           <Route exact path="/">
             <HomePage />
