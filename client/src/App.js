@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import PageFilm from "./components/FilmDisplayer";
+import PageFilm from "./components/PageFilm";
 import HomePage from "./components/HomePage";
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/demo">Exemple film</Link>
+              <Link to="/demo">Recherche films</Link>
             </li>
           </ul>
         </nav>
