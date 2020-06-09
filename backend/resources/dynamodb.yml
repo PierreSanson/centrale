@@ -6,8 +6,8 @@ Resources:
             AttributeDefinitions:
                 - AttributeName: type # premier attribut obligatoire à renseigner quand on ajoute une donnée ("movie" ou "user")
                   AttributeType: S    # c'est un string
-                - AttributeName: uuid # deuxieme attribut obligatoire
-                  AttributeType: S    # aussi un string, même si c'est un nombre
+                - AttributeName: uuid # deuxieme attribut obligatoire (Name_(Year) pour un film, Name ou User_ID pour un utilisateur)
+                  AttributeType: S    # aussi un string
             KeySchema:
                 - AttributeName: type # type est la clé de partition
                   KeyType: HASH

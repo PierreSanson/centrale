@@ -1,20 +1,24 @@
-const DynamoDB = require('aws-sdk/clients/dynamodb');
+//const uuid = require('uuid'); (je m'en sers pas)
+const DynamoDB = require('aws-sdk/clients/dynamodb'); // "require" est équivalent au "import" de Python
 
 module.exports.handle = async event => {
+    const data = JSON.stringify(event.body);
+
     if (!process.env.tableName) {
         throw new Error('env.tableName must be defined');
     }
-
     const dynamoDb = new DynamoDB.DocumentClient();
-    const result = await dynamoDb.query({
+
+    const item = {
+        type: 'movie',
+        uuid: data.Name_Year,
+        genre: data.genre,
+        ratings: null,
+    }
+
+    await dynamoDb.put({
         TableName: process.env.tableName,
-        KeyConditionExpression: '#type = :type',
-        ExpressionAttributeNames: {
-            '#type': 'type'
-        },
-        ExpressionAttributeValues: {
-            ':type': 'movie',
-        },
+        Item: item,
     }).promise();
 
     return {
@@ -23,7 +27,8 @@ module.exports.handle = async event => {
             'Access-Control-Allow-Origin': '*',
             'Access-Control-Allow-Credentials': true,
             },
-        body: JSON.stringify(result.Items),
+        body: JSON.stringify(item),
+        
     }
 }
 
