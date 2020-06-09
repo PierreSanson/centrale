@@ -1,5 +1,5 @@
 const uuid = require('uuid');
-const DynamoDB = require('aws-sdk/clients/dynamodb');
+const DynamoDB = require('aws-sdk/clients/dynamodb'); // "require" est équivalent au "import" de Python
 
 module.exports.handle = async event => {
     const data = JSON.parse(event.body);
@@ -10,10 +10,10 @@ module.exports.handle = async event => {
     const dynamoDb = new DynamoDB.DocumentClient();
 
     const item = {
-        type: 'items',
-        uuid: uuid.v1(),
-        content: data.content,
-        createdAt: Date.now(),
+        type: 'movie',
+        uuid: data.Name_Year,
+        genre: data.genre,
+        ratings: null,
     }
 
     await dynamoDb.put({
