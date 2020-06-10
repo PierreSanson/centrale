@@ -7,27 +7,31 @@ import FilmSearch from "./Pages/FilmSearch/FilmSearch";
 
 const users = [
   {
-    name: "Joséphine"
+    uuid: "Joséphine",
+    user_ratings: { "Assassins (1995)": "4" }
   },
   {
-    name: "Pierre"
+    uuid: "Pierre",
+    user_ratings: { "Assassins (1995)": "3" }
   },
   {
-    name: "Victor"
+    uuid: "Victor",
+    user_ratings: { "Assassins (1995)": "2" }
   }
 ];
 
 
-
 function App() {
-  const [user, setUser] = useState("");
+  const [user, setUser] = useState(null);
 
   const disconnect = () => {
-    setUser("");
+    console.log("disconnect")
+    setUser(null);
   };
 
   const updateUser = (e) => {
-    setUser(e.target.value);
+    console.log("updateuser")
+    setUser(users.find((u) => u.uuid === e.target.value));
   };
   return (
     <Router>
@@ -35,15 +39,15 @@ function App() {
         <div>
           <Link to="/">Accueil</Link>
           <Link to="/films">Liste des films</Link>
-          <Link to="/demo">Recherche films</Link>         
+          <Link to="/demo">Recherche films</Link>
           <select
-            value={user}
+            value={(user || { uuid: "" }).uuid}
             onChange={updateUser}>
             <option value="" disabled>--Choisir un utilisateur--</option>
             {users.map((item) => (
               <option
-                key={item.name}
-                value={item.name}>{item.name}</option>
+                key={item.uuid}
+                value={item.uuid}>{item.uuid}</option>
             ))}
           </select>
           {user
@@ -61,13 +65,14 @@ function App() {
             renders the first one that matches the current URL. */}
         <Switch>
           <Route exact path="/films/:filmId" render={(props) => <FilmPage {...props} user={user} />} />
-          <Route exact path="/films">
+          <Route exact path="/films" render={(props) => <FilmList {...props} />} />
+          {/* <Route exact path="/films">
             <FilmList />
-          </Route>                                                                                                                                                                                                                                               
+          </Route> */}
           <Route exact path="/demo">
             <FilmSearch />
           </Route>
-          <Route exact path="/">
+          <Route path="/">
             <HomePage />
           </Route>
         </Switch>
