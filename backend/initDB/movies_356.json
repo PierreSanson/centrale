@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Wolfpack (2015)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'448': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Trevor Noah: African American (2013)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'111': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Love & Mercy (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'103': '5.0', '318': '4.0', '448': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Hunger Games: Mockingjay - Part 2 (2015)"},
+                       "genre": {"S":"Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'21': '3.5', '62': '3.5', '248': '3.5', '249': '4.0', '292': '4.0', '352': '4.0', '475': '4.0', '567': '1.5', '586': '5.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pixels (2015)"},
+                       "genre": {"S":"Action|Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'111': '4.0', '341': '3.0', '365': '3.0', '382': '2.0', '448': '2.5', '567': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fantastic Beasts and Where to Find Them (2016)"},
+                       "genre": {"S":"Fantasy"},
+                       "movie_ratings": {"S":"{'50': '2.0', '62': '4.0', '68': '4.0', '98': '2.5', '125': '3.5', '210': '4.5', '212': '4.5', '318': '4.5', '352': '4.0', '380': '4.0', '382': '4.0', '517': '3.5', '551': '3.0', '596': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Hairdresser (2010)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'526': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Star Wars Holiday Special (1978)"},
+                       "genre": {"S":"Adventure|Children|Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'514': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mr. Holmes (2015)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'567': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Secret Life of Pets (2016)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'111': '2.5', '125': '3.5', '306': '3.5', '365': '2.5', '382': '3.5', '567': '1.5', '586': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005)"},
+                       "genre": {"S":"Action|Animation|Crime|Sci-Fi"},
+                       "movie_ratings": {"S":"{'50': '3.0', '599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Self/less (2015)"},
+                       "genre": {"S":"Action|Mystery|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'62': '3.5', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Last Witch Hunter (2015)"},
+                       "genre": {"S":"Action|Adventure|Fantasy"},
+                       "movie_ratings": {"S":"{'119': '4.5', '382': '3.5', '534': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Krampus (2015)"},
+                       "genre": {"S":"Comedy|Fantasy|Horror"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Suicide Squad (2016)"},
+                       "genre": {"S":"Action|Crime|Sci-Fi"},
+                       "movie_ratings": {"S":"{'21': '3.5', '62': '4.0', '111': '4.0', '184': '2.5', '365': '4.0', '380': '3.0', '414': '2.0', '448': '3.0', '525': '3.0', '567': '0.5', '596': '3.0', '610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Independence Day: Resurgence (2016)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'125': '2.5', '249': '3.0', '298': '2.5', '448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Star Trek Beyond (2016)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'18': '3.5', '62': '2.5', '249': '4.0', '328': '3.5', '352': '4.0', '365': '2.5', '380': '4.0', '448': '2.5', '551': '4.5', '561': '3.5', '567': '2.5', '586': '4.0', '596': '4.5', '599': '3.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Golmaal (2006)"},
+                       "genre": {"S":"Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bruce Lee: A Warrior's Journey (2000)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Five Element Ninjas (1982)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Magnificent Ruffians (1979)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ted 2 (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'21': '0.5', '111': '2.0', '119': '3.0', '212': '2.0', '298': '1.5', '305': '4.0', '365': '5.0', '448': '4.0', '564': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Absolutely Anything (2015)"},
+                       "genre": {"S":"Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'534': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Minions (2015)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'21': '4.5', '41': '3.0', '50': '1.0', '89': '4.5', '111': '3.5', '119': '4.0', '125': '3.0', '210': '4.0', '249': '3.5', '256': '4.5', '341': '4.0', '365': '1.5', '448': '2.5', '563': '3.5', '567': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Silence of the Hams (1994)"},
+                       "genre": {"S":"Comedy|Thriller"},
+                       "movie_ratings": {"S":"{'89': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

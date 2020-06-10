@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Prophet, A (Un Prophète) (2009)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'326': '4.0', '351': '4.0', '462': '5.0', '560': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Staten Island (2009)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Maiden Heist, The (2009)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'249': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blood: The Last Vampire (2009)"},
+                       "genre": {"S":"Action|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'125': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"MacGyver: Lost Treasure of Atlantis (1994)"},
+                       "genre": {"S":"Action|Adventure"},
+                       "movie_ratings": {"S":"{'18': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pekka ja Pätkä Suezilla (1958)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'489': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bart Got a Room (2008)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'232': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Project A 2 ('A' gai wak juk jap) (1987)"},
+                       "genre": {"S":"Action|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'599': '2.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Robin-B-Hood (Bo bui gai wak) (2006)"},
+                       "genre": {"S":"Action|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Concert, Le (2009)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'560': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ninja (2009)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Asterix at the Olympic Games (Astérix aux jeux olympiques) (2008)"},
+                       "genre": {"S":"Adventure|Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'534': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chaser, The (Chugyeogja) (2008)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Meantime (1984)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rudolph, the Red-Nosed Reindeer (1964)"},
+                       "genre": {"S":"Adventure|Animation|Children|Fantasy|Musical"},
+                       "movie_ratings": {"S":"{'357': '4.0', '514': '4.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dennis the Menace Christmas, A (2007)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'21': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Undisputed II: Last Man Standing (2006)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"3 Idiots (2009)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'105': '4.5', '543': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Legion (2010)"},
+                       "genre": {"S":"Action|Fantasy|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'111': '2.0', '249': '3.0', '274': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stan Helsing (2009)"},
+                       "genre": {"S":"Comedy|Horror"},
+                       "movie_ratings": {"S":"{'274': '1.0', '610': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Peter Pan (1960)"},
+                       "genre": {"S":"Children|Fantasy|Musical"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wicked City (Yôjû toshi) (1987)"},
+                       "genre": {"S":"Animation|Fantasy|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"When in Rome (2010)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'68': '1.0', '111': '4.0', '509': '2.0', '563': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)"},
+                       "genre": {"S":"Documentary|Drama"},
+                       "movie_ratings": {"S":"{'318': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Triangle (2009)"},
+                       "genre": {"S":"Drama|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'62': '3.5', '610': '4.5'}"}
+                   }
+               }
+           }
+   ]
+}

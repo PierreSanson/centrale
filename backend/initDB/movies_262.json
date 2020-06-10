@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"King of Kong, The (2007)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'68': '5.0', '274': '3.5', '318': '4.0', '334': '3.5', '343': '5.0', '414': '4.0', '420': '4.0', '474': '4.0', '514': '4.5', '525': '3.5', '560': '3.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Taxi 4 (2007)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Behind the Mask: The Rise of Leslie Vernon (2006)"},
+                       "genre": {"S":"Comedy|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brothers Solomon, The (2007)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'298': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nines, The (2007)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'28': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Planet Terror (2007)"},
+                       "genre": {"S":"Action|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'52': '5.0', '68': '3.5', '105': '4.0', '111': '3.0', '122': '5.0', '139': '0.5', '212': '4.0', '219': '4.5', '249': '3.5', '274': '4.5', '288': '4.5', '298': '2.5', '305': '5.0', '380': '5.0', '405': '3.5', '414': '3.0', '420': '4.0', '533': '5.0', '560': '4.0', '590': '3.0', '599': '3.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"3:10 to Yuma (2007)"},
+                       "genre": {"S":"Action|Crime|Drama|Western"},
+                       "movie_ratings": {"S":"{'28': '3.5', '52': '5.0', '62': '4.5', '68': '4.5', '105': '3.5', '166': '4.5', '219': '5.0', '226': '4.0', '232': '4.0', '239': '5.0', '247': '3.0', '274': '4.0', '288': '3.0', '305': '3.5', '307': '4.5', '331': '5.0', '339': '5.0', '357': '4.0', '380': '5.0', '414': '4.0', '448': '4.0', '514': '4.0', '560': '3.5', '561': '2.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shoot 'Em Up (2007)"},
+                       "genre": {"S":"Action|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'52': '5.0', '68': '3.5', '219': '1.5', '249': '3.5', '274': '3.5', '305': '4.0', '307': '3.0', '380': '5.0', '414': '3.0', '489': '3.5', '505': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ten, The (2007)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'219': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gotti (1996)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Atonement (2007)"},
+                       "genre": {"S":"Drama|Romance|War"},
+                       "movie_ratings": {"S":"{'68': '2.5', '104': '4.0', '177': '3.5', '280': '4.5', '301': '3.5', '351': '4.5', '358': '5.0', '414': '3.5', '506': '3.0', '517': '4.0', '600': '1.5', '605': '3.0', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Electroma (2006)"},
+                       "genre": {"S":"Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Requiem (2006)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"4 Months, 3 Weeks and 2 Days (4 luni, 3 saptamâni si 2 zile) (2007)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'74': '4.0', '253': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"No End in Sight (2007)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brave One, The (2007)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'28': '2.5', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In the Valley of Elah (2007)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'28': '3.5', '215': '3.0', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"December Boys (2007)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shanghai Kiss (2007)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'68': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hunting Party, The (2007)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'28': '3.0', '464': '2.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Eastern Promises (2007)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'18': '4.5', '28': '4.0', '52': '5.0', '68': '5.0', '74': '5.0', '139': '3.0', '274': '4.0', '298': '2.0', '305': '3.5', '351': '4.5', '356': '4.5', '387': '3.5', '414': '4.0', '425': '3.5', '434': '4.0', '474': '4.0', '560': '4.0', '562': '4.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Unreasonable Man, An (2006)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'462': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tekkonkinkreet (Tekkon kinkurîto) (2006)"},
+                       "genre": {"S":"Action|Adventure|Animation|Crime|Fantasy"},
+                       "movie_ratings": {"S":"{'371': '5.0', '477': '4.5', '523': '5.0', '599': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Love and Other Disasters (2006)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'68': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Interview (2007)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}

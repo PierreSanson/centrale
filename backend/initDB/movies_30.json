@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pompatus of Love, The (1996)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'19': '2.0', '90': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fly Away Home (1996)"},
+                       "genre": {"S":"Adventure|Children"},
+                       "movie_ratings": {"S":"{'6': '4.0', '19': '3.0', '20': '3.5', '27': '4.0', '117': '3.0', '140': '5.0', '217': '4.0', '288': '3.0', '474': '4.0', '481': '3.0', '517': '2.5', '577': '3.0', '605': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bliss (1997)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'84': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Grace of My Heart (1996)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'263': '3.0', '603': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Maximum Risk (1996)"},
+                       "genre": {"S":"Action|Adventure|Thriller"},
+                       "movie_ratings": {"S":"{'160': '1.0', '217': '3.0', '414': '2.0', '492': '4.0', '594': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Michael Collins (1996)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'6': '4.0', '57': '3.0', '160': '2.0', '288': '2.0', '313': '3.0', '391': '4.0', '414': '4.0', '474': '3.0', '480': '4.0', '599': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Infinity (1996)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Big Night (1996)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'33': '5.0', '57': '4.0', '171': '5.0', '201': '4.0', '221': '3.5', '275': '4.0', '414': '4.0', '474': '3.5', '599': '3.0', '603': '5.0', '606': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Man Standing (1996)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'6': '4.0', '28': '2.0', '32': '3.0', '36': '2.5', '42': '2.0', '110': '3.0', '195': '1.0', '368': '2.0', '380': '3.0', '414': '3.0', '492': '3.0', '597': '2.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Set It Off (1996)"},
+                       "genre": {"S":"Action|Crime"},
+                       "movie_ratings": {"S":"{'294': '2.0', '484': '5.0', '597': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"2 Days in the Valley (1996)"},
+                       "genre": {"S":"Crime|Film-Noir"},
+                       "movie_ratings": {"S":"{'6': '2.0', '57': '2.0', '156': '4.0', '182': '3.5', '202': '4.0', '294': '2.0', '313': '4.0', '368': '3.0', '385': '3.0', '387': '3.0', '414': '3.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Extreme Measures (1996)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'382': '3.5', '414': '2.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Glimmer Man, The (1996)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'6': '4.0', '66': '3.0', '71': '3.0', '217': '3.0', '297': '2.0', '492': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"D3: The Mighty Ducks (1996)"},
+                       "genre": {"S":"Children|Comedy"},
+                       "movie_ratings": {"S":"{'45': '2.0', '140': '3.0', '219': '1.5', '226': '3.0', '274': '3.5', '288': '1.0', '294': '1.0', '477': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chamber, The (1996)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'6': '4.0', '458': '4.0', '474': '3.5', '492': '4.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Apple Dumpling Gang, The (1975)"},
+                       "genre": {"S":"Children|Comedy|Western"},
+                       "movie_ratings": {"S":"{'217': '2.0', '226': '3.5', '274': '2.0', '288': '3.5', '304': '3.0', '385': '2.0', '414': '2.0', '474': '2.0', '555': '3.0', '600': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Davy Crockett, King of the Wild Frontier (1955)"},
+                       "genre": {"S":"Adventure|Western"},
+                       "movie_ratings": {"S":"{'288': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Escape to Witch Mountain (1975)"},
+                       "genre": {"S":"Adventure|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'1': '3.0', '51': '3.5', '84': '3.0', '135': '4.0', '186': '4.0', '288': '3.0', '385': '2.0', '414': '2.0', '448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Love Bug, The (1969)"},
+                       "genre": {"S":"Children|Comedy"},
+                       "movie_ratings": {"S":"{'20': '3.0', '27': '2.0', '84': '3.0', '140': '4.0', '288': '3.5', '414': '2.0', '448': '4.0', '474': '3.0', '517': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Herbie Rides Again (1974)"},
+                       "genre": {"S":"Children|Comedy|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'51': '1.5', '84': '3.0', '95': '4.0', '160': '1.0', '234': '5.0', '288': '3.0', '385': '2.0', '448': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Old Yeller (1957)"},
+                       "genre": {"S":"Children|Drama"},
+                       "movie_ratings": {"S":"{'20': '4.0', '103': '4.0', '232': '3.0', '234': '4.0', '288': '3.5', '385': '3.0', '414': '4.0', '590': '3.5', '600': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Parent Trap, The (1961)"},
+                       "genre": {"S":"Children|Comedy|Romance"},
+                       "movie_ratings": {"S":"{'20': '4.0', '84': '3.0', '113': '5.0', '140': '4.0', '288': '3.0', '320': '3.5', '328': '2.0', '342': '2.0', '385': '3.0', '414': '3.0', '474': '3.0', '590': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pollyanna (1960)"},
+                       "genre": {"S":"Children|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'51': '0.5', '113': '5.0', '217': '3.0', '385': '3.0', '414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Homeward Bound: The Incredible Journey (1993)"},
+                       "genre": {"S":"Adventure|Children|Drama"},
+                       "movie_ratings": {"S":"{'20': '3.5', '27': '4.0', '36': '2.0', '92': '4.0', '93': '3.0', '103': '3.0', '109': '3.0', '140': '4.0', '274': '3.5', '288': '2.0', '294': '1.0', '372': '2.0', '380': '4.0', '381': '3.5', '484': '4.0', '509': '3.0', '517': '3.5', '599': '1.5', '600': '2.0', '608': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shaggy Dog, The (1959)"},
+                       "genre": {"S":"Children|Comedy"},
+                       "movie_ratings": {"S":"{'19': '3.0', '217': '2.0', '288': '3.5', '414': '3.0', '474': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

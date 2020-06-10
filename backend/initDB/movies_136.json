@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Millennium (1989)"},
+                       "genre": {"S":"Drama|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'210': '2.0', '325': '2.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Miracle Mile (1989)"},
+                       "genre": {"S":"Drama|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'28': '3.0', '91': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"New York Stories (1989)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'182': '4.5', '275': '3.0', '367': '2.0', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Next of Kin (1989)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'42': '2.0', '91': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"No Holds Barred (1989)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Package, The (1989)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'382': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Penn & Teller Get Killed (1989)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'135': '5.0', '448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pink Cadillac (1989)"},
+                       "genre": {"S":"Action|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'474': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Punisher, The (1989)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'414': '2.0', '599': '2.0', '608': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jurassic Park III (2001)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'20': '1.5', '21': '4.0', '45': '3.0', '68': '2.0', '97': '4.0', '135': '2.0', '160': '0.5', '182': '2.0', '219': '2.0', '232': '3.5', '234': '4.0', '249': '3.0', '274': '2.5', '292': '4.0', '318': '3.0', '331': '2.0', '367': '4.0', '380': '4.0', '382': '3.5', '414': '3.0', '428': '2.0', '438': '2.5', '448': '4.0', '474': '2.0', '477': '3.0', '480': '2.0', '483': '2.0', '484': '4.0', '487': '2.0', '514': '3.0', '527': '5.0', '534': '4.0', '552': '1.0', '606': '2.5', '608': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"America's Sweethearts (2001)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'68': '2.5', '104': '3.0', '108': '3.0', '169': '4.5', '200': '3.0', '298': '0.5', '305': '4.0', '367': '2.0', '414': '1.0', '438': '2.5', '474': '2.5', '480': '1.5', '484': '2.5', '504': '3.5', '525': '2.5', '599': '2.0', '600': '2.0', '605': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brother (2000)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'182': '3.0', '187': '5.0', '414': '3.0', '603': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ghost World (2001)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'4': '1.0', '20': '3.0', '64': '3.5', '89': '2.5', '91': '1.5', '104': '2.5', '122': '4.5', '132': '4.0', '182': '4.0', '187': '4.5', '195': '3.0', '199': '4.0', '221': '4.0', '249': '3.0', '260': '5.0', '298': '3.5', '307': '3.5', '316': '3.0', '318': '4.0', '346': '3.5', '356': '3.0', '387': '4.0', '414': '5.0', '462': '2.5', '474': '4.0', '477': '4.0', '480': '3.5', '503': '4.0', '561': '4.0', '599': '3.0', '600': '4.0', '603': '4.0', '608': '3.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hedwig and the Angry Inch (2000)"},
+                       "genre": {"S":"Comedy|Drama|Musical"},
+                       "movie_ratings": {"S":"{'182': '4.5', '221': '4.5', '253': '4.5', '287': '5.0', '307': '2.0', '356': '5.0', '414': '4.0', '499': '5.0', '525': '4.0', '600': '5.0', '608': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Planet of the Apes (2001)"},
+                       "genre": {"S":"Action|Adventure|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'7': '1.0', '18': '3.0', '20': '3.0', '34': '4.0', '68': '2.0', '69': '4.0', '97': '4.0', '100': '4.0', '119': '4.0', '122': '4.0', '125': '4.0', '132': '1.0', '160': '0.5', '182': '3.0', '186': '4.0', '219': '2.5', '232': '3.0', '249': '3.0', '256': '3.5', '274': '2.0', '288': '3.0', '292': '3.0', '298': '2.0', '307': '3.0', '312': '3.0', '313': '3.0', '318': '3.5', '325': '2.0', '365': '2.5', '380': '3.0', '381': '2.0', '387': '3.0', '414': '4.0', '428': '0.5', '438': '3.0', '448': '1.5', '452': '5.0', '466': '3.5', '477': '3.5', '479': '2.0', '480': '2.5', '483': '1.5', '489': '0.5', '495': '4.0', '590': '2.5', '600': '2.0', '603': '1.0', '608': '3.0', '610': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bread and Tulips (Pane e tulipani) (2000)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'182': '3.5', '474': '3.0', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cure (1997)"},
+                       "genre": {"S":"Crime|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'91': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Greenfingers (2000)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'517': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wet Hot American Summer (2001)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5', '219': '4.0', '232': '2.5', '280': '4.0', '408': '3.5', '414': '2.0', '480': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Return of the Musketeers, The (1989)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Road House (1989)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'42': '3.0', '66': '3.5', '307': '2.0', '414': '4.0', '448': '1.5', '532': '3.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Santa Sangre (1989)"},
+                       "genre": {"S":"Drama|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'50': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scenes from the Class Struggle in Beverly Hills (1989)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sea of Love (1989)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'91': '3.0', '414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"See No Evil, Hear No Evil (1989)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'307': '3.5', '448': '3.0', '599': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Emma (1996)"},
+                       "genre": {"S":"Romance"},
+                       "movie_ratings": {"S":"{'509': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Boxer, The (1997)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'474': '3.0', '480': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gummo (1997)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'88': '3.0', '274': '2.5', '503': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nirvana (1997)"},
+                       "genre": {"S":"Action|Sci-Fi"},
+                       "movie_ratings": {"S":"{'606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lion King II: Simba's Pride, The (1998)"},
+                       "genre": {"S":"Adventure|Animation|Children|Musical|Romance"},
+                       "movie_ratings": {"S":"{'380': '3.0', '509': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"From the Earth to the Moon (1998)"},
+                       "genre": {"S":"Action|Documentary|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beowulf (1999)"},
+                       "genre": {"S":"Action|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'318': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"RKO 281 (1999)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'522': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"From Dusk Till Dawn 2: Texas Blood Money (1999) "},
+                       "genre": {"S":"Comedy|Crime|Horror"},
+                       "movie_ratings": {"S":"{'599': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gia (1998)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'64': '3.5', '424': '3.5', '596': '3.5', '599': '3.5', '600': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Thursday (1998)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'125': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Who Am I? (Wo shi shei) (1998)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'599': '3.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Merlin (1998)"},
+                       "genre": {"S":"Action|Adventure|Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'605': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brave New World (1998)"},
+                       "genre": {"S":"Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Addams Family Reunion (1998)"},
+                       "genre": {"S":"Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'204': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Purgatory (1999)"},
+                       "genre": {"S":"Fantasy|Western"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bleeder (1999)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dark Portals: The Chronicles of Vidocq  (Vidocq) (2001)"},
+                       "genre": {"S":"Action|Crime|Fantasy"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Candyman 3: Day of the Dead (1999)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'562': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Batman/Superman Movie, The (1998)"},
+                       "genre": {"S":"Action|Adventure|Animation|Children|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)"},
+                       "genre": {"S":"Action|Animation|Drama|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'50': '4.0', '184': '4.5', '298': '4.0', '477': '4.5', '599': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Style Wars (1983)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In July (Im Juli) (2000)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kirikou and the Sorceress (Kirikou et la sorcière) (1998)"},
+                       "genre": {"S":"Adventure|Animation|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'318': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Taxi 2 (2000)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'34': '4.5', '67': '5.0', '72': '3.5', '599': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}

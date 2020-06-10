@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"[REC]² (2009)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'380': '3.0', '419': '4.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Room, The (2003)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'184': '5.0', '380': '5.0', '514': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Alice in Wonderland (2010)"},
+                       "genre": {"S":"Adventure|Fantasy|IMAX"},
+                       "movie_ratings": {"S":"{'18': '3.5', '21': '2.5', '22': '0.5', '62': '5.0', '68': '4.0', '98': '2.0', '103': '3.0', '104': '3.0', '105': '4.0', '125': '2.0', '139': '1.5', '177': '3.0', '246': '4.0', '249': '2.5', '274': '3.0', '298': '0.5', '317': '2.0', '318': '3.0', '331': '3.0', '352': '4.0', '408': '3.0', '448': '3.0', '483': '3.5', '484': '4.0', '489': '2.0', '509': '2.5', '525': '2.5', '556': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Town Called Panic, A (Panique au village) (2009)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'318': '4.0', '567': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Green Zone (2010)"},
+                       "genre": {"S":"Action|Drama|Thriller|War"},
+                       "movie_ratings": {"S":"{'88': '4.0', '177': '3.5', '212': '3.0', '249': '3.5', '274': '3.5', '305': '4.0', '318': '4.0', '448': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"From Paris with Love (2010)"},
+                       "genre": {"S":"Action|Crime"},
+                       "movie_ratings": {"S":"{'274': '3.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dorian Gray (2009)"},
+                       "genre": {"S":"Drama|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'305': '2.5', '380': '3.0', '483': '3.0', '509': '3.0', '563': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Greenberg (2010)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'298': '2.5', '448': '2.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"She's Out of My League (2010)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'68': '5.0', '89': '3.0', '111': '3.5', '159': '4.0', '249': '4.0', '298': '0.5', '490': '1.0', '564': '4.0', '601': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Harry Brown (2009)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'18': '4.0', '380': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Remember Me (2010)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Burrowers, The (2008)"},
+                       "genre": {"S":"Horror|Thriller|Western"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Frozen (2010)"},
+                       "genre": {"S":"Drama|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'80': '3.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Generation X (1996)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Little Ashes (2008)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'578': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Our Family Wedding (2010)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bounty Hunter, The (2010)"},
+                       "genre": {"S":"Action|Comedy|Romance"},
+                       "movie_ratings": {"S":"{'73': '3.0', '111': '3.0', '306': '3.0', '448': '2.0', '528': '2.5', '563': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Leaves of Grass (2009)"},
+                       "genre": {"S":"Comedy|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'249': '3.0', '305': '3.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Women in Trouble (2009)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mondo Cane (1962)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Repo Men (2010)"},
+                       "genre": {"S":"Action|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'125': '4.5', '249': '3.5', '274': '3.5', '339': '4.5', '380': '3.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Case 39 (2009)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'599': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Oceans (Océans) (2009)"},
+                       "genre": {"S":"Documentary|Drama"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Slammin' Salmon, The (2009)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'298': '2.5', '522': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hot Tub Time Machine (2010)"},
+                       "genre": {"S":"Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'18': '3.0', '111': '4.5', '125': '3.5', '249': '3.5', '274': '3.5', '298': '3.0', '317': '2.0', '318': '3.5', '365': '4.0', '414': '3.5', '448': '2.0', '462': '4.0', '483': '4.0', '599': '2.0', '610': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

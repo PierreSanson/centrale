@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Principal, The (1987)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'414': '4.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rollerball (1975)"},
+                       "genre": {"S":"Action|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'182': '3.5', '288': '3.0', '448': '5.0', '580': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Adventures of Pluto Nash, The (2002)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'222': '2.5', '438': '2.5', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blue Crush (2002)"},
+                       "genre": {"S":"Adventure|Drama|Romance"},
+                       "movie_ratings": {"S":"{'111': '3.5', '200': '3.0', '263': '3.0', '298': '0.5', '307': '2.5', '414': '3.0', '438': '3.0', '563': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mostly Martha (Bella Martha) (2001)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Possession (2002)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'165': '3.0', '287': '2.5', '474': '4.0', '594': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"One Hour Photo (2002)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'45': '5.0', '64': '3.5', '111': '3.0', '165': '3.0', '182': '3.5', '274': '3.5', '288': '4.0', '298': '0.5', '380': '4.0', '425': '3.0', '427': '4.5', '428': '4.0', '448': '4.0', '474': '4.0', '480': '2.5', '599': '2.5', '600': '3.0', '608': '4.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Serving Sara (2002)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'89': '4.0', '414': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Simone (S1m0ne) (2002)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'165': '2.0', '182': '3.5', '298': '0.5', '448': '2.5', '489': '0.5', '599': '2.5', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Undisputed (2002)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'387': '3.0', '414': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Amy's O (a.k.a. Amy's Orgasm) (2001)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'432': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Satin Rouge (2002)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'391': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Care Bears Movie, The (1985)"},
+                       "genre": {"S":"Animation|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'307': '2.0', '313': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Care Bears Movie II: A New Generation (1986)"},
+                       "genre": {"S":"Animation|Children"},
+                       "movie_ratings": {"S":"{'307': '2.0', '313': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Clash of the Titans (1981)"},
+                       "genre": {"S":"Action|Adventure|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'186': '4.0', '287': '2.5', '313': '5.0', '325': '3.0', '414': '3.0', '448': '4.0', '527': '5.0', '599': '2.5', '600': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hot Shots! (1991)"},
+                       "genre": {"S":"Action|Comedy|Romance|War"},
+                       "movie_ratings": {"S":"{'68': '3.0', '78': '3.0', '104': '3.5', '222': '2.5', '226': '3.5', '380': '4.0', '387': '2.0', '391': '3.0', '414': '3.0', '448': '4.0', '474': '2.0', '483': '3.5', '489': '2.5', '561': '4.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Swarm, The (1978)"},
+                       "genre": {"S":"Action|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'288': '2.0', '514': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Time After Time (1979)"},
+                       "genre": {"S":"Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'288': '3.5', '303': '3.5', '313': '4.0', '325': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Down and Out in Beverly Hills (1986)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'66': '4.5', '414': '3.0', '448': '3.0', '474': '2.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Love Me Tender (1956)"},
+                       "genre": {"S":"Musical|Western"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stakeout (1987)"},
+                       "genre": {"S":"Comedy|Crime|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'68': '3.0', '140': '4.0', '307': '2.0', '325': '3.0', '414': '4.0', '448': '3.0', '479': '3.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"FearDotCom (a.k.a. Fear.com) (a.k.a. Fear Dot Com) (2002)"},
+                       "genre": {"S":"Crime|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'274': '1.0', '307': '2.0', '599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"À nous la liberté (Freedom for Us) (1931)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'527': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Snipes (2001)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'414': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"City by the Sea (2002)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'140': '3.0', '414': '3.5', '438': '2.0'}"}
+                   }
+               }
+           }
+   ]
+}

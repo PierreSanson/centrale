@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Deal, The (2008)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Goods: Live Hard, Sell Hard, The (2009)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.0', '222': '4.5', '232': '3.5', '448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Time Traveler's Wife, The (2009)"},
+                       "genre": {"S":"Drama|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'122': '4.0', '177': '3.5', '358': '4.5', '517': '4.0', '563': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Can't Think Straight (2007)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'596': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Miss March (2009)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '3.5', '298': '0.5', '564': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Love You, Beth Cooper (2009)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'298': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Paper Heart (2009)"},
+                       "genre": {"S":"Comedy|Documentary|Drama|Romance"},
+                       "movie_ratings": {"S":"{'358': '1.0', '477': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"G-Force (2009)"},
+                       "genre": {"S":"Action|Adventure|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Christopher Columbus: The Discovery (1992)"},
+                       "genre": {"S":"Adventure"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tetro (2009)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'405': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bronson (2009)"},
+                       "genre": {"S":"Action|Comedy|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'103': '4.0', '305': '4.0', '599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"It Might Get Loud (2008)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'414': '4.5', '525': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"My Life in Ruins (2009)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'563': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Troll 2 (1990)"},
+                       "genre": {"S":"Fantasy|Horror"},
+                       "movie_ratings": {"S":"{'3': '5.0', '382': '0.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Taking Woodstock (2009)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'280': '2.0', '318': '3.5', '448': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"If These Walls Could Talk (1996)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'68': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Halloween II (2009)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'274': '3.5', '380': '1.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Secret in Their Eyes, The (El secreto de sus ojos) (2009)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'41': '4.0', '105': '4.0', '168': '4.5', '308': '1.0', '326': '4.5', '448': '4.0', '483': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"9 (2009)"},
+                       "genre": {"S":"Adventure|Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'15': '4.0', '111': '1.5', '125': '4.0', '210': '3.5', '232': '3.5', '274': '3.5', '318': '4.0', '352': '4.5', '381': '5.0', '477': '4.0', '509': '4.0', '560': '2.5', '596': '4.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Frequently Asked Questions About Time Travel (2009)"},
+                       "genre": {"S":"Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'28': '2.5', '62': '4.5', '249': '4.0', '318': '3.0', '408': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"White Ribbon, The (Das weiﬂe Band) (2009)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'18': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Green Lantern: First Flight (2009)"},
+                       "genre": {"S":"Action|Adventure|Animation|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'380': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Most Hated Family in America, The (2007)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '4.0', '419': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pandorum (2009)"},
+                       "genre": {"S":"Horror|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'28': '3.5', '80': '4.0', '298': '2.0', '305': '4.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Death of a Cyclist (Muerte de un ciclista) (1955)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'318': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

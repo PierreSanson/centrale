@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Body Double (1984)"},
+                       "genre": {"S":"Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'387': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chaplin (1992)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5', '480': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Miracle Worker, The (1962)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'288': '3.5', '474': '4.0', '488': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Monster in a Box (1992)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'462': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"School Ties (1992)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'66': '3.0', '215': '2.5', '307': '2.5', '474': '3.5', '599': '2.5', '606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Raising Cain (1992)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'307': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rose Red (2002)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'274': '4.0', '474': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Noises Off... (1992)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'66': '4.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Babylon 5: In the Beginning (1998)"},
+                       "genre": {"S":"Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'28': '2.0', '210': '4.0', '287': '0.5', '474': '4.0', '580': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Witchfinder General (Conquerer Worm, The) (1968)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'91': '3.5', '387': '2.0', '594': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Versus (2000)"},
+                       "genre": {"S":"Action|Comedy|Fantasy|Horror"},
+                       "movie_ratings": {"S":"{'599': '3.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pride and Prejudice (1995)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'76': '1.5', '83': '4.0', '246': '5.0', '280': '4.5', '357': '5.0', '390': '4.5', '509': '4.0', '517': '0.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"China Syndrome, The (1979)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'182': '3.5', '221': '4.0', '387': '4.0', '474': '3.5', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wages of Fear, The (Salaire de la peur, Le) (1953)"},
+                       "genre": {"S":"Action|Adventure|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'50': '4.0', '387': '4.0', '420': '4.0', '474': '4.0', '580': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Look Who's Talking Too (1990)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'21': '2.5', '64': '3.0', '274': '3.0', '307': '0.5', '477': '0.5', '599': '2.0', '608': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bells of St. Mary's, The (1945)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Delta Force, The (1986)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pat and Mike (1952)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Animal Crackers (1930)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'28': '4.0', '377': '4.0', '387': '4.0', '448': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"He Said, She Said (1991)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bedazzled (1967)"},
+                       "genre": {"S":"Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'307': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cat People (1942)"},
+                       "genre": {"S":"Drama|Horror|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Camelot (1967)"},
+                       "genre": {"S":"Drama|Musical|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lonely Guy, The (1984)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Four Musketeers, The (1974)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Romance"},
+                       "movie_ratings": {"S":"{'292': '3.5', '488': '3.0', '599': '0.5', '606': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

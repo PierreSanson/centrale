@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Two Days, One Night (Deux jours, une nuit) (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'567': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Coherence (2013)"},
+                       "genre": {"S":"Drama|Mystery|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'62': '4.0', '125': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"As Above, So Below (2014)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"One I Love, The (2014)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'598': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Headshot (2011)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Guest, The (2014)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pride (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '4.0', '596': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Honeymoon (2014)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Drop (2014)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'2': '2.0', '18': '3.5', '448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"20,000 Days on Earth (2014)"},
+                       "genre": {"S":"Documentary|Drama|Musical"},
+                       "movie_ratings": {"S":"{'18': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Skeleton Twins (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'73': '3.0', '249': '4.0', '448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beautiful Losers (2008)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Maze Runner, The (2014)"},
+                       "genre": {"S":"Action|Mystery|Sci-Fi"},
+                       "movie_ratings": {"S":"{'21': '3.5', '62': '3.5', '104': '4.0', '184': '2.5', '212': '2.0', '249': '4.0', '292': '3.0', '339': '3.5', '344': '3.0', '352': '4.5', '443': '3.0', '448': '1.0', '534': '2.5', '567': '1.0', '599': '2.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Camp X-Ray (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'119': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Walk Among the Tombstones, A (2014)"},
+                       "genre": {"S":"Action|Crime|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'305': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Laggies (2014)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'598': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"La cravate (1957)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cesar Chavez (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'567': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Who Am I (Kein System Ist Sicher) (2014)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'365': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tale of Princess Kaguya, The (Kaguyahime no monogatari) (2013)"},
+                       "genre": {"S":"Animation|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'567': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"This Is Where I Leave You (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '2.0', '563': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Angel's Egg (Tenshi no tamago) (1985)"},
+                       "genre": {"S":"Animation|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'567': '3.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"American Sniper (2014)"},
+                       "genre": {"S":"Action|War"},
+                       "movie_ratings": {"S":"{'62': '4.0', '119': '5.0', '122': '3.5', '154': '4.0', '177': '4.5', '184': '3.0', '298': '2.5', '305': '5.0', '317': '2.0', '339': '4.0', '341': '4.5', '414': '3.5', '448': '4.0', '551': '4.0', '563': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tusk (2014)"},
+                       "genre": {"S":"Comedy|Drama|Horror"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hector and the Search for Happiness (2014)"},
+                       "genre": {"S":"Adventure|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'62': '4.5', '318': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scenes from a Mall (1991)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'482': '1.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Confidence (2003)"},
+                       "genre": {"S":"Crime|Thriller"},
+                       "movie_ratings": {"S":"{'160': '1.0', '307': '2.0', '414': '4.0', '438': '4.0', '483': '4.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Identity (2003)"},
+                       "genre": {"S":"Crime|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'51': '4.5', '64': '3.5', '68': '2.5', '80': '4.0', '132': '3.0', '182': '3.5', '226': '4.0', '274': '4.0', '307': '3.0', '357': '3.5', '380': '5.0', '414': '3.5', '424': '4.5', '425': '4.0', '474': '3.0', '477': '4.0', '510': '1.5', '518': '4.5', '562': '4.5', '570': '4.0', '608': '4.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"It Runs in the Family (2003)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'169': '2.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Decade Under the Influence, A (2003)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'91': '3.5', '289': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Manic (2001)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'318': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"People I Know (2002)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'182': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spellbound (2002)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'64': '4.5', '169': '5.0', '223': '4.0', '232': '3.0', '260': '4.5', '263': '3.5', '287': '4.0', '357': '4.5', '414': '4.0', '448': '3.5', '474': '4.0', '525': '4.5', '608': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lizzie McGuire Movie, The (2003)"},
+                       "genre": {"S":"Children|Comedy|Romance"},
+                       "movie_ratings": {"S":"{'143': '4.5', '177': '2.5', '382': '3.0', '414': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"X2: X-Men United (2003)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'7': '4.0', '18': '4.0', '20': '4.0', '28': '2.5', '34': '5.0', '45': '5.0', '48': '3.5', '62': '3.0', '64': '3.5', '66': '4.0', '68': '4.5', '73': '5.0', '91': '4.0', '95': '4.0', '105': '4.0', '122': '4.5', '129': '4.5', '132': '3.0', '139': '2.5', '166': '4.5', '167': '4.5', '177': '3.5', '182': '1.5', '190': '3.0', '200': '4.0', '219': '3.0', '220': '5.0', '230': '3.5', '232': '3.5', '239': '4.0', '249': '3.5', '254': '3.5', '263': '3.0', '274': '4.0', '288': '3.5', '298': '2.5', '303': '5.0', '311': '3.0', '328': '0.5', '330': '4.0', '332': '3.5', '356': '3.0', '365': '3.0', '380': '5.0', '381': '3.0', '387': '2.5', '393': '5.0', '399': '5.0', '414': '4.0', '420': '3.5', '425': '3.0', '428': '2.0', '430': '4.0', '432': '4.0', '434': '4.0', '438': '4.0', '448': '4.0', '471': '2.5', '474': '5.0', '475': '4.0', '477': '4.0', '480': '4.0', '490': '2.5', '518': '4.5', '534': '4.0', '567': '2.5', '570': '4.0', '573': '4.0', '580': '4.5', '586': '5.0', '590': '3.5', '594': '4.5', '596': '4.0', '599': '3.0', '608': '4.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blue Car (2002)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'182': '2.5', '414': '4.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dancer Upstairs, The (2002)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'182': '4.5', '414': '4.0', '474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Marooned in Iraq (Gomgashtei dar Aragh) (2002)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Owning Mahowny (2003)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'260': '3.0', '288': '3.5', '414': '4.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Daddy Day Care (2003)"},
+                       "genre": {"S":"Children|Comedy"},
+                       "movie_ratings": {"S":"{'82': '3.5', '177': '2.5', '232': '3.0', '249': '2.5', '298': '0.5', '380': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Man on the Train (Homme du train, L') (2002)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'169': '4.0', '414': '3.5', '474': '3.5', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shape of Things, The (2003)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'182': '4.0', '414': '3.0', '474': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Trip, The (2002)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'580': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"101 Reykjavik (101 Reykjavík) (2000)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'390': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chorus Line, A (1985)"},
+                       "genre": {"S":"Comedy|Drama|Musical"},
+                       "movie_ratings": {"S":"{'20': '5.0', '169': '5.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beat Street (1984)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'427': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Breakin' 2: Electric Boogaloo (1984)"},
+                       "genre": {"S":"Musical"},
+                       "movie_ratings": {"S":"{'427': '0.5', '448': '2.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Breakin' (1984)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'414': '3.0', '427': '1.0', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)"},
+                       "genre": {"S":"Action|Adventure|Animation|Children|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'16': '3.5', '17': '5.0', '24': '4.5', '63': '4.5', '105': '4.0', '132': '2.0', '187': '5.0', '212': '4.0', '246': '4.5', '298': '3.0', '307': '4.0', '334': '3.5', '380': '5.0', '387': '4.0', '390': '5.0', '474': '4.0', '477': '4.5', '483': '4.0', '489': '3.0', '509': '3.5', '523': '4.0', '596': '4.5', '600': '4.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"High Society (1956)"},
+                       "genre": {"S":"Comedy|Musical|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.0', '590': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Big Momma's House 2 (2006)"},
+                       "genre": {"S":"Action|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nanny McPhee (2005)"},
+                       "genre": {"S":"Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'177': '4.0', '380': '3.0', '480': '2.5', '509': '3.5', '517': '3.0', '605': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tuskegee Airmen, The (1995)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Final Destination 3 (2006)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'213': '3.5', '232': '3.0', '249': '3.0', '274': '1.5', '307': '1.0', '380': '3.0', '419': '3.0', '573': '4.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Something New (2006)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'553': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Block Party (a.k.a. Dave Chappelle's Block Party) (2005)"},
+                       "genre": {"S":"Comedy|Documentary"},
+                       "movie_ratings": {"S":"{'438': '3.0', '480': '3.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Imagine Me & You (2005)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'596': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pink Panther, The (2006)"},
+                       "genre": {"S":"Adventure|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'125': '2.0', '232': '1.5', '351': '2.5', '380': '3.0', '388': '4.0', '509': '3.5', '534': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Curious George (2006)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'288': '3.0', '318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Firewall (2006)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'232': '3.0', '249': '3.0', '274': '3.5', '380': '3.0', '414': '2.5', '448': '1.5', '480': '3.0', '590': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"When a Stranger Calls (2006)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'175': '0.5', '232': '2.0', '274': '1.0', '387': '2.0', '599': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"London (2005)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Freedomland (2006)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'414': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Winter Passing (2005)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'480': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Eight Below (2006)"},
+                       "genre": {"S":"Action|Adventure|Drama|Romance"},
+                       "movie_ratings": {"S":"{'140': '3.0', '232': '3.5', '274': '2.0', '414': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Date Movie (2006)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'232': '0.5', '249': '1.0', '307': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Running Scared (2006)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'28': '3.0', '274': '4.0', '414': '3.0', '425': '4.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ultraviolet (2006)"},
+                       "genre": {"S":"Action|Fantasy|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'28': '3.0', '232': '2.5', '274': '2.5', '380': '1.0', '414': '2.5', '438': '0.5', '489': '0.5', '509': '2.0', '534': '3.5', '596': '2.5', '599': '0.5', '608': '2.0', '610': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Just My Luck (2006)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'563': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pulse (2006)"},
+                       "genre": {"S":"Action|Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'232': '2.0', '274': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"16 Blocks (2006)"},
+                       "genre": {"S":"Crime|Thriller"},
+                       "movie_ratings": {"S":"{'28': '2.5', '177': '3.0', '219': '2.5', '237': '3.0', '249': '3.0', '271': '2.5', '380': '4.0', '414': '3.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Failure to Launch (2006)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'68': '3.0', '111': '4.0', '232': '3.0', '274': '3.5', '307': '2.0', '365': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ultimate Avengers (2006)"},
+                       "genre": {"S":"Action|Animation|Children|Sci-Fi"},
+                       "movie_ratings": {"S":"{'380': '3.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ice Age 2: The Meltdown (2006)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'18': '3.5', '21': '3.5', '50': '1.5', '68': '3.5', '89': '1.0', '105': '4.0', '111': '3.0', '119': '3.5', '132': '2.0', '177': '2.5', '232': '3.0', '249': '3.5', '256': '4.0', '274': '3.5', '361': '4.0', '381': '3.5', '388': '4.5', '414': '2.5', '475': '4.0', '480': '3.0', '509': '3.0', '580': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ask the Dust (2006)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

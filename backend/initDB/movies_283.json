@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brüno (Bruno) (2009)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'68': '4.0', '122': '4.5', '232': '2.5', '274': '4.0', '318': '4.0', '339': '4.5', '381': '2.0', '448': '3.0', '573': '4.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Librarian, The: The Curse of the Judas Chalice (2008)"},
+                       "genre": {"S":"Action|Adventure|Fantasy"},
+                       "movie_ratings": {"S":"{'534': '4.0', '605': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Harry Potter and the Half-Blood Prince (2009)"},
+                       "genre": {"S":"Adventure|Fantasy|Mystery|Romance|IMAX"},
+                       "movie_ratings": {"S":"{'10': '3.0', '21': '4.0', '62': '4.5', '68': '4.0', '83': '3.5', '103': '1.5', '105': '4.0', '106': '5.0', '111': '4.0', '114': '2.0', '139': '3.0', '141': '4.0', '148': '4.0', '154': '5.0', '177': '5.0', '190': '5.0', '205': '4.0', '210': '4.5', '212': '3.5', '213': '2.5', '232': '3.5', '247': '5.0', '249': '4.0', '274': '3.5', '291': '5.0', '292': '4.0', '298': '3.0', '305': '3.0', '318': '3.5', '319': '4.5', '328': '4.0', '339': '2.5', '352': '4.0', '357': '4.5', '358': '3.5', '365': '2.5', '380': '4.0', '381': '5.0', '382': '4.5', '414': '3.5', '418': '3.0', '426': '5.0', '466': '4.5', '475': '5.0', '483': '4.0', '490': '3.0', '491': '5.0', '517': '3.0', '525': '4.0', '537': '4.0', '538': '4.0', '556': '3.5', '582': '4.5', '590': '4.0', '596': '3.5', '605': '4.5', '606': '4.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Roots (1977)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'28': '3.5', '462': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Eichmann (2007)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'419': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Open Water 2: Adrift (2006)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'68': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Imaginarium of Doctor Parnassus, The (2009)"},
+                       "genre": {"S":"Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'18': '3.5', '86': '4.5', '246': '4.5', '249': '4.0', '274': '4.0', '305': '2.5', '318': '3.5', '352': '4.0', '381': '3.5', '414': '4.5', '448': '3.5', '477': '4.0', '483': '5.0', '489': '3.0', '560': '4.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn) (2008)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Humpday (2009)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'104': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Polytechnique (2009)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'567': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Orphan (2009)"},
+                       "genre": {"S":"Drama|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'177': '2.5', '305': '4.0', '326': '3.5', '380': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ugly Truth, The (2009)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'10': '3.0', '68': '5.0', '111': '3.0', '143': '4.0', '177': '4.0', '232': '3.0', '249': '3.5', '484': '4.0', '509': '3.5', '534': '3.5', '563': '3.5', '564': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Collector, The (2009)"},
+                       "genre": {"S":"Crime|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Perfect Getaway, A (2009)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"District 9 (2009)"},
+                       "genre": {"S":"Mystery|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'15': '3.5', '18': '3.5', '21': '3.5', '22': '0.5', '24': '4.0', '28': '4.5', '29': '4.0', '49': '4.0', '52': '5.0', '68': '4.0', '73': '3.5', '80': '4.5', '83': '3.5', '105': '4.0', '112': '3.5', '119': '4.5', '125': '4.0', '139': '0.5', '177': '2.5', '196': '2.0', '203': '4.0', '204': '4.0', '210': '4.0', '211': '2.5', '213': '4.0', '227': '5.0', '232': '3.5', '233': '3.0', '246': '4.5', '249': '4.0', '256': '4.0', '258': '4.5', '274': '3.5', '279': '4.0', '292': '2.0', '305': '4.5', '317': '2.0', '318': '3.0', '328': '3.0', '330': '4.0', '339': '3.0', '365': '2.0', '380': '5.0', '381': '3.5', '393': '5.0', '414': '4.5', '434': '5.0', '441': '4.5', '448': '3.5', '475': '5.0', '477': '4.5', '495': '5.0', '509': '3.5', '522': '4.5', '525': '4.0', '543': '5.0', '560': '4.0', '561': '3.5', '567': '3.0', '573': '5.0', '590': '4.0', '596': '4.5', '599': '3.0', '601': '4.5', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Julie & Julia (2009)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'10': '0.5', '41': '3.0', '68': '4.0', '73': '3.5', '177': '4.5', '256': '3.0', '381': '4.0', '489': '3.0', '505': '2.0', '517': '1.0', '525': '3.5', '563': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Obsessed (2009)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'232': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Race to Witch Mountain (2009)"},
+                       "genre": {"S":"Adventure|Children|Fantasy|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'408': '3.5', '534': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hannah Montana: The Movie (2009)"},
+                       "genre": {"S":"Comedy|Drama|Musical|Romance"},
+                       "movie_ratings": {"S":"{'232': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"G.I. Joe: The Rise of Cobra (2009)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'28': '1.5', '68': '2.0', '177': '3.0', '232': '2.5', '249': '3.0', '414': '2.5', '534': '3.0', '562': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"12 Rounds (2009)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'249': '3.0', '292': '3.0', '380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Max Manus (2008)"},
+                       "genre": {"S":"Action|Drama|War"},
+                       "movie_ratings": {"S":"{'326': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Winds of the Wasteland (1936)"},
+                       "genre": {"S":"Western"},
+                       "movie_ratings": {"S":"{'68': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lost in Austen (2008)"},
+                       "genre": {"S":"Drama|Fantasy|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'68': '4.0', '509': '4.0', '605': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Evangelion: 1.0 You Are (Not) Alone (Evangerion shin gekijôban: Jo) (2007)"},
+                       "genre": {"S":"Action|Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'184': '3.5', '318': '4.0', '599': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

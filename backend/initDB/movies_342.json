@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Crippled Avengers (Can que) (Return of the 5 Deadly Venoms) (1981)"},
+                       "genre": {"S":"Action|Adventure"},
+                       "movie_ratings": {"S":"{'610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mr Hublot (2013)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Copenhagen (2014)"},
+                       "genre": {"S":"Adventure|Drama|Romance"},
+                       "movie_ratings": {"S":"{'414': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Simpsons: The Longest Daycare, The (2012)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'21': '3.5', '105': '4.5', '380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Generation War (2013)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'339': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Christmas in Connecticut (1992)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Leviathan (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'298': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Reign of Assassins (2010)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Zulu (2013)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tangerines (2013)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Life Partners (2014)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Drive Hard (2014)"},
+                       "genre": {"S":"Action|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"New Kids Nitro (2011)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'318': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stalingrad (2013)"},
+                       "genre": {"S":"Action|Drama|War|IMAX"},
+                       "movie_ratings": {"S":"{'534': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dead Snow 2: Red vs. Dead (2014) "},
+                       "genre": {"S":"Action|Comedy|Horror"},
+                       "movie_ratings": {"S":"{'534': '3.5', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Volga - Volga (1938)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"You Are the Apple of My Eye (2011)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'534': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"DeadHeads (2011)"},
+                       "genre": {"S":"Adventure|Comedy|Horror"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Imitation Game (2014)"},
+                       "genre": {"S":"Drama|Thriller|War"},
+                       "movie_ratings": {"S":"{'18': '4.5', '21': '2.5', '25': '5.0', '50': '2.5', '62': '4.5', '65': '4.5', '68': '3.5', '98': '5.0', '105': '4.0', '119': '5.0', '123': '4.5', '148': '4.5', '177': '4.0', '184': '4.0', '210': '5.0', '212': '3.0', '227': '4.5', '241': '3.0', '247': '4.0', '249': '4.0', '256': '4.0', '305': '5.0', '317': '2.0', '318': '3.5', '323': '4.5', '326': '4.5', '331': '4.0', '339': '4.0', '365': '3.0', '366': '4.5', '378': '4.0', '408': '4.0', '414': '4.0', '418': '4.5', '462': '3.5', '466': '4.5', '471': '3.0', '475': '4.5', '487': '4.5', '515': '5.0', '517': '4.0', '523': '5.0', '525': '4.0', '550': '4.5', '551': '4.0', '560': '3.0', '567': '3.0', '581': '4.0', '582': '3.5', '601': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Inherent Vice (2014)"},
+                       "genre": {"S":"Comedy|Crime|Drama|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'103': '4.0', '122': '4.0', '318': '4.0', '448': '2.5', '599': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rudderless (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Hunger Games: Mockingjay - Part 1 (2014)"},
+                       "genre": {"S":"Adventure|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.5', '21': '3.5', '30': '4.0', '62': '4.0', '68': '4.0', '73': '4.0', '119': '4.0', '177': '5.0', '190': '4.0', '248': '3.5', '249': '4.0', '292': '4.5', '318': '2.5', '352': '4.0', '443': '5.0', '475': '4.0', '495': '4.5', '509': '3.5', '525': '3.0', '561': '2.5', '586': '4.5', '596': '3.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sex Ed (2014)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Exodus: Gods and Kings (2014)"},
+                       "genre": {"S":"Action|Adventure|Drama"},
+                       "movie_ratings": {"S":"{'382': '3.5', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wild Tales (2014)"},
+                       "genre": {"S":"Comedy|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'41': '5.0', '62': '4.0', '89': '2.5', '105': '5.0', '125': '4.5', '152': '3.5', '241': '4.5', '318': '4.5', '326': '4.0', '445': '5.0'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Starship Troopers 2: Hero of the Federation (2004)"},
+                       "genre": {"S":"Action|Horror|Sci-Fi|War"},
+                       "movie_ratings": {"S":"{'28': '2.0', '380': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ong-Bak: The Thai Warrior (Ong Bak) (2003)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'34': '5.0', '64': '3.5', '249': '4.0', '274': '4.0', '305': '4.5', '332': '3.5', '380': '4.0', '414': '4.0', '438': '4.5', '525': '3.5', '599': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Infernal Affairs 2 (Mou gaan dou II) (2003)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sea Inside, The (Mar adentro) (2004)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '4.0', '233': '3.0', '241': '4.5', '326': '4.5', '346': '3.5', '474': '3.0', '489': '5.0', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spanglish (2004)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'62': '4.0', '177': '3.0', '232': '3.0', '298': '2.5', '381': '3.5', '414': '3.5', '438': '4.0', '477': '4.0', '482': '2.0', '491': '4.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chorus, The (Choristes, Les) (2004)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '4.5', '132': '3.0', '221': '3.5', '318': '3.5', '381': '4.5', '390': '4.5', '474': '3.5', '483': '5.0', '509': '3.5', '560': '2.5', '606': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Saints and Soldiers (2003)"},
+                       "genre": {"S":"Action|Adventure|Drama|War"},
+                       "movie_ratings": {"S":"{'232': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Story of the Weeping Camel, The (Geschichte vom weinenden Kamel, Die) (2003)"},
+                       "genre": {"S":"Documentary|Drama"},
+                       "movie_ratings": {"S":"{'221': '4.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Interpreter, The (2005)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'140': '4.0', '232': '3.0', '352': '3.0', '414': '3.5', '480': '3.5', '606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Open Water (2003)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'274': '1.0', '287': '1.0', '380': '4.0', '414': '3.0', '419': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Touch of Pink (2004)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Slasher (2004)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bobby Jones, Stroke of Genius (2004)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'480': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Layer Cake (2004)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.5', '28': '3.5', '55': '5.0', '61': '4.0', '62': '4.5', '68': '3.0', '122': '4.5', '200': '4.5', '219': '4.0', '274': '4.0', '380': '4.0', '387': '3.0', '414': '4.0', '438': '3.5', '448': '3.5', '553': '4.0', '590': '3.5', '599': '3.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Return, The (Vozvrashcheniye) (2003)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '4.5', '221': '4.5', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Flight of the Phoenix (2004)"},
+                       "genre": {"S":"Action|Adventure"},
+                       "movie_ratings": {"S":"{'232': '3.0', '274': '3.0', '414': '3.0', '480': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mean Creek (2004)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'307': '3.0', '474': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ring Two, The (2005)"},
+                       "genre": {"S":"Drama|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'232': '2.0', '274': '1.5', '380': '2.0', '480': '2.5', '608': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Corporation, The (2003)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'63': '3.5', '187': '4.0', '221': '5.0', '227': '4.0', '254': '4.0', '414': '4.0', '428': '4.0', '462': '4.0', '474': '3.5', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Yes Men, The (2003)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'187': '4.0', '462': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Azumi (2003)"},
+                       "genre": {"S":"Action|Adventure|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'187': '2.0', '599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In My Father's Den (2004)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'326': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004)"},
+                       "genre": {"S":"Action|Drama|War"},
+                       "movie_ratings": {"S":"{'64': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Metallica: Some Kind of Monster (2004)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'91': '2.5', '414': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Born into Brothels (2004)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'18': '4.5', '462': '3.0', '474': '4.0', '525': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

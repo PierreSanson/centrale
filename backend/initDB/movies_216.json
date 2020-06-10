@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hunchback of Notre Dame, The (1923)"},
+                       "genre": {"S":"Drama|Horror"},
+                       "movie_ratings": {"S":"{'177': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sherlock Jr. (1924)"},
+                       "genre": {"S":"Comedy|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'177': '2.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Freshman, The (1925)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Greed (1924)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jazz Singer, The (1927)"},
+                       "genre": {"S":"Drama|Musical|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Steamboat Bill, Jr. (1928)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Andalusian Dog, An (Chien andalou, Un) (1929)"},
+                       "genre": {"S":"Fantasy"},
+                       "movie_ratings": {"S":"{'177': '4.0', '377': '5.0', '405': '4.0', '567': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Little Caesar (1931)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'221': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Boudu Saved From Drowning (Boudu sauvé des eaux) (1932)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'567': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scarface (1932)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'187': '4.0', '462': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dinner at Eight (1933)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gold Diggers of 1933 (1933)"},
+                       "genre": {"S":"Musical"},
+                       "movie_ratings": {"S":"{'177': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Atalante, L' (1934)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fury (1936)"},
+                       "genre": {"S":"Drama|Film-Noir"},
+                       "movie_ratings": {"S":"{'187': '4.5', '474': '4.5', '580': '0.5', '590': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Libeled Lady (1936)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mr. Deeds Goes to Town (1936)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'177': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Camille (1936)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Captains Courageous (1937)"},
+                       "genre": {"S":"Adventure|Drama"},
+                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stage Door (1937)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'221': '4.5', '474': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Holiday (1938)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0', '580': '0.5', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Roaring Twenties, The (1939)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wuthering Heights (1939)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'177': '3.5', '474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Letter, The (1940)"},
+                       "genre": {"S":"Drama|Film-Noir"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Here Comes Mr. Jordan (1941)"},
+                       "genre": {"S":"Comedy|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Random Harvest (1942)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'309': '3.5', '474': '4.5'}"}
+                   }
+               }
+           }
+   ]
+}

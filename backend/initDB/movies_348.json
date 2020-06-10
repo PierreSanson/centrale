@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jim Jefferies: I Swear to God (2009)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tornado! (1996)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Blue Lagoon (1949)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'177': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In the Name of the King III (2014)"},
+                       "genre": {"S":"Action|Adventure|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'210': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cake (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'73': '2.5', '448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kevin Smith: Too Fat For 40 (2010)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Snowflake, the White Gorilla (2011)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kenny & Company (1976)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'514': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Delirium (2014)"},
+                       "genre": {"S":"Adventure|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'598': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Why Man Creates (1968)"},
+                       "genre": {"S":"Animation|Documentary"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Gambler (2014)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Beast of Hollow Mountain (1956)"},
+                       "genre": {"S":"Horror|Sci-Fi|Western"},
+                       "movie_ratings": {"S":"{'448': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mortdecai (2015)"},
+                       "genre": {"S":"Adventure|Comedy|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'533': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fifty Shades of Grey (2015)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'41': '0.5', '448': '0.5', '548': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Halloweentown (1998)"},
+                       "genre": {"S":"Adventure|Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Halloweentown High (2004)"},
+                       "genre": {"S":"Adventure|Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'89': '3.5', '596': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Flintstones Christmas Carol (1994)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hedgehog in the Fog (1975)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Cave of the Golden Rose (1991)"},
+                       "genre": {"S":"Adventure|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'509': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"American Heist (2015)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Solyaris (1968)"},
+                       "genre": {"S":"Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Pacific (2010)"},
+                       "genre": {"S":"Action|Adventure|Drama|War"},
+                       "movie_ratings": {"S":"{'105': '5.0', '339': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Strange Magic (2015)"},
+                       "genre": {"S":"Animation|Children|Fantasy|Musical"},
+                       "movie_ratings": {"S":"{'382': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The DUFF (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'21': '3.0', '73': '2.5', '111': '4.5', '256': '4.5', '298': '2.0', '563': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Daddy, I'm A Zombie (2012)"},
+                       "genre": {"S":"Animation|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

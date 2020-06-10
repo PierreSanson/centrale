@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Mummy (2017)"},
+                       "genre": {"S":"Action|Adventure|Fantasy|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'62': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Life-Size (2000)"},
+                       "genre": {"S":"Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Fate of the Furious (2017)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'50': '1.0', '249': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sandy Wexler (2017)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Betting on Zero (2016)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'184': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Win It All (2017)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Captain Underpants: The First Epic Movie (2017)"},
+                       "genre": {"S":"Action|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'401': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"It Comes at Night (2017)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'567': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cars 3 (2017)"},
+                       "genre": {"S":"Adventure|Animation|Comedy"},
+                       "movie_ratings": {"S":"{'111': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mini's First Time (2006)"},
+                       "genre": {"S":"Comedy|Crime|Drama"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Planet Earth II (2016)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'47': '3.0', '105': '5.0', '184': '5.0', '248': '3.5', '318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Hero (2017)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'18': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press (2017)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'111': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cosmos"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'318': '5.0', '599': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Maria Bamford: Old Baby"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'111': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Robin Williams: Live on Broadway (2002)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Death of Louis XIV (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'50': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Death Note: Desu nôto (2006–2007)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Munna bhai M.B.B.S. (2003)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Beguiled (2017)"},
+                       "genre": {"S":"Drama|Thriller|Western"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Baby Driver (2017)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'62': '4.0', '125': '5.0', '184': '4.5', '212': '4.5', '249': '4.5', '380': '4.0', '414': '5.0', '462': '4.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Okja (2017)"},
+                       "genre": {"S":"Action|Adventure|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'296': '3.5', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Embassy (2013)"},
+                       "genre": {"S":"Comedy|Sci-Fi|War"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rough Night (2017)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'111': '4.5', '491': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Generation Iron 2"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'111': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

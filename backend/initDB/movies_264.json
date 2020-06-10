@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Winter, The (2006)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Black Sheep (2006)"},
+                       "genre": {"S":"Comedy|Horror"},
+                       "movie_ratings": {"S":"{'230': '1.0', '380': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Edge of Heaven, The (Auf der anderen Seite) (2007)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'351': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Saw IV (2007)"},
+                       "genre": {"S":"Crime|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'76': '4.5', '232': '3.0', '249': '2.5', '274': '2.5', '351': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"For the Bible Tells Me So (2007)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'68': '3.0', '253': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"My Kid Could Paint That (2007)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'474': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Elite Squad (Tropa de Elite) (2007)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'28': '3.5', '105': '4.0', '227': '5.0', '274': '4.5', '305': '5.0', '318': '4.0', '326': '4.5', '339': '4.0', '528': '5.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"King of California (2007)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'307': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"American Gangster (2007)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'18': '4.5', '22': '1.0', '28': '2.5', '41': '2.0', '52': '4.0', '68': '3.5', '80': '4.0', '105': '3.5', '122': '5.0', '123': '4.0', '177': '4.0', '211': '4.0', '226': '5.0', '232': '4.0', '233': '3.0', '239': '4.5', '249': '3.5', '271': '4.0', '274': '4.0', '282': '4.0', '305': '5.0', '307': '4.5', '318': '4.0', '331': '4.0', '334': '3.5', '339': '5.0', '343': '2.5', '414': '4.0', '419': '4.0', '448': '4.0', '495': '4.5', '522': '3.5', '537': '5.0', '553': '5.0', '585': '5.0', '590': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bee Movie (2007)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'73': '4.0', '232': '3.5', '288': '3.0', '381': '3.5', '382': '3.0', '401': '2.5', '414': '2.5', '448': '3.5', '489': '2.5', '534': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Before the Devil Knows You're Dead (2007)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le) (2007)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'74': '3.5', '215': '5.0', '474': '4.0', '511': '4.0', '526': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"No Country for Old Men (2007)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'22': '4.0', '28': '4.5', '29': '4.0', '41': '5.0', '62': '5.0', '68': '3.5', '70': '4.0', '74': '4.5', '76': '3.0', '88': '4.5', '103': '4.5', '105': '3.5', '122': '5.0', '125': '0.5', '141': '3.5', '168': '4.5', '199': '4.0', '204': '4.0', '215': '4.0', '219': '4.0', '220': '4.5', '223': '3.0', '226': '5.0', '227': '4.0', '239': '5.0', '246': '4.5', '249': '4.0', '274': '4.0', '279': '3.5', '301': '5.0', '305': '4.0', '307': '4.5', '317': '5.0', '318': '4.0', '326': '4.5', '328': '4.5', '331': '5.0', '332': '4.0', '334': '3.0', '339': '5.0', '343': '4.5', '351': '4.0', '352': '3.0', '380': '4.0', '381': '4.0', '387': '4.5', '405': '4.5', '414': '4.5', '426': '2.5', '434': '5.0', '454': '3.5', '462': '3.0', '464': '3.0', '484': '2.0', '495': '2.0', '517': '1.0', '522': '4.5', '528': '1.0', '553': '4.0', '585': '4.5', '590': '4.0', '599': '3.0', '606': '3.0', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Be Kind Rewind (2008)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'68': '4.0', '232': '3.0', '249': '3.5', '298': '2.0', '307': '4.5', '356': '3.0', '414': '3.5', '448': '3.0', '600': '4.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Itty Bitty Titty Committee (2007)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'596': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fugitive, The (1947)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'223': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"August Rush (2007)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'111': '3.0', '177': '4.0', '233': '3.0', '414': '3.5', '483': '4.5', '605': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Man from Earth, The (2007)"},
+                       "genre": {"S":"Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'28': '3.5', '62': '4.0', '105': '3.0', '125': '4.0', '305': '5.0', '352': '5.0', '408': '5.0', '511': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lions For Lambs (2007)"},
+                       "genre": {"S":"Drama|Thriller|War"},
+                       "movie_ratings": {"S":"{'537': '5.0', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beowulf (2007)"},
+                       "genre": {"S":"Action|Adventure|Animation|Fantasy|IMAX"},
+                       "movie_ratings": {"S":"{'232': '2.5', '249': '3.0', '274': '2.0', '298': '1.5', '381': '3.0', '414': '3.5', '448': '2.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Southland Tales (2006)"},
+                       "genre": {"S":"Comedy|Drama|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'307': '3.0', '380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Evening with Kevin Smith 2: Evening Harder, An (2006)"},
+                       "genre": {"S":"Comedy|Documentary"},
+                       "movie_ratings": {"S":"{'274': '3.5', '298': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Harrison Bergeron (1995)"},
+                       "genre": {"S":"Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Served the King of England (Obsluhoval jsem anglického krále) (2006)"},
+                       "genre": {"S":"Comedy|Drama|Romance|War"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mist, The (2007)"},
+                       "genre": {"S":"Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'28': '1.0', '105': '4.0', '124': '0.5', '274': '4.5', '288': '4.0', '305': '3.0', '318': '3.0', '339': '4.0', '352': '5.0', '362': '4.5', '477': '4.0', '509': '3.0', '599': '3.0', '610': '4.5'}"}
+                   }
+               }
+           }
+   ]
+}

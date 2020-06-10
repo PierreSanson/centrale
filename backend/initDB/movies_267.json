@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In Bruges (2008)"},
+                       "genre": {"S":"Comedy|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'18': '4.0', '28': '4.0', '41': '4.5', '52': '5.0', '63': '5.0', '68': '4.0', '76': '4.0', '105': '3.5', '152': '4.0', '168': '4.0', '199': '3.0', '209': '4.5', '211': '4.5', '212': '3.5', '219': '4.5', '232': '3.5', '233': '3.0', '246': '4.5', '249': '4.0', '279': '4.0', '288': '5.0', '298': '2.5', '305': '5.0', '317': '4.0', '318': '3.5', '326': '4.5', '331': '5.0', '351': '3.5', '356': '4.0', '380': '5.0', '393': '5.0', '405': '3.5', '414': '4.5', '448': '4.0', '477': '5.0', '483': '4.5', '525': '3.5', '560': '4.5', '564': '3.0', '596': '5.0', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"World on a Wire (Welt am Draht) (1973)"},
+                       "genre": {"S":"Crime|Sci-Fi"},
+                       "movie_ratings": {"S":"{'318': '3.5', '599': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rise of the Footsoldier (2007)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'351': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Teeth (2007)"},
+                       "genre": {"S":"Comedy|Horror"},
+                       "movie_ratings": {"S":"{'274': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fool's Gold (2008)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Romance"},
+                       "movie_ratings": {"S":"{'68': '3.0', '111': '3.5', '298': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jumper (2008)"},
+                       "genre": {"S":"Action|Adventure|Drama|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'21': '2.0', '68': '3.0', '105': '3.5', '139': '1.5', '177': '3.0', '220': '4.0', '232': '3.0', '233': '3.0', '249': '4.0', '274': '2.5', '380': '3.5', '382': '3.5', '448': '1.5', '464': '2.5', '475': '4.5', '509': '2.5', '534': '4.0', '610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Definitely, Maybe (2008)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'10': '3.5', '62': '3.5', '68': '3.5', '73': '4.5', '89': '2.5', '98': '2.0', '177': '3.5', '215': '4.0', '232': '4.0', '298': '2.5', '306': '3.0', '414': '3.5', '562': '5.0', '564': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Air I Breathe, The (2007)"},
+                       "genre": {"S":"Crime|Drama|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'68': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Vantage Point (2008)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'74': '4.0', '213': '3.5', '249': '4.0', '414': '3.5', '590': '2.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spiderwick Chronicles, The (2008)"},
+                       "genre": {"S":"Adventure|Children|Drama|Fantasy|IMAX"},
+                       "movie_ratings": {"S":"{'232': '2.0', '307': '3.5', '334': '3.5', '382': '4.0', '586': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Step Up 2 the Streets (2008)"},
+                       "genre": {"S":"Drama|Musical|Romance"},
+                       "movie_ratings": {"S":"{'68': '2.5', '175': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Other Boleyn Girl, The (2008)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'74': '3.5', '177': '4.0', '414': '4.0', '432': '4.0', '506': '3.0', '563': '3.5', '578': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Semi-Pro (2008)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '3.5', '222': '3.5', '232': '3.0', '249': '3.0', '298': '1.5', '307': '3.0', '408': '3.0', '414': '2.0', '419': '3.5', '448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Run Fatboy Run (2007)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'68': '2.5', '298': '1.5', '307': '4.0', '318': '3.5', '356': '3.5', '414': '3.5', '489': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Taxi to the Dark Side (2007)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'462': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Descent (2007)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'307': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"College Road Trip (2008)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"10,000 BC (2008)"},
+                       "genre": {"S":"Adventure|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'28': '0.5', '68': '4.0', '86': '2.5', '158': '3.5', '200': '4.0', '232': '2.0', '249': '3.0', '256': '4.0', '292': '3.0', '318': '3.0', '387': '2.0', '398': '1.5', '414': '2.0', '432': '2.5', '509': '3.0', '545': '3.0', '560': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bank Job, The (2008)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.5', '68': '3.5', '177': '2.0', '219': '4.0', '249': '3.0', '274': '3.5', '318': '3.0', '414': '3.5', '522': '4.5', '537': '5.0', '553': '5.0', '606': '3.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Doomsday (2008)"},
+                       "genre": {"S":"Action|Drama|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'534': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Horton Hears a Who! (2008)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'18': '4.0', '68': '3.0', '212': '4.0', '220': '3.0', '232': '3.5', '292': '3.0', '305': '4.0', '483': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Funny Games U.S. (2007)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'125': '5.0', '305': '4.5', '567': '4.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Counterfeiters, The (Die Fälscher) (2007)"},
+                       "genre": {"S":"Crime|Drama|War"},
+                       "movie_ratings": {"S":"{'83': '1.5', '227': '4.0', '326': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mongol (2007)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"War Dance (2007)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'253': '4.5'}"}
+                   }
+               }
+           }
+   ]
+}

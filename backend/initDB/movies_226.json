@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cube 2: Hypercube (2002)"},
+                       "genre": {"S":"Horror|Mystery|Sci-Fi"},
+                       "movie_ratings": {"S":"{'125': '4.5', '249': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pulse (Kairo) (2001)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dog Days (Hundstage) (2001)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"My Sassy Girl (Yeopgijeogin geunyeo) (2001)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'64': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nothing (2003)"},
+                       "genre": {"S":"Comedy|Fantasy|Mystery|Sci-Fi"},
+                       "movie_ratings": {"S":"{'477': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Undertaking Betty (Plots with a View) (2002)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'68': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dead or Alive: Final (2002)"},
+                       "genre": {"S":"Comedy|Crime|Drama|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fubar (2002)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'307': '4.5', '414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Happiness of the Katakuris, The (Katakuri-ke no kôfuku) (2001)"},
+                       "genre": {"S":"Comedy|Horror|Musical"},
+                       "movie_ratings": {"S":"{'462': '4.5', '600': '4.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dead End (2003)"},
+                       "genre": {"S":"Comedy|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'380': '3.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'187': '4.0', '274': '3.0', '387': '3.0', '405': '4.0', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jesus Christ Vampire Hunter (2001)"},
+                       "genre": {"S":"Action|Comedy|Horror|Musical"},
+                       "movie_ratings": {"S":"{'599': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Suicide Club (Jisatsu saakuru) (2001)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'274': '3.5', '454': '3.0', '599': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Battlestar Galactica (2003)"},
+                       "genre": {"S":"Drama|Sci-Fi|War"},
+                       "movie_ratings": {"S":"{'16': '4.0', '28': '4.5', '29': '5.0', '68': '4.0', '76': '4.0', '131': '3.5', '200': '3.0', '219': '4.0', '261': '4.5', '393': '0.5', '414': '4.0', '477': '5.0', '487': '5.0', '522': '5.0', '525': '4.0', '534': '4.5', '596': '4.0', '599': '3.0', '600': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sound of Thunder, A (2005)"},
+                       "genre": {"S":"Action|Adventure|Drama|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'274': '3.5', '288': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lion King 1½, The (2004)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.5', '586': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Oasis (2002)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Remember Me (Ricordati di me) (2003)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Animatrix, The (2003)"},
+                       "genre": {"S":"Action|Animation|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'62': '4.5', '68': '3.0', '122': '5.0', '129': '4.5', '187': '4.5', '219': '4.0', '256': '2.5', '318': '3.5', '380': '4.0', '381': '3.5', '390': '3.5', '414': '4.0', '477': '4.5', '480': '1.5', '483': '4.0', '522': '3.5', '525': '3.0', '534': '4.5', '560': '4.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brown Bunny, The (2003)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'405': '3.5', '480': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ju-on: The Curse (2000)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'562': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"11:14 (2003)"},
+                       "genre": {"S":"Comedy|Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'158': '4.0', '232': '3.0', '274': '4.0', '580': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tremors 4: The Legend Begins (2004)"},
+                       "genre": {"S":"Action|Comedy|Horror|Sci-Fi|Thriller|Western"},
+                       "movie_ratings": {"S":"{'380': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bring It On Again (2004)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'200': '2.0', '448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Crimson Rivers 2: Angels of the Apocalypse (Rivières pourpres II - Les anges de l'apocalypse, Les) (2004)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'18': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}

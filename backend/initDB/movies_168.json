@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lost in La Mancha (2002)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'182': '3.5', '187': '4.0', '260': '2.5', '414': '3.0', '474': '3.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"May (2002)"},
+                       "genre": {"S":"Drama|Horror"},
+                       "movie_ratings": {"S":"{'387': '3.5', '474': '2.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Harder They Fall, The (1956)"},
+                       "genre": {"S":"Drama|Film-Noir"},
+                       "movie_ratings": {"S":"{'462': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ordinary Decent Criminal (2000)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'182': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tokyo Decadence (Topâzu) (1992)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Firefox (1982)"},
+                       "genre": {"S":"Action|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'414': '2.0', '427': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I, the Jury (1982)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'286': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kiss Me Goodbye (1982)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Unicorn, The (1982)"},
+                       "genre": {"S":"Animation|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'129': '4.5', '414': '4.5', '509': '2.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dragon Lord (a.k.a. Dragon Strike) (Long Xiao Ye) (1982)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Midsummer Night's Sex Comedy, A (1982)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'387': '4.0', '600': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Missing (1982)"},
+                       "genre": {"S":"Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Monty Python Live at the Hollywood Bowl (1982)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'63': '5.0', '204': '4.0', '282': '4.5', '330': '4.0', '420': '4.0', '428': '4.0', '448': '4.0', '474': '4.0', '608': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Night of the Shooting Stars (Notte di San Lorenzo, La) (1982)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Paradise (1982)"},
+                       "genre": {"S":"Adventure|Romance"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pirate Movie, The (1982)"},
+                       "genre": {"S":"Adventure|Comedy|Musical"},
+                       "movie_ratings": {"S":"{'414': '3.5', '474': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Santa Claus Is a Stinker (Le Père Noël est une ordure) (1982)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'560': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Richard Pryor Live on the Sunset Strip (1982)"},
+                       "genre": {"S":"Comedy|Documentary"},
+                       "movie_ratings": {"S":"{'275': '5.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sunless (Sans Soleil) (1983)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'387': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Savannah Smiles (1982)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'66': '3.5', '474': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Secret Policeman's Other Ball, The (1982)"},
+                       "genre": {"S":"Comedy|Documentary|Musical"},
+                       "movie_ratings": {"S":"{'289': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tenebre (1982)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'594': '0.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"They Call Me Bruce? (a.k.a. A Fistful of Chopsticks) (1982)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Trail of the Pink Panther (1982)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'20': '4.0', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Venom (1982)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'513': '2.0'}"}
+                   }
+               }
+           }
+   ]
+}

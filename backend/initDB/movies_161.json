@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Grave of the Fireflies (Hotaru no haka) (1988)"},
+                       "genre": {"S":"Animation|Drama|War"},
+                       "movie_ratings": {"S":"{'64': '5.0', '105': '5.0', '166': '5.0', '182': '4.5', '212': '4.0', '260': '5.0', '274': '3.0', '343': '5.0', '380': '4.0', '387': '4.0', '428': '3.5', '474': '4.5', '483': '3.5', '490': '4.0', '567': '4.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Saturday Night Fever (1977)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'20': '4.0', '68': '3.5', '91': '4.5', '95': '4.0', '387': '2.0', '415': '3.5', '474': '3.5', '540': '2.5', '590': '3.0', '599': '2.5', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Staying Alive (1983)"},
+                       "genre": {"S":"Comedy|Drama|Musical"},
+                       "movie_ratings": {"S":"{'474': '1.5', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Urban Cowboy (1980)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'307': '2.0', '427': '3.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tom Horn (1980)"},
+                       "genre": {"S":"Western"},
+                       "movie_ratings": {"S":"{'140': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Pumaman (1980)"},
+                       "genre": {"S":"Action|Adventure|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'448': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Without Warning (a.k.a. Alien Warning) (a.k.a. It Came Without Warning) (1980)"},
+                       "genre": {"S":"Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'514': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"...All the Marbles (1981)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'377': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Absence of Malice (1981)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'345': '3.5', '474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Banana Joe (1981)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'222': '2.5', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blow Out (1981)"},
+                       "genre": {"S":"Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'51': '3.5', '156': '4.0', '232': '3.5', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Friend Is a Treasure, A (Chi Trova Un Amico, Trova un Tesoro) (Who Finds a Friend Finds a Treasure) (1981)"},
+                       "genre": {"S":"Action|Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chosen, The (1981)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Continental Divide (1981)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'275': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Eyewitness (Janitor, The) (1981)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Faces of Death (1978)"},
+                       "genre": {"S":"Documentary|Horror"},
+                       "movie_ratings": {"S":"{'307': '2.0', '462': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Faces of Death 3 (1985)"},
+                       "genre": {"S":"Documentary|Horror"},
+                       "movie_ratings": {"S":"{'307': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Woman Next Door, The (Femme d'à côté, La) (1981)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"First Monday in October (1981)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Four Seasons, The (1981)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'275': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Galaxy of Terror (Quest) (1981)"},
+                       "genre": {"S":"Action|Horror|Mystery|Sci-Fi"},
+                       "movie_ratings": {"S":"{'3': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gallipoli (1981)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'28': '3.5', '66': '5.0', '140': '3.0', '199': '4.5', '462': '4.5', '474': '4.5', '552': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ghost Story (1981)"},
+                       "genre": {"S":"Drama|Horror"},
+                       "movie_ratings": {"S":"{'91': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gregory's Girl (1981)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Happy Birthday to Me (1981)"},
+                       "genre": {"S":"Horror|Mystery"},
+                       "movie_ratings": {"S":"{'474': '2.0', '514': '2.0'}"}
+                   }
+               }
+           }
+   ]
+}

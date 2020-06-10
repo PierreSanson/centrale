@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Woman, The (2011)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'351': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"New One-Armed Swordsman, The (Xin du bi dao) (1971)"},
+                       "genre": {"S":"Action|Drama|War"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mike's New Car (2002)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Smurfs, The (2011)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'382': '2.0', '448': '2.0', '483': '3.0', '567': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Friends with Benefits (2011)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'21': '2.5', '47': '1.0', '62': '3.5', '111': '3.0', '159': '2.5', '177': '4.0', '222': '2.5', '280': '3.5', '298': '0.5', '305': '3.5', '351': '3.5', '414': '3.5', '448': '2.5', '483': '3.5', '484': '4.0', '491': '4.0', '525': '2.5', '563': '3.0', '564': '5.0', '583': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Paper Birds (Pájaros de papel) (2010)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'483': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blitz (2011)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Yellow Sea, The (a.k.a. The Murderer) (Hwanghae) (2010)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Our Idiot Brother (2011)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '3.0', '564': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"SUBWAYStories: Tales from the Underground (1997)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Death Race 2 (2010)"},
+                       "genre": {"S":"Action|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'249': '3.0', '380': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rise of the Planet of the Apes (2011)"},
+                       "genre": {"S":"Action|Drama|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'21': '3.0', '68': '4.0', '103': '3.5', '119': '4.5', '125': '4.0', '139': '1.0', '203': '4.0', '249': '4.5', '256': '4.0', '292': '3.5', '298': '3.5', '351': '3.5', '380': '5.0', '414': '4.0', '448': '2.5', '462': '4.0', '489': '3.0', '509': '3.0', '514': '4.0', '517': '0.5', '534': '4.0', '560': '3.5', '561': '4.0', '567': '1.5', '573': '4.5', '599': '3.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Terri (2011)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0', '298': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Change-Up, The (2011)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '2.0', '111': '3.5', '249': '3.5', '298': '0.5', '306': '3.0', '448': '2.0', '483': '3.5', '534': '3.5', '563': '3.0', '564': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Help, The (2011)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'10': '3.0', '47': '3.5', '68': '4.5', '73': '4.0', '98': '4.0', '103': '3.5', '105': '3.5', '153': '4.0', '159': '3.5', '177': '4.0', '280': '4.5', '292': '4.0', '298': '2.5', '318': '4.0', '426': '4.0', '491': '5.0', '514': '4.0', '517': '2.5', '525': '4.0', '563': '4.0', '601': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"30 Minutes or Less (2011)"},
+                       "genre": {"S":"Action|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'89': '2.5', '249': '2.5', '298': '1.5', '305': '3.5', '448': '2.5', '564': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"My Afternoons with Margueritte (La tête en friche) (2010)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Final Destination 5 (2011)"},
+                       "genre": {"S":"Horror|Thriller|IMAX"},
+                       "movie_ratings": {"S":"{'351': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Very Harold & Kumar 3D Christmas, A (2011)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'249': '3.5', '483': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Don't Be Afraid of the Dark (2010)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'351': '2.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fright Night (2011)"},
+                       "genre": {"S":"Comedy|Horror"},
+                       "movie_ratings": {"S":"{'318': '3.0', '489': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Another Earth (2011)"},
+                       "genre": {"S":"Drama|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'460': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hesher (2010)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'249': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stake Land (2010)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Debt, The (2011)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Squid and the Whale, The (2005)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'28': '2.0', '356': '4.0', '414': '4.0', '462': '4.0', '474': '4.0', '480': '2.5', '599': '2.5', '600': '4.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Two for the Money (2005)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'274': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brokeback Mountain (2005)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'22': '2.5', '51': '5.0', '52': '4.0', '64': '4.0', '68': '2.0', '74': '4.0', '105': '3.5', '122': '5.0', '129': '4.0', '132': '3.5', '177': '3.0', '178': '3.0', '200': '3.5', '219': '2.5', '220': '2.5', '256': '2.0', '282': '4.5', '288': '4.5', '298': '2.0', '307': '3.5', '331': '2.5', '332': '3.5', '339': '4.5', '390': '2.5', '414': '3.5', '421': '4.5', '448': '3.0', '462': '4.5', '474': '4.0', '480': '4.0', '489': '4.5', '560': '3.0', '596': '4.0', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Elizabethtown (2005)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'232': '3.0', '414': '3.5', '480': '4.0', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"North Country (2005)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'307': '2.5', '414': '4.0', '474': '4.0', '480': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Good Night, and Good Luck. (2005)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'74': '4.5', '140': '3.5', '166': '4.0', '184': '3.0', '187': '4.0', '199': '3.5', '204': '4.5', '219': '3.5', '232': '3.0', '288': '4.0', '318': '4.0', '382': '4.5', '387': '3.5', '414': '4.0', '438': '2.5', '474': '4.0', '477': '4.5', '480': '3.5', '510': '3.0', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dreamer: Inspired by a True Story (2005)"},
+                       "genre": {"S":"Children|Drama"},
+                       "movie_ratings": {"S":"{'140': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Proposition, The (2005)"},
+                       "genre": {"S":"Crime|Drama|Western"},
+                       "movie_ratings": {"S":"{'28': '3.5', '68': '4.0', '387': '4.0', '414': '3.5', '474': '3.0', '480': '4.0', '599': '2.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fog, The (2005)"},
+                       "genre": {"S":"Action|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'249': '2.0', '274': '1.0', '288': '1.0', '351': '3.5', '380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shopgirl (2005)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'51': '4.0', '288': '3.5', '354': '3.0', '387': '3.0', '480': '3.5', '489': '1.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stay (2005)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'175': '0.5', '187': '4.0', '232': '3.5', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Legend of Zorro, The (2005)"},
+                       "genre": {"S":"Action|Adventure|Drama|Western"},
+                       "movie_ratings": {"S":"{'232': '3.5', '489': '2.0', '509': '3.0', '560': '3.5', '600': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Weather Man, The (2005)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'28': '3.5', '52': '5.0', '288': '4.0', '298': '2.5', '387': '4.0', '414': '3.5', '448': '3.0', '480': '4.0', '600': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Saw II (2005)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'76': '4.5', '111': '0.5', '213': '2.5', '232': '4.0', '249': '3.0', '274': '3.5', '307': '1.5', '380': '4.0', '387': '3.0', '484': '3.0', '495': '0.5', '573': '4.0', '610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Prime (2005)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'177': '3.0', '232': '3.5', '414': '2.0', '480': '1.5', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Don't Move (Non ti muovere) (2004)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'526': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"American Pie Presents: Band Camp (American Pie 4: Band Camp) (2005)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'21': '2.5', '89': '3.0', '111': '0.5', '232': '2.5', '274': '2.0', '534': '3.5', '606': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Great Yokai War, The (Yôkai daisensô) (2005)"},
+                       "genre": {"S":"Adventure|Comedy|Fantasy|Horror"},
+                       "movie_ratings": {"S":"{'599': '2.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Manderlay (2005)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'187': '4.5', '241': '4.0', '474': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Revolver (2005)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'125': '2.0', '318': '4.0', '380': '2.0', '522': '5.0', '553': '5.0', '599': '2.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jarhead (2005)"},
+                       "genre": {"S":"Action|Drama|War"},
+                       "movie_ratings": {"S":"{'28': '3.0', '68': '2.0', '83': '3.0', '119': '4.0', '232': '4.5', '274': '4.0', '307': '3.0', '318': '4.0', '380': '4.0', '414': '4.0', '424': '4.0', '448': '3.5', '474': '3.5', '480': '3.5', '495': '4.0', '608': '4.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chicken Little (2005)"},
+                       "genre": {"S":"Action|Adventure|Animation|Children|Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'89': '4.0', '232': '2.0', '382': '3.5', '414': '3.0', '509': '1.5', '517': '0.5', '580': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dead Man's Shoes (2004)"},
+                       "genre": {"S":"Crime|Thriller"},
+                       "movie_ratings": {"S":"{'351': '4.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Joyeux Noël (Merry Christmas) (2005)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'28': '3.0', '232': '4.0', '326': '4.5', '474': '3.5', '560': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Night of the Lepus (1972)"},
+                       "genre": {"S":"Horror|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'514': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}
