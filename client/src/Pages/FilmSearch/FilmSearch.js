@@ -7,7 +7,7 @@ const PageFilm = () => {
   const [item, setItem] = useState({});
   const [fetchAgain, setFetchAgain] = useState(false);
   const triggerFetchAgain = () => setFetchAgain(!fetchAgain);
-  const [recherchetitre,setRecherchetitre]=useState("harry+potter")
+  const [recherchetitre,setRecherchetitre]=useState("")
   const [rechercheannee,setRechercheannee]=useState("")
 
 
@@ -33,7 +33,7 @@ const PageFilm = () => {
   }, [fetchAgain]);
   
   const sendDB = async(event) => {
-    await fetch("https://mmwouk3l22.execute-api.eu-west-1.amazonaws.com/dev/items",{
+    await fetch("https://6w1xm2b238.execute-api.eu-west-1.amazonaws.com/dev/items",{
       method: "post",
       body: JSON.stringify({'Name_Year':item.Title+' ('+item.Year+')',"genre":item.Genre}),
     });
@@ -47,9 +47,8 @@ const PageFilm = () => {
       return <div>Error: {error.message}</div>;
     } else if (!isLoaded) {
       return <div>Loading...</div>;
-    } else {
+    } else if (item.Title!=undefined) {
       return (
-
         <ul>
           {<ul>
             <li key={item.Title}>{'Titre : '+item.Title}</li>
@@ -67,6 +66,13 @@ const PageFilm = () => {
         </ul>
       );
     }
+       else {
+         return (
+          <ul>
+          <label> Aucun résultat </label>
+          </ul>
+         )
+       }
   };
 
   const getValue = () => {
@@ -76,13 +82,14 @@ const PageFilm = () => {
     fetchExample();
   };
 
+
   return (
     <div>
-      <label>Title (required) : </label>
+      <label>Titre (requis) : </label>
       <input type="text" id="name" name="name"></input>
-      <label>    Year (optional) : </label>
+      <label>    Année de sortie (optionnel) : </label>
       <input type="text" id="year" name="year"></input>
-      <button onClick={getValue}>Search a movie</button>
+      <button onClick={getValue}>Rechercher un film</button>
       {displayFilm()}
     </div>
 
