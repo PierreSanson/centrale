@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Go Figure (2005)"},
+                       "genre": {"S":"Children|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Anything for Love (2016)"},
+                       "genre": {"S":"Romance"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Night Guards (2016)"},
+                       "genre": {"S":"Action|Sci-Fi"},
+                       "movie_ratings": {"S":"{'125': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"La La Land (2016)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'21': '3.5', '125': '4.0', '252': '4.0', '292': '2.5', '339': '5.0', '380': '4.0', '517': '1.0', '567': '3.0', '599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"13th (2016)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'184': '4.5', '462': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"London Town (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Inferno (2016)"},
+                       "genre": {"S":"Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'328': '0.5', '362': '3.5', '382': '3.5', '408': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Keeping Up with the Joneses (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.0', '514': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wild Oats (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Rocky Horror Picture Show: Let's Do the Time Warp Again (2016)"},
+                       "genre": {"S":"Comedy|Horror|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jack Reacher: Never Go Back (2016)"},
+                       "genre": {"S":"Action|Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Joe Rogan: Triggered (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ethel & Ernest (2016)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'517': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Flowers for Algernon (2000)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Manchester by the Sea (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'292': '1.5', '339': '4.0', '414': '4.5', '551': '1.0', '599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lion (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'119': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Thinning (2016)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'184': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"While You Were Fighting: A Thor Mockumentary (2016)"},
+                       "genre": {"S":"Comedy|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'184': '4.0', '380': '4.0', '596': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bad Santa 2 (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ice Guardians (2016)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Risk (2016)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'111': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The True Memoirs of an International Assassin (2016)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.0', '365': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Alesha Popovich and Tugarin the Dragon (2004)"},
+                       "genre": {"S":"Animation|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"HyperNormalisation (2016)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'50': '3.5', '318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The African Doctor (2016)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'18': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Texas Chainsaw 3D (2013)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'610': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gangster Squad (2013)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'18': '3.5', '249': '4.0', '448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Iceman, The (2012)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'249': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"It's Such a Beautiful Day (2012)"},
+                       "genre": {"S":"Animation|Comedy|Drama|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'103': '3.5', '567': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Batman: The Dark Knight Returns, Part 2 (2013)"},
+                       "genre": {"S":"Action|Animation"},
+                       "movie_ratings": {"S":"{'18': '4.0', '125': '4.5', '222': '4.5', '227': '4.0', '298': '3.0', '380': '5.0', '528': '3.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Everything or Nothing: The Untold Story of 007 (2012)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Codependent Lesbian Space Alien Seeks Same (2011)"},
+                       "genre": {"S":"Comedy|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Stand, The (2013)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'249': '3.5', '380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Upstream Color (2013)"},
+                       "genre": {"S":"Romance|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'567': '3.5', '599': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shadow Dancer (2012)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Human Planet (2011)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Comme un chef (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'483': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Movie 43 (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '2.0', '125': '5.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pervert's Guide to Ideology, The (2012)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sightseers (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hansel & Gretel: Witch Hunters (2013)"},
+                       "genre": {"S":"Action|Fantasy|Horror|IMAX"},
+                       "movie_ratings": {"S":"{'249': '3.5', '298': '0.5', '380': '3.0', '534': '4.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jim Jefferies: Fully Functional (EPIX) (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Why Stop Now (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tabu (2012)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Upside Down (2012)"},
+                       "genre": {"S":"Drama|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'105': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Liability, The (2012)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Angst  (1983)"},
+                       "genre": {"S":"Drama|Horror"},
+                       "movie_ratings": {"S":"{'562': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stand Up Guys (2012)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Side Effects (2013)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'47': '3.5', '80': '4.5', '177': '3.5', '495': '5.0', '560': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Identity Thief (2013)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'89': '2.0', '111': '4.5', '306': '3.5', '448': '1.5'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Angry Birds Movie (2016)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bakuman (2015)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'184': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Am Wrath (2016)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Precious Cargo (2016)"},
+                       "genre": {"S":"Action|Crime"},
+                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Snowden (2016)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'111': '4.5', '119': '4.5', '184': '3.5', '339': '3.5', '365': '3.0', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tenchi Muyô! In Love (1996)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ratchet & Clank (2016)"},
+                       "genre": {"S":"Action|Adventure|Animation|Children|Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kicking Off (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"SORI: Voice from the Heart (2016)"},
+                       "genre": {"S":"Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'305': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gintama: The Final Chapter - Be Forever Yorozuya (2013)"},
+                       "genre": {"S":"Action|Animation|Comedy"},
+                       "movie_ratings": {"S":"{'184': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Nice Guys (2016)"},
+                       "genre": {"S":"Crime|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'18': '4.0', '50': '3.0', '62': '4.0', '89': '3.5', '125': '4.0', '249': '4.5', '272': '4.0', '279': '3.0', '298': '2.0', '305': '3.5', '318': '4.5', '380': '5.0', '414': '4.0', '564': '3.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kindergarten Cop 2 (2016)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'382': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Buck Rogers in the 25th Century (1979)"},
+                       "genre": {"S":"Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"World of Glory (1991)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Crew (2016)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'105': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Shallows (2016)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'306': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gen-X Cops (1999)"},
+                       "genre": {"S":"Action|Comedy|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Handmaiden (2016)"},
+                       "genre": {"S":"Drama|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'125': '4.0', '305': '0.5', '599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Alice Through the Looking Glass (2016)"},
+                       "genre": {"S":"Adventure|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'111': '2.5', '306': '3.0', '448': '1.5', '549': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The BFG (2016)"},
+                       "genre": {"S":"Children|Fantasy"},
+                       "movie_ratings": {"S":"{'514': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"My Scientology Movie (2016)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sausage Party (2016)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'15': '3.5', '111': '0.5', '125': '5.0', '249': '4.5', '365': '4.5', '448': '4.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Karate Bullfighter (1975)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"All Yours (2016)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kill Command (2016)"},
+                       "genre": {"S":"Action|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'448': '2.0', '610': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

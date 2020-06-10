@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Quiet American, The (2002)"},
+                       "genre": {"S":"Drama|Thriller|War"},
+                       "movie_ratings": {"S":"{'287': '3.5', '414': '4.0', '453': '5.0', '474': '4.0', '580': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Talk to Her (Hable con Ella) (2002)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'64': '3.5', '105': '3.5', '132': '3.5', '241': '4.0', '275': '4.0', '346': '4.5', '414': '4.0', '445': '4.5', '474': '4.0', '489': '4.5', '560': '4.0', '580': '4.0', '600': '4.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Eight Crazy Nights (Adam Sandler's Eight Crazy Nights) (2002)"},
+                       "genre": {"S":"Animation|Comedy|Musical"},
+                       "movie_ratings": {"S":"{'140': '1.0', '274': '2.5', '438': '2.0', '600': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Extreme Ops (2002)"},
+                       "genre": {"S":"Action|Adventure|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'414': '1.5', '438': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Solaris (2002)"},
+                       "genre": {"S":"Drama|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'108': '5.0', '139': '0.5', '165': '3.0', '169': '2.5', '182': '4.0', '232': '2.0', '256': '2.5', '288': '3.5', '298': '1.0', '312': '4.0', '325': '4.0', '414': '4.0', '438': '3.0', '448': '1.5', '477': '4.5', '489': '4.0', '560': '3.5', '580': '3.5', '599': '2.5', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Treasure Planet (2002)"},
+                       "genre": {"S":"Adventure|Animation|Children|Sci-Fi|IMAX"},
+                       "movie_ratings": {"S":"{'48': '4.0', '232': '2.5', '318': '2.5', '380': '3.0', '401': '5.0', '438': '3.5', '534': '4.5', '586': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"They (2002)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'307': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chopper Chicks in Zombietown (1989)"},
+                       "genre": {"S":"Comedy|Horror"},
+                       "movie_ratings": {"S":"{'275': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brother (Brat) (1997)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cruel Romance, A (Zhestokij Romans) (1984)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Elling (2001)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'9': '4.0', '74': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Spit on Your Grave (Day of the Woman) (1978)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'9': '1.0', '274': '3.0', '387': '3.0', '432': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Seduction, The (1994)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'9': '4.0', '74': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"New Waterford Girl (1999)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Zulu (1964)"},
+                       "genre": {"S":"Action|Drama|War"},
+                       "movie_ratings": {"S":"{'140': '3.0', '310': '5.0', '380': '5.0', '474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Analyze That (2002)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'82': '4.0', '282': '3.5', '298': '2.5', '345': '3.0', '428': '2.0', '438': '2.5', '448': '1.5', '480': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Empire (2002)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'608': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Adaptation (2002)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'9': '5.0', '22': '3.5', '64': '4.5', '66': '5.0', '95': '5.0', '140': '3.0', '156': '4.5', '165': '4.0', '182': '4.5', '190': '3.5', '199': '3.5', '221': '4.0', '246': '4.5', '253': '5.0', '260': '2.0', '271': '4.5', '275': '5.0', '287': '3.5', '288': '4.0', '298': '2.5', '312': '4.0', '318': '4.0', '334': '3.5', '345': '4.0', '356': '4.0', '369': '4.0', '387': '3.5', '393': '0.5', '414': '5.0', '416': '4.0', '420': '4.0', '430': '5.0', '438': '4.0', '462': '3.5', '474': '3.5', '477': '4.0', '480': '4.5', '483': '5.0', '489': '2.5', '504': '4.5', '570': '4.0', '580': '3.5', '599': '3.0', '600': '5.0', '608': '4.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Equilibrium (2002)"},
+                       "genre": {"S":"Action|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.5', '24': '3.0', '28': '3.0', '48': '4.0', '62': '4.5', '63': '3.5', '64': '3.5', '80': '4.5', '83': '3.5', '91': '4.5', '105': '4.0', '125': '3.5', '139': '2.0', '160': '3.0', '182': '4.0', '219': '3.5', '226': '4.5', '232': '3.5', '239': '5.0', '249': '4.5', '272': '4.0', '274': '4.0', '279': '3.0', '305': '4.0', '318': '4.0', '332': '3.5', '354': '4.0', '357': '4.0', '380': '5.0', '390': '4.0', '414': '4.0', '438': '5.0', '460': '3.5', '477': '4.0', '483': '3.5', '520': '3.5', '525': '4.0', '560': '3.5', '573': '5.0', '580': '5.0', '596': '4.0', '599': '2.5', '608': '5.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Visitor Q (Bizita Q) (2001)"},
+                       "genre": {"S":"Comedy|Drama|Horror"},
+                       "movie_ratings": {"S":"{'187': '4.0', '274': '3.0', '387': '4.0', '594': '0.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hit the Bank (Vabank) (1981)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Victory (a.k.a. Escape to Victory) (1981)"},
+                       "genre": {"S":"Action|Drama|War"},
+                       "movie_ratings": {"S":"{'448': '5.0', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Android (1982)"},
+                       "genre": {"S":"Sci-Fi"},
+                       "movie_ratings": {"S":"{'3': '5.0', '377': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Attila (Attila Flagello di Dio) (1982)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beast Within, The (1982)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'312': '2.0', '514': '2.0'}"}
+                   }
+               }
+           }
+   ]
+}

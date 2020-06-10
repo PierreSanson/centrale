@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Afonya (1975)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"My Love (2006)"},
+                       "genre": {"S":"Animation|Drama"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Radio Day (2008)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Martian (2015)"},
+                       "genre": {"S":"Adventure|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'15': '4.0', '18': '4.5', '24': '4.0', '52': '5.0', '68': '5.0', '98': '4.5', '122': '4.0', '125': '4.0', '196': '4.5', '210': '4.5', '212': '4.0', '227': '4.5', '247': '4.0', '249': '4.0', '256': '4.5', '279': '3.0', '282': '4.0', '298': '3.5', '305': '3.0', '326': '4.0', '328': '3.5', '331': '4.0', '339': '4.5', '352': '5.0', '365': '3.5', '400': '4.0', '408': '4.0', '414': '5.0', '448': '4.0', '495': '5.0', '511': '4.0', '514': '4.0', '523': '3.5', '525': '4.0', '526': '4.5', '534': '3.0', '550': '4.0', '551': '4.5', '557': '3.5', '560': '4.0', '561': '3.5', '567': '3.0', '581': '4.0', '582': '4.0', '586': '2.5', '596': '4.0', '599': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Return to Sender (2015)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kung Fury (2015)"},
+                       "genre": {"S":"Action|Comedy|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'50': '2.5', '105': '4.0', '122': '4.0', '125': '4.0', '298': '4.0', '318': '3.0', '567': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Elections Day (2007)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Youth (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'233': '3.0', '305': '3.0', '318': '4.0', '462': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Survivor (2015)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'567': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hot Girls Wanted (2015)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'525': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"That Munchhausen (1979)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Taming of the Scoundrel (1980)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Phir Hera Pheri (2006)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spy (2015)"},
+                       "genre": {"S":"Action|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'21': '3.5', '52': '4.5', '73': '4.0', '111': '5.0', '122': '3.5', '249': '4.0', '256': '3.0', '298': '1.0', '305': '3.5', '306': '5.0', '365': '3.0', '448': '3.0', '495': '4.0', '563': '4.5', '564': '3.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Trainwreck (2015)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'21': '2.5', '24': '2.5', '73': '3.5', '111': '3.0', '125': '4.0', '298': '0.5', '448': '4.0', '519': '4.0', '563': '4.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"BMX Bandits (1983)"},
+                       "genre": {"S":"Adventure|Crime|Drama"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles (2014)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Aloha (2015)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'298': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dragon Blade (2015)"},
+                       "genre": {"S":"Action|Adventure|Drama"},
+                       "movie_ratings": {"S":"{'534': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Entourage (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'298': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bitter Lake (2015)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"No Way Jose (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'298': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ghost Graduation (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Duck Amuck (1953)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Inside Out (2015)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'15': '4.5', '18': '3.5', '21': '4.0', '24': '4.0', '52': '5.0', '63': '5.0', '73': '4.0', '98': '2.0', '103': '3.5', '105': '4.0', '111': '2.5', '119': '4.0', '141': '4.5', '148': '4.0', '153': '2.0', '227': '4.5', '233': '4.5', '241': '3.5', '247': '4.0', '249': '4.5', '252': '5.0', '272': '2.5', '291': '1.0', '305': '2.0', '306': '4.0', '318': '4.5', '328': '3.0', '339': '5.0', '341': '4.0', '380': '5.0', '401': '4.0', '414': '4.5', '448': '4.0', '525': '4.0', '534': '3.5', '560': '3.5', '561': '3.0', '563': '4.0', '567': '2.0', '586': '5.0', '596': '4.5', '601': '5.0', '610': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

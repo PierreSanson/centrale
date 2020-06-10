@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"If These Walls Could Talk 2 (2000)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'596': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"10th Kingdom, The (2000)"},
+                       "genre": {"S":"Adventure|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'534': '4.5', '605': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wind Will Carry Us, The (Bad ma ra khahad bord) (1999)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"2046 (2004)"},
+                       "genre": {"S":"Drama|Fantasy|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'64': '4.5', '246': '4.5', '318': '3.5', '387': '4.0', '405': '4.0', '560': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bartleby (2001)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Batman Beyond: Return of the Joker (2000)"},
+                       "genre": {"S":"Action|Animation|Crime|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'274': '3.5', '380': '5.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Audition (Ôdishon) (1999)"},
+                       "genre": {"S":"Drama|Horror|Mystery|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'91': '4.5', '274': '3.5', '387': '3.5', '562': '4.0', '599': '3.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nine Lives of Tomas Katz, The (2000)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'246': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Monday (2000)"},
+                       "genre": {"S":"Action|Comedy|Crime|Fantasy|Thriller"},
+                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Paradise Lost 2: Revelations (2000)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'357': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Asterix & Obelix: Mission Cleopatra (Astérix & Obélix: Mission Cléopâtre) (2002)"},
+                       "genre": {"S":"Adventure|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'204': '4.5', '534': '3.5', '560': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Daria: Is It Fall Yet? (2000)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'522': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Late Night Shopping (2001)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'483': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"61* (2001)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'585': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Joint Security Area (Gongdong gyeongbi guyeok JSA) (2000)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Thriller|War"},
+                       "movie_ratings": {"S":"{'83': '4.0', '187': '5.0', '599': '3.0', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ripley's Game (2002)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'28': '2.5', '474': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jalla! Jalla! (2000)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'144': '4.0', '334': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Teknolust (2002)"},
+                       "genre": {"S":"Comedy|Drama|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Accidental Spy, The (Dak miu mai shing) (2001)"},
+                       "genre": {"S":"Action|Comedy|Thriller"},
+                       "movie_ratings": {"S":"{'610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Darkness (2002)"},
+                       "genre": {"S":"Horror|Mystery"},
+                       "movie_ratings": {"S":"{'232': '2.5', '307': '0.5', '599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blood: The Last Vampire (2000)"},
+                       "genre": {"S":"Action|Animation|Horror"},
+                       "movie_ratings": {"S":"{'599': '2.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blueberry (2004)"},
+                       "genre": {"S":"Adventure|Western"},
+                       "movie_ratings": {"S":"{'28': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"American Psycho II: All American Girl (2002)"},
+                       "genre": {"S":"Comedy|Crime|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'68': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ali G Indahouse (2002)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'249': '3.5', '448': '3.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dead or Alive 2: Tôbôsha (2000)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'610': '4.5'}"}
+                   }
+               }
+           }
+   ]
+}

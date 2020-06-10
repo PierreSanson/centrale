@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Over the Top (1987)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'249': '3.0', '448': '1.0', '606': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Passenger 57 (1992)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'438': '3.5', '594': '5.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Presumed Innocent (1990)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.5', '66': '5.0', '140': '5.0', '474': '2.5', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Project X (1987)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Proof (1991)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Battle Royale (Batoru rowaiaru) (2000)"},
+                       "genre": {"S":"Action|Drama|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'63': '2.5', '68': '3.5', '87': '3.5', '105': '4.5', '122': '4.0', '125': '5.0', '132': '3.5', '177': '2.5', '182': '4.5', '187': '3.5', '200': '3.5', '219': '5.0', '246': '4.0', '249': '4.0', '260': '4.0', '274': '4.5', '298': '3.0', '305': '5.0', '361': '2.0', '380': '5.0', '387': '3.0', '398': '4.0', '419': '5.0', '420': '3.5', '460': '3.5', '525': '3.5', '562': '5.0', '599': '4.0', '600': '4.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wedding Banquet, The (Xi yan) (1993)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'594': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Salo, or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma) (1976)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'274': '3.0', '387': '4.0', '567': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Midnight Clear, A (1992)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'28': '2.5', '289': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Summer School (1987)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'307': '2.0', '357': '3.0', '474': '1.5', '510': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Silverado (1985)"},
+                       "genre": {"S":"Action|Western"},
+                       "movie_ratings": {"S":"{'66': '4.0', '140': '4.0', '387': '2.0', '414': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Quick Change (1990)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'66': '2.5', '91': '4.0', '199': '4.0', '288': '4.0', '289': '4.0', '510': '2.5', '599': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Radio Flyer (1992)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'307': '3.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Real McCoy, The (1993)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'594': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Revenge (1990)"},
+                       "genre": {"S":"Drama|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'594': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Secret of My Succe$s, The (a.k.a. The Secret of My Success) (1987)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'414': '3.5', '474': '3.5', '599': '2.5', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Show Me Love (Fucking Åmål) (1998)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'104': '5.0', '132': '3.0', '144': '4.0', '318': '3.5', '346': '4.0', '414': '5.0', '489': '3.0', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Teen Wolf (1985)"},
+                       "genre": {"S":"Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'104': '3.0', '448': '2.5', '474': '3.5', '520': '5.0', '522': '2.5', '590': '3.0', '606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"High Heels (Tacones lejanos) (1991)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Things You Can Tell Just by Looking at Her (2000)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'182': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"To Live and Die in L.A. (1985)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'51': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Trapped in Paradise (1994)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wild at Heart (1990)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'187': '4.0', '380': '5.0', '387': '3.0', '405': '4.0', '462': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Witches, The (1990)"},
+                       "genre": {"S":"Children|Fantasy"},
+                       "movie_ratings": {"S":"{'169': '3.5', '509': '3.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Witches of Eastwick, The (1987)"},
+                       "genre": {"S":"Comedy|Fantasy|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'66': '4.5', '68': '2.0', '307': '2.0', '448': '3.0', '474': '3.5', '489': '4.0', '517': '0.5', '578': '1.5', '594': '0.5', '599': '2.5', '606': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Black Widow (1987)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'310': '2.5', '474': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Herod's Law (Ley de Herodes, La) (2000)"},
+                       "genre": {"S":"Comedy|Crime|Mystery"},
+                       "movie_ratings": {"S":"{'432': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Flesh & Blood (1985)"},
+                       "genre": {"S":"Action|Adventure|Drama|War"},
+                       "movie_ratings": {"S":"{'599': '2.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"King Solomon's Mines (1985)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'91': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Raw Deal (1986)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'380': '4.0', '414': '2.5', '561': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Goodbye, Mr. Chips (1939)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'221': '3.5', '474': '3.5', '590': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Follow Me, Boys! (1966)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'88': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Against the Ropes (2004)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'414': '2.0', '438': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Confessions of a Teenage Drama Queen (2004)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'143': '3.0', '307': '1.5', '509': '3.0', '563': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"EuroTrip (2004)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'18': '3.0', '105': '4.0', '111': '3.0', '139': '2.0', '153': '0.5', '169': '4.0', '249': '4.5', '256': '4.5', '274': '2.5', '298': '3.0', '307': '1.5', '414': '3.0', '560': '3.0', '564': '4.0', '573': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Passion of the Christ, The (2004)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'18': '2.5', '64': '3.5', '105': '3.5', '169': '5.0', '221': '0.5', '414': '3.5', '474': '4.0', '489': '3.0', '495': '0.5', '525': '2.5', '567': '2.5', '580': '2.5', '600': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Club Dread (2004)"},
+                       "genre": {"S":"Comedy|Horror"},
+                       "movie_ratings": {"S":"{'219': '1.5', '307': '1.0', '387': '2.0', '414': '2.0', '448': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dirty Dancing: Havana Nights (2004)"},
+                       "genre": {"S":"Romance"},
+                       "movie_ratings": {"S":"{'68': '3.0', '132': '3.0', '463': '4.0', '563': '2.5', '594': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Twisted (2004)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'274': '3.5', '307': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Good bye, Lenin! (2003)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'18': '3.0', '74': '5.0', '83': '5.0', '132': '3.0', '182': '3.0', '190': '4.5', '199': '3.0', '227': '4.5', '249': '3.0', '256': '4.0', '298': '1.5', '305': '5.0', '318': '3.5', '346': '3.5', '356': '5.0', '387': '3.5', '414': '4.0', '416': '4.5', '474': '4.0', '560': '4.0', '578': '4.0', '600': '2.5', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hidalgo (2004)"},
+                       "genre": {"S":"Adventure|Drama"},
+                       "movie_ratings": {"S":"{'140': '3.0', '232': '3.5', '274': '3.5', '288': '3.0', '307': '3.0', '382': '3.5', '408': '4.0', '414': '3.0', '590': '3.0', '608': '4.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Starsky & Hutch (2004)"},
+                       "genre": {"S":"Action|Comedy|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'66': '3.0', '68': '4.5', '82': '4.0', '89': '1.5', '111': '3.0', '199': '4.0', '222': '4.0', '226': '4.0', '232': '3.0', '249': '4.0', '274': '2.0', '281': '4.0', '288': '3.0', '298': '2.5', '414': '2.5', '448': '3.0', '474': '3.5', '480': '3.0', '484': '4.0', '590': '2.5', '608': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Reckoning, The (2004)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Persona (1966)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'50': '4.0', '105': '4.0', '346': '4.5', '387': '4.5', '580': '2.0', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Passion of Anna, The (Passion, En) (1969)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'387': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Corbeau, Le (Raven, The) (1943)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'168': '4.5', '387': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pickup on South Street (1953)"},
+                       "genre": {"S":"Film-Noir"},
+                       "movie_ratings": {"S":"{'477': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Damned, The (La Caduta degli dei) (1969)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'387': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Just One of the Guys (1985)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'414': '2.0', '474': '3.0', '562': '4.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wrong Arm of the Law, The (1963)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

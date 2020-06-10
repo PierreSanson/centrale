@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Americanization of Emily, The (1964)"},
+                       "genre": {"S":"Comedy|Drama|War"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Anne of the Thousand Days (1969)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Avventura, L' (Adventure, The) (1960)"},
+                       "genre": {"S":"Drama|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'387': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beyond the Valley of the Dolls (1970)"},
+                       "genre": {"S":"Comedy|Horror"},
+                       "movie_ratings": {"S":"{'387': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hiroshima Mon Amour (1959)"},
+                       "genre": {"S":"Drama|Romance|War"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ugetsu (Ugetsu monogatari) (1953)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'140': '1.0', '387': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Day of the Jackal, The (1973)"},
+                       "genre": {"S":"Crime|Thriller"},
+                       "movie_ratings": {"S":"{'7': '4.5', '28': '3.5', '74': '4.0', '140': '4.0', '387': '4.5', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Night of the Living Dead (1990)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'274': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Maltese Falcon, The (a.k.a. Dangerous Female) (1931)"},
+                       "genre": {"S":"Mystery"},
+                       "movie_ratings": {"S":"{'23': '4.0', '137': '4.5', '156': '5.0', '168': '5.0', '187': '4.0', '219': '4.0', '221': '4.5', '280': '3.0', '309': '4.0', '322': '3.5', '346': '3.0', '387': '4.0', '397': '4.0', '474': '4.0', '477': '3.0', '517': '1.5', '580': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Love You Again (1940)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Safety Last! (1923)"},
+                       "genre": {"S":"Action|Comedy|Romance"},
+                       "movie_ratings": {"S":"{'50': '3.0', '474': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"While the City Sleeps (1956)"},
+                       "genre": {"S":"Drama|Film-Noir"},
+                       "movie_ratings": {"S":"{'580': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Little Murders (1971)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Viridiana (1961)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'387': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Masterminds (1997)"},
+                       "genre": {"S":"Action|Comedy|Thriller"},
+                       "movie_ratings": {"S":"{'274': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lupin III: The Castle Of Cagliostro (Rupan sansei: Kariosutoro no shiro) (1979)"},
+                       "genre": {"S":"Action|Adventure|Animation|Comedy|Crime|Mystery"},
+                       "movie_ratings": {"S":"{'50': '3.5', '343': '1.5', '387': '3.5', '477': '4.5', '483': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Arizona Dream (1993)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'125': '5.0', '246': '4.0', '390': '5.0', '405': '4.0', '580': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"3 Women (Three Women) (1977)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'301': '4.0', '345': '4.0', '600': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Grey Gardens (1975)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'525': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Purple Rain (1984)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'91': '1.5', '226': '3.5', '387': '3.5', '414': '2.5', '474': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Point of No Return (1993)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'482': '4.0', '594': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hairdresser's Husband, The (Le mari de la coiffeuse) (1990)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'387': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"College (1927)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mitchell (1975)"},
+                       "genre": {"S":"Action|Crime"},
+                       "movie_ratings": {"S":"{'387': '1.0', '448': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Used People (1992)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

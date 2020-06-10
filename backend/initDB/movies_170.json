@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spider (2002)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'318': '3.0', '414': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lady Jane (1986)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Late Marriage (Hatuna Meuheret) (2001)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Life Stinks (1991)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'91': '1.5', '599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Meteor Man, The (1993)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Volcano High (Whasango) (2001)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'420': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bringing Down the House (2003)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'177': '2.5', '232': '2.5', '307': '2.5', '424': '1.0', '448': '1.5', '590': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tears of the Sun (2003)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'140': '3.0', '232': '4.0', '274': '3.5', '298': '0.5', '414': '2.0', '419': '3.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Irreversible (Irréversible) (2002)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'64': '4.0', '105': '4.5', '187': '4.0', '241': '4.0', '351': '4.0', '387': '3.5', '432': '3.5', '567': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Laurel Canyon (2002)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'182': '3.0', '199': '3.0', '414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nowhere in Africa (Nirgendwo in Afrika) (2001)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'414': '4.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Safety of Objects, The (2001)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'182': '4.5', '599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bend It Like Beckham (2002)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'64': '4.0', '68': '2.0', '89': '2.5', '91': '1.5', '95': '4.5', '104': '4.0', '129': '4.5', '132': '3.0', '140': '3.0', '144': '3.5', '156': '4.5', '169': '4.0', '199': '3.5', '200': '4.0', '226': '2.5', '254': '1.5', '263': '4.0', '275': '5.0', '280': '3.0', '286': '3.0', '298': '1.5', '307': '1.0', '318': '2.5', '341': '3.0', '354': '3.5', '380': '4.0', '381': '4.5', '382': '3.5', '390': '2.0', '414': '5.0', '438': '3.5', '448': '2.0', '466': '4.0', '474': '4.0', '487': '2.0', '489': '2.5', '525': '3.5', '560': '3.5', '593': '5.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hunted, The (2003)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'91': '3.0', '140': '3.0', '232': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Willard (2003)"},
+                       "genre": {"S":"Drama|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'274': '2.0', '307': '1.0', '380': '4.0', '414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Prozac Nation (2001)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spun (2001)"},
+                       "genre": {"S":"Comedy|Crime|Drama"},
+                       "movie_ratings": {"S":"{'351': '4.0', '414': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"King of Kings (1961)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Talk of the Town, The (1942)"},
+                       "genre": {"S":"Comedy|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Born Free (1966)"},
+                       "genre": {"S":"Adventure|Children|Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Equus (1977)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'23': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Europa Europa (Hitlerjunge Salomon) (1990)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'74': '5.0', '462': '4.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Glenn Miller Story, The (1953)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Green Card (1990)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'3': '0.5', '66': '3.0', '104': '4.0', '414': '1.5', '427': '2.5', '474': '3.5', '489': '4.0', '599': '2.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Journey to the Center of the Earth (1959)"},
+                       "genre": {"S":"Adventure|Children|Sci-Fi"},
+                       "movie_ratings": {"S":"{'50': '2.5', '288': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

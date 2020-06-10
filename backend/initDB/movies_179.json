@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brother's Keeper (1992)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'357': '4.0', '462': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Love You to Death (1990)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'474': '2.5', '503': '3.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Freddy vs. Jason (2003)"},
+                       "genre": {"S":"Action|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'232': '2.5', '249': '2.0', '274': '2.5', '307': '1.5', '380': '4.0', '480': '2.0', '489': '1.0', '599': '2.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Grind (2003)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'414': '1.5', '484': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Open Range (2003)"},
+                       "genre": {"S":"Western"},
+                       "movie_ratings": {"S":"{'28': '4.0', '66': '4.5', '140': '4.0', '199': '3.5', '288': '3.5', '310': '4.5', '414': '3.5', '438': '4.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shaolin Soccer (Siu lam juk kau) (2001)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'34': '5.0', '68': '3.0', '105': '4.0', '219': '3.5', '246': '4.0', '249': '4.5', '274': '3.0', '408': '5.0', '414': '3.0', '438': '3.5', '448': '4.0', '462': '3.5', '560': '3.5', '599': '2.5', '606': '4.0', '608': '4.5', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Uptown Girls (2003)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'143': '5.0', '177': '3.0', '232': '1.5', '307': '2.0', '563': '3.0', '583': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"American Splendor (2003)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'91': '3.5', '182': '4.0', '187': '5.0', '260': '4.5', '287': '5.0', '288': '4.5', '298': '3.0', '356': '2.0', '387': '2.5', '414': '4.5', '462': '4.5', '474': '4.5', '477': '5.0', '480': '4.0', '504': '3.0', '599': '2.5', '600': '3.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Agent Cody Banks (2003)"},
+                       "genre": {"S":"Action|Adventure|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'177': '2.0', '182': '0.5', '232': '2.0', '414': '2.0', '605': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Camp Nowhere (1994)"},
+                       "genre": {"S":"Adventure|Children|Comedy"},
+                       "movie_ratings": {"S":"{'226': '4.0', '307': '2.5', '387': '1.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hot Dog... The Movie (1984)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'414': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"House of Wax (1953)"},
+                       "genre": {"S":"Crime|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'91': '4.0', '288': '3.0', '454': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Man's Best Friend (1993)"},
+                       "genre": {"S":"Horror|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'414': '1.5', '599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sure Thing, The (1985)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'66': '4.0', '356': '3.5', '414': '4.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Valley Girl (1983)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'91': '2.0', '414': '2.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wait Until Dark (1967)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'221': '4.0', '260': '4.0', '309': '4.0', '474': '3.5', '514': '4.0', '590': '4.0', '594': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tokyo Story (Tôkyô monogatari) (1953)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '3.5', '346': '4.0', '580': '0.5', '600': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Green Ray, The (Rayon vert, Le) (1986)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"THX 1138 (1971)"},
+                       "genre": {"S":"Action|Adventure|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'182': '4.5', '288': '3.5', '387': '3.5', '448': '2.5', '477': '4.5', '580': '4.0', '599': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kind Hearts and Coronets (1949)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '1.0', '137': '5.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Atragon (Kaitei Gunkan) (1963)"},
+                       "genre": {"S":"Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'377': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Attack of the Puppet People (1958)"},
+                       "genre": {"S":"Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'377': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"10 (1979)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'156': '3.5', '271': '2.0', '345': '4.5', '448': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tremors (1990)"},
+                       "genre": {"S":"Comedy|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'51': '4.0', '64': '4.5', '68': '3.0', '91': '5.0', '221': '3.5', '226': '3.5', '274': '4.0', '380': '5.0', '381': '1.0', '387': '4.0', '448': '2.5', '534': '4.0', '594': '2.0', '599': '3.0', '600': '3.0', '608': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Red Shoes, The (1948)"},
+                       "genre": {"S":"Drama|Fantasy|Musical|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

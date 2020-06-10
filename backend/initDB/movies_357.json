@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bloodsport III (1996)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Good Dinosaur (2015)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'21': '3.0', '306': '4.5', '567': '1.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Black Mass (2015)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'50': '2.0', '111': '2.5', '560': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spectre (2015)"},
+                       "genre": {"S":"Action|Adventure|Crime"},
+                       "movie_ratings": {"S":"{'10': '5.0', '21': '4.0', '50': '2.0', '62': '4.5', '298': '2.5', '305': '3.0', '341': '4.5', '380': '4.0', '408': '4.0', '418': '0.5', '448': '3.0', '517': '1.0', '551': '4.5', '560': '2.5', '561': '2.5', '567': '1.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Professional: Golgo 13 (1983)"},
+                       "genre": {"S":"Action|Animation|Crime"},
+                       "movie_ratings": {"S":"{'318': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mortal Kombat: The Journey Begins (1995)"},
+                       "genre": {"S":"Action|Animation"},
+                       "movie_ratings": {"S":"{'599': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sharknado 3: Oh Hell No! (2015)"},
+                       "genre": {"S":"Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'50': '1.0', '448': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scooby-Doo! and the Samurai Sword (2009)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scooby-Doo! and the Loch Ness Monster (2004)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Big Top Scooby-Doo! (2012)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scooby-Doo Goes Hollywood (1979)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gabriel Iglesias: Hot and Fluffy (2007)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"George Carlin: Back in Town (1996)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"George Carlin: You Are All Diseased (1999)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ghost in the Shell 2.0 (2008)"},
+                       "genre": {"S":"Action|Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'298': '3.5', '599': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Larry David: Curb Your Enthusiasm (1999)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'424': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kevin Hart: Laugh at My Pain (2011)"},
+                       "genre": {"S":"Comedy|Documentary"},
+                       "movie_ratings": {"S":"{'111': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tom and Jerry: Shiver Me Whiskers (2006)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jeff Dunham: All Over the Map (2014)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The FP (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'408': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kung Fu Panda: Secrets of the Masters (2011)"},
+                       "genre": {"S":"Animation|Children"},
+                       "movie_ratings": {"S":"{'586': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Steve Jobs (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'119': '3.5', '184': '5.0', '339': '3.0', '448': '3.0', '495': '4.5', '599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Macbeth (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'50': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Vacation (2015)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.0', '119': '5.0', '365': '3.5', '448': '1.5', '564': '4.0', '610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Creep (2014)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'567': '2.0', '610': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Father Hood (1993)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hello Again (1987)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hope Springs (2003)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'292': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lover Come Back (1961)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Police Academy: Mission to Moscow (1994)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'382': '0.5', '387': '0.5', '448': '1.5', '489': '0.5', '599': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Big Wednesday (1978)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Book of Love (1990)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'307': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hour of the Wolf (Vargtimmen) (1968)"},
+                       "genre": {"S":"Drama|Horror"},
+                       "movie_ratings": {"S":"{'346': '4.5', '387': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Suddenly (1954)"},
+                       "genre": {"S":"Crime|Drama|Film-Noir"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Divorcee, The (1930)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Meet the Applegates (1991)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Robot Carnival (Roboto kânibauru) (1987)"},
+                       "genre": {"S":"Animation|Comedy|Drama|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'91': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Americathon (1979)"},
+                       "genre": {"S":"Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'580': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sands of Iwo Jima (1949)"},
+                       "genre": {"S":"Action|Drama|Romance|War"},
+                       "movie_ratings": {"S":"{'474': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"This Island Earth (1955)"},
+                       "genre": {"S":"Sci-Fi"},
+                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Anthony Adverse (1936)"},
+                       "genre": {"S":"Adventure|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blackboard Jungle (1955)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Luna Papa (1999)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Investigation of a Citizen Above Suspicion (Indagine su un cittadino al di sopra di ogni sospetto) (1970)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"To Each His Own (1946)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Heiress, The (1949)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dragon Seed (1944)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Executive Suite (1954)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Johnny Belinda (1948)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Super Size Me (2004)"},
+                       "genre": {"S":"Comedy|Documentary|Drama"},
+                       "movie_ratings": {"S":"{'22': '0.5', '47': '3.0', '51': '5.0', '52': '4.0', '63': '4.0', '64': '4.0', '68': '4.5', '105': '4.0', '119': '3.5', '122': '4.5', '132': '2.5', '153': '1.0', '166': '3.5', '177': '4.5', '178': '3.5', '187': '4.0', '190': '4.0', '220': '4.0', '221': '4.5', '226': '3.5', '232': '3.0', '249': '4.0', '260': '3.0', '274': '3.5', '288': '3.0', '298': '2.0', '307': '3.0', '308': '1.0', '318': '3.5', '328': '3.0', '339': '4.5', '354': '4.0', '357': '4.0', '365': '2.0', '370': '3.5', '381': '3.5', '414': '4.0', '419': '5.0', '420': '4.5', '438': '4.0', '448': '3.5', '462': '3.0', '474': '4.0', '480': '3.0', '525': '3.5', '551': '4.0', '560': '4.0', '600': '3.0', '606': '4.0', '608': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

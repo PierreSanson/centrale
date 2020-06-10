@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"7 Days in Hell (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'73': '4.0', '249': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Walk (2015)"},
+                       "genre": {"S":"Adventure|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'50': '2.5', '448': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"13 Hours (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'119': '5.0', '305': '3.0', '365': '1.5', '448': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"There Will Come a Day (2013)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'153': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Opposite Sex (2014)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Gallows (2015)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tokyo Tribe (2014)"},
+                       "genre": {"S":"Action|Crime|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Feast (2014)"},
+                       "genre": {"S":"Animation|Children|Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Joe Dirt 2: Beautiful Loser (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'298': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Return to Treasure Island (1988)"},
+                       "genre": {"S":"Adventure|Animation|Comedy"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nasu: Summer in Andalusia (2003)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'318': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dark Places (2015)"},
+                       "genre": {"S":"Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Afro Samurai (2007)"},
+                       "genre": {"S":"Action|Adventure|Animation|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Massu Engira Maasilamani (2015)"},
+                       "genre": {"S":"Comedy|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Revenant (2015)"},
+                       "genre": {"S":"Adventure|Drama"},
+                       "movie_ratings": {"S":"{'18': '3.5', '24': '3.0', '41': '4.0', '47': '0.5', '49': '4.5', '50': '2.5', '62': '4.0', '68': '3.0', '119': '4.0', '122': '5.0', '125': '3.0', '141': '4.0', '247': '5.0', '249': '5.0', '279': '5.0', '282': '4.5', '298': '3.0', '305': '3.0', '319': '4.5', '326': '5.0', '339': '4.0', '352': '5.0', '414': '5.0', '448': '3.5', '475': '4.0', '495': '5.0', '511': '5.0', '560': '2.5', '561': '3.5', '567': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Irrational Man (2015)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Exte: Hair Extensions (2007)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ooops! Noah is Gone... (2015)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Southpaw (2015)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'21': '0.5', '103': '3.5', '119': '4.0', '298': '2.0', '448': '3.0', '495': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sicario (2015)"},
+                       "genre": {"S":"Crime|Drama|Mystery"},
+                       "movie_ratings": {"S":"{'50': '3.0', '298': '2.0', '305': '3.5', '414': '4.5', '462': '3.5', '495': '4.0', '560': '4.0', '567': '3.5', '596': '3.5', '599': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Goodnight Mommy (Ich seh ich seh) (2014)"},
+                       "genre": {"S":"Drama|Fantasy|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"10 Cent Pistol (2015)"},
+                       "genre": {"S":"Crime|Thriller"},
+                       "movie_ratings": {"S":"{'21': '0.5', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Before We Go (2014)"},
+                       "genre": {"S":"Romance"},
+                       "movie_ratings": {"S":"{'563': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Anomalisa (2015)"},
+                       "genre": {"S":"Animation|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'125': '3.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Colonia (2016)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           }
+   ]
+}

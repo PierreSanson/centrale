@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spies Like Us (1985)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'320': '3.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"White Nights (1985)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"'Round Midnight (1986)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'332': '3.5', '377': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Club Paradise (1986)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sacrifice, The (Offret - Sacraficatio) (1986)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'74': '4.0', '105': '4.5', '387': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Better Tomorrow, A (Ying hung boon sik) (1986)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'380': '4.0', '599': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Decalogue, The (Dekalog) (1989)"},
+                       "genre": {"S":"Crime|Drama|Romance"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"G.I. Joe: The Movie (1987)"},
+                       "genre": {"S":"Action|Adventure|Animation|Children|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hell Comes to Frogtown (1988)"},
+                       "genre": {"S":"Action|Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Law of Desire (Ley del deseo, La) (1987)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Prince of Darkness (1987)"},
+                       "genre": {"S":"Fantasy|Horror|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chinese Ghost Story, A (Sinnui yauwan) (1987)"},
+                       "genre": {"S":"Action|Fantasy|Horror|Romance"},
+                       "movie_ratings": {"S":"{'34': '4.5', '483': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Better Tomorrow II, A (Ying hung boon sik II) (1987)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'599': '3.0', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bourne Identity, The (1988)"},
+                       "genre": {"S":"Action|Adventure|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.5', '28': '4.0', '68': '4.0', '282': '4.0', '292': '4.5', '517': '2.5', '522': '4.0', '590': '3.5', '600': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dominick and Eugene (1988)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Killer Klowns from Outer Space (1988)"},
+                       "genre": {"S":"Comedy|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'274': '2.5', '307': '1.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Moonwalker (1988)"},
+                       "genre": {"S":"Musical"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Alice (Neco z Alenky) (1988)"},
+                       "genre": {"S":"Animation|Fantasy|Mystery"},
+                       "movie_ratings": {"S":"{'398': '4.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Life Is a Long Quiet River (La vie est un long fleuve tranquille) (1988)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lonesome Dove (1989)"},
+                       "genre": {"S":"Adventure|Drama|Western"},
+                       "movie_ratings": {"S":"{'28': '4.0', '599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kiki's Delivery Service (Majo no takkyûbin) (1989)"},
+                       "genre": {"S":"Adventure|Animation|Children|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'105': '4.0', '166': '5.0', '187': '4.5', '212': '4.0', '246': '4.5', '371': '4.5', '380': '5.0', '381': '4.0', '387': '3.0', '474': '4.0', '477': '4.5', '483': '4.0', '509': '3.5', '525': '4.0', '599': '2.0', '600': '4.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Almost an Angel (1990)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cry-Baby (1990)"},
+                       "genre": {"S":"Comedy|Musical|Romance"},
+                       "movie_ratings": {"S":"{'51': '3.5', '125': '5.0', '307': '3.5', '474': '3.0', '600': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bullet in the Head (1990)"},
+                       "genre": {"S":"Action|Drama|War"},
+                       "movie_ratings": {"S":"{'125': '3.0', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ghost Dad (1990)"},
+                       "genre": {"S":"Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'249': '2.5', '307': '1.0', '599': '1.0'}"}
+                   }
+               }
+           }
+   ]
+}

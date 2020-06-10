@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tales of Manhattan (1942)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Day of Wrath (Vredens dag) (1943)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'387': '4.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Miracle of Morgan's Creek, The (1944)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'600': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mr. Skeffington (1944)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'177': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Great Expectations (1946)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'600': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stranger, The (1946)"},
+                       "genre": {"S":"Drama|Film-Noir|Thriller"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Easter Parade (1948)"},
+                       "genre": {"S":"Musical|Romance"},
+                       "movie_ratings": {"S":"{'104': '3.5', '177': '3.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lady from Shanghai, The (1947)"},
+                       "genre": {"S":"Drama|Film-Noir|Mystery"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Three Musketeers, The (1948)"},
+                       "genre": {"S":"Action|Adventure|Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Unfaithfully Yours (1948)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'600': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Letter to Three Wives, A (1949)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Annie Get Your Gun (1950)"},
+                       "genre": {"S":"Comedy|Musical|Romance|Western"},
+                       "movie_ratings": {"S":"{'377': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"King Solomon's Mines (1950)"},
+                       "genre": {"S":"Action|Adventure|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Young and the Damned, The (Olvidados, Los) (1950)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'387': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Star Is Born, A (1954)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Wild One (1953)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Confidential Report (1955)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'387': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Night and Fog (Nuit et brouillard) (1955)"},
+                       "genre": {"S":"Crime|Documentary|War"},
+                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Teacher's Pet (1958)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Human Condition II, The (Ningen no joken II) (1959)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pickpocket (1959)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'387': '4.0', '567': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"When a Woman Ascends the Stairs (Onna ga kaidan wo agaru toki) (1960)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Human Condition III, The (Ningen no joken III) (1961)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'318': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Advise and Consent (1962)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'168': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Harakiri (Seppuku) (1962)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '4.0', '187': '5.0', '483': '4.5'}"}
+                   }
+               }
+           }
+   ]
+}

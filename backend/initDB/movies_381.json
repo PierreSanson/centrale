@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mystère à la Tour Eiffel (2015)"},
+                       "genre": {"S":"Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'596': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stefan Zweig: Farewell to Europe (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Saved by the Bell: Hawaiian Style (1992)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '3.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Plain Clothes (1988)"},
+                       "genre": {"S":"Comedy|Mystery|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Prime Gig (2000)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Night Before (1988)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Late Night with Conan O'Brien: The Best of Triumph the Insult Comic Dog (2004)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Get Me Roger Stone (2017)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"T2 3-D: Battle Across Time (1996)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'380': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Despicable Me 3 (2017)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.0', '153': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Year's Snow Was Falling (1983)"},
+                       "genre": {"S":"Animation|Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Investigation Held by Kolobki (1986)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Karlson Returns (1970)"},
+                       "genre": {"S":"Adventure|Animation|Children"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Vacations in Prostokvashino (1980)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Winter in Prostokvashino (1984)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Godfather Trilogy: 1972-1990 (1992)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'62': '5.0', '601': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Priklyucheniya Kapitana Vrungelya (1979)"},
+                       "genre": {"S":"Action|Adventure|Animation|Comedy"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tickling Giants (2017)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'184': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Vovka in the Kingdom of Far Far Away (1965)"},
+                       "genre": {"S":"Adventure|Animation|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Adventures of Mowgli: The Kidnapping (1968)"},
+                       "genre": {"S":"Adventure|Animation|Children"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Detective Story (2003)"},
+                       "genre": {"S":"Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'380': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Final Flight of the Osiris (2003)"},
+                       "genre": {"S":"Action|Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'380': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kid's Story (2003)"},
+                       "genre": {"S":"Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cheburashka (1971)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"War for the Planet of the Apes (2017)"},
+                       "genre": {"S":"Action|Adventure|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'153': '0.5', '380': '5.0', '462': '2.0', '586': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Zoolander (2001)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'18': '3.0', '20': '3.5', '41': '5.0', '63': '2.5', '64': '3.5', '68': '4.0', '82': '4.0', '103': '3.5', '111': '3.0', '122': '4.5', '141': '3.5', '182': '3.5', '200': '5.0', '219': '4.5', '222': '4.5', '226': '3.0', '232': '4.0', '249': '4.0', '274': '3.5', '275': '5.0', '279': '4.0', '280': '4.0', '282': '2.5', '288': '3.0', '292': '2.0', '316': '3.0', '331': '3.0', '341': '4.0', '346': '3.0', '381': '2.0', '387': '3.0', '413': '0.5', '414': '4.0', '419': '4.0', '420': '4.0', '424': '3.0', '426': '2.0', '438': '2.5', '448': '3.0', '480': '4.5', '483': '5.0', '484': '4.5', '489': '1.5', '495': '5.0', '525': '4.0', '534': '4.0', '542': '1.5', '560': '4.0', '561': '3.0', '573': '5.0', '590': '2.5', '600': '4.5', '608': '3.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Extreme Days (2001)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'414': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Joy Ride (2001)"},
+                       "genre": {"S":"Adventure|Thriller"},
+                       "movie_ratings": {"S":"{'20': '0.5', '274': '3.5', '380': '5.0', '608': '2.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Max Keeble's Big Move (2001)"},
+                       "genre": {"S":"Children|Comedy"},
+                       "movie_ratings": {"S":"{'140': '3.0', '232': '2.5', '414': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Serendipity (2001)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'68': '3.0', '105': '3.5', '108': '3.0', '159': '3.0', '169': '4.0', '177': '3.5', '182': '3.0', '198': '1.0', '200': '4.0', '232': '3.5', '298': '1.5', '381': '3.0', '414': '2.0', '438': '4.5', '474': '4.0', '480': '2.5', '483': '3.5', '484': '4.5', '504': '2.5', '525': '3.0', '562': '5.0', '590': '2.5', '594': '5.0', '603': '1.0', '606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Swamp, The (Ciénaga, La) (2001)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'318': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Big Red One, The (1980)"},
+                       "genre": {"S":"Action|Adventure|Drama|War"},
+                       "movie_ratings": {"S":"{'182': '4.5', '477': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Boogeyman, The (1980)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'594': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Party, The (Boum, La) (1980)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brubaker (1980)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'292': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Can't Stop the Music (1980)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'479': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Changeling, The (1980)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'387': '2.5', '422': '4.0', '514': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Coal Miner's Daughter (1980)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'307': '2.5', '422': '4.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Competition, The (1980)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'140': '3.5', '527': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Metro, The (Dernier métro, Le) (1980)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bandits (2001)"},
+                       "genre": {"S":"Comedy|Crime|Romance"},
+                       "movie_ratings": {"S":"{'7': '1.5', '132': '4.0', '140': '4.0', '222': '2.5', '414': '2.0', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Corky Romano (2001)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'298': '0.5', '424': '3.0', '599': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau) (1993)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'20': '2.5', '91': '3.5', '414': '4.0', '438': '5.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fat Girl (À ma soeur!) (2001)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'414': '2.5', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mulholland Drive (2001)"},
+                       "genre": {"S":"Crime|Drama|Film-Noir|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'20': '1.5', '22': '4.5', '41': '5.0', '69': '4.0', '80': '4.0', '103': '5.0', '125': '4.5', '132': '4.5', '140': '4.0', '153': '2.5', '182': '5.0', '187': '5.0', '190': '4.0', '199': '3.0', '219': '4.0', '238': '4.0', '246': '5.0', '260': '3.0', '274': '4.0', '275': '4.0', '286': '5.0', '287': '4.0', '288': '3.5', '300': '4.0', '307': '3.0', '313': '4.0', '317': '3.0', '318': '4.0', '325': '4.0', '339': '5.0', '344': '1.5', '357': '4.0', '387': '5.0', '391': '5.0', '393': '3.0', '405': '4.5', '414': '4.0', '416': '4.0', '418': '3.0', '424': '3.5', '448': '3.0', '474': '3.5', '480': '3.5', '489': '2.0', '509': '3.5', '552': '4.0', '561': '2.0', '580': '4.0', '599': '4.5', '606': '3.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"My First Mister (2001)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'182': '4.0', '414': '3.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spriggan (Supurigan) (1998)"},
+                       "genre": {"S":"Action|Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'91': '4.5', '387': '2.5', '428': '3.5', '477': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bones (2001)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'238': '3.0', '307': '1.0', '610': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dirty Harry (1971)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'24': '4.0', '28': '2.5', '51': '4.5', '68': '2.5', '91': '4.0', '140': '4.0', '238': '4.0', '274': '3.5', '282': '4.0', '313': '3.0', '318': '3.5', '380': '5.0', '422': '4.0', '448': '4.0', '452': '5.0', '480': '3.5', '514': '4.0', '590': '3.5', '599': '3.0', '603': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fiddler on the Roof (1971)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'140': '4.5', '169': '5.0', '186': '4.0', '357': '4.5', '474': '4.0', '488': '4.0', '525': '3.5', '600': '1.0'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bellflower (2011)"},
+                       "genre": {"S":"Action|Drama|Romance"},
+                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"50/50 (2011)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'62': '4.5', '68': '3.5', '89': '3.0', '105': '4.0', '152': '3.5', '159': '3.5', '211': '3.5', '249': '3.5', '298': '3.0', '317': '3.0', '326': '3.5', '339': '4.0', '365': '4.0', '414': '4.0', '489': '5.0', '490': '3.0', '539': '3.0', '564': '3.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Generation P (2011)"},
+                       "genre": {"S":"Comedy|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Artist (2011)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'63': '5.0', '104': '4.0', '153': '5.0', '177': '5.0', '305': '4.5', '339': '4.5', '414': '5.0', '448': '4.0', '483': '4.5', '543': '0.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gigi (1949)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'177': '3.0', '489': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"BlinkyTM (2011)"},
+                       "genre": {"S":"Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'318': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Take Shelter (2011)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'249': '4.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Three Outlaw Samurai (Sanbiki no samurai) (1964)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Antonio Gaudí (1985)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Real Steel (2011)"},
+                       "genre": {"S":"Action|Drama|Sci-Fi|IMAX"},
+                       "movie_ratings": {"S":"{'21': '3.5', '249': '3.5', '292': '3.5', '298': '1.0', '305': '4.0', '448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Footloose (2011)"},
+                       "genre": {"S":"Comedy|Drama|Musical"},
+                       "movie_ratings": {"S":"{'448': '2.5', '563': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Thing, The (2011)"},
+                       "genre": {"S":"Horror|Mystery|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'339': '4.5', '362': '4.0', '365': '2.0', '380': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beautiful Boy (2010)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'351': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tyrannosaur (2011)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Martha Marcy May Marlene (2011)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'418': '4.5', '448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"We Need to Talk About Kevin (2011)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'298': '3.5', '351': '3.5', '490': '3.5', '560': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Behind Enemy Lines II: Axis of Evil (2006)"},
+                       "genre": {"S":"Action|Thriller|War"},
+                       "movie_ratings": {"S":"{'464': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Three Musketeers, The (2011)"},
+                       "genre": {"S":"Action|Adventure"},
+                       "movie_ratings": {"S":"{'125': '2.5', '249': '3.0', '534': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In Time (2011)"},
+                       "genre": {"S":"Crime|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'80': '4.0', '105': '3.5', '211': '4.0', '212': '2.5', '222': '4.0', '249': '3.5', '256': '3.5', '279': '3.5', '305': '3.0', '339': '4.5', '352': '3.5', '414': '3.5', '564': '2.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Margaret (2011)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Carnage (2011)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'249': '4.5', '462': '3.5', '526': '5.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Margin Call (2011)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'249': '3.5', '305': '3.0', '317': '4.0', '339': '3.0', '448': '3.0', '537': '5.0', '551': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Paranormal Activity 3 (2011)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'80': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Puncture (2011)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'351': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Johnny English Reborn (2011)"},
+                       "genre": {"S":"Adventure|Comedy|Thriller"},
+                       "movie_ratings": {"S":"{'50': '1.5', '103': '4.0', '249': '3.0', '448': '2.0', '534': '3.5', '564': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

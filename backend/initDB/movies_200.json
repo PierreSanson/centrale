@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Protocol (1984)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Postman Always Rings Twice, The (1946)"},
+                       "genre": {"S":"Crime|Drama|Film-Noir|Thriller"},
+                       "movie_ratings": {"S":"{'177': '3.0', '221': '4.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Matinee (1993)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'514': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Baxter (1989)"},
+                       "genre": {"S":"Drama|Horror"},
+                       "movie_ratings": {"S":"{'594': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Explorers (1985)"},
+                       "genre": {"S":"Adventure|Children|Sci-Fi"},
+                       "movie_ratings": {"S":"{'64': '4.5', '503': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scent of Green Papaya, The (Mùi du du xhan - L'odeur de la papaye verte) (1993)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'387': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pierrot le fou (1965)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'50': '4.0', '346': '4.0', '387': '3.0', '599': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Weekend (a.k.a. Le Week-end) (Week End) (1967)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'387': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tuesdays with Morrie (1999)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'18': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Alexander Nevsky (Aleksandr Nevskiy) (1938)"},
+                       "genre": {"S":"Action|Drama|War"},
+                       "movie_ratings": {"S":"{'377': '5.0', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jason and the Argonauts (1963)"},
+                       "genre": {"S":"Action|Adventure|Fantasy"},
+                       "movie_ratings": {"S":"{'51': '3.5', '448': '4.0', '474': '3.0', '483': '4.0', '496': '4.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tinker, Tailor, Soldier, Spy (1979)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'137': '3.0', '474': '3.5', '525': '4.0', '599': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Throne of Blood (Kumonosu jô) (1957)"},
+                       "genre": {"S":"Action|Drama|Thriller|War"},
+                       "movie_ratings": {"S":"{'66': '4.0', '332': '4.0', '387': '4.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Best of Youth, The (La meglio gioventù) (2003)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'462': '4.5', '606': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Undercurrent (1946)"},
+                       "genre": {"S":"Film-Noir|Thriller"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bang, Bang, You're Dead (2002)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'132': '4.0', '608': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Twister (1990)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'307': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sniper (1993)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'594': '4.5', '599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Genghis Blues (1999)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'462': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Parallax View, The (1974)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Warriors, The (1979)"},
+                       "genre": {"S":"Action|Adventure|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'91': '4.0', '182': '4.0', '187': '4.0', '219': '4.5', '274': '4.0', '307': '3.0', '380': '5.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Babylon 5: A Call to Arms (1999)"},
+                       "genre": {"S":"Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'210': '4.0', '474': '3.0', '580': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Babylon 5: The River of Souls (1998)"},
+                       "genre": {"S":"Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'210': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Babylon 5: Thirdspace (1998)"},
+                       "genre": {"S":"Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'210': '4.0', '474': '3.5', '520': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"True Stories (1986)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'260': '5.0'}"}
+                   }
+               }
+           }
+   ]
+}

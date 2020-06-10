@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"10 Items or Less (2006)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'232': '3.0', '545': '1.5', '608': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Holiday, The (2006)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'7': '0.5', '10': '5.0', '21': '3.5', '41': '3.0', '68': '4.0', '89': '2.5', '104': '4.0', '111': '4.5', '159': '2.0', '177': '3.5', '232': '2.5', '249': '4.0', '280': '3.5', '381': '4.0', '414': '2.5', '480': '2.0', '489': '4.5', '491': '4.5', '506': '1.0', '525': '3.5', '562': '3.5', '563': '3.5', '564': '3.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Harsh Times (2006)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'307': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fast Food Nation (2006)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'305': '3.0', '318': '5.0', '480': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Great Train Robbery (1903)"},
+                       "genre": {"S":"Crime|Western"},
+                       "movie_ratings": {"S":"{'177': '4.0', '567': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tenacious D in The Pick of Destiny (2006)"},
+                       "genre": {"S":"Adventure|Comedy|Musical"},
+                       "movie_ratings": {"S":"{'111': '4.0', '222': '3.0', '232': '3.5', '249': '4.0', '298': '3.0', '307': '2.5', '318': '3.5', '380': '4.0', '414': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nativity Story, The (2006)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'140': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blood Diamond (2006)"},
+                       "genre": {"S":"Action|Adventure|Crime|Drama|Thriller|War"},
+                       "movie_ratings": {"S":"{'28': '4.5', '41': '4.0', '47': '3.0', '52': '5.0', '62': '4.5', '68': '3.0', '80': '4.0', '105': '3.5', '140': '4.0', '166': '4.0', '177': '4.0', '200': '4.0', '211': '4.0', '213': '4.0', '232': '4.0', '239': '4.0', '249': '3.5', '254': '4.0', '274': '4.0', '280': '4.5', '282': '4.5', '292': '2.5', '305': '4.5', '307': '4.5', '318': '3.5', '326': '5.0', '328': '2.0', '331': '3.5', '339': '4.0', '352': '5.0', '357': '4.0', '381': '4.5', '408': '4.0', '414': '4.0', '417': '4.0', '432': '2.5', '448': '3.0', '466': '4.0', '480': '4.5', '484': '4.5', '495': '4.5', '528': '2.5', '551': '4.0', '553': '4.0', '560': '3.5', '561': '3.0', '570': '3.5', '573': '4.0', '590': '3.0', '596': '2.5', '600': '1.0', '606': '3.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Charlotte's Web (2006)"},
+                       "genre": {"S":"Children|Comedy|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'382': '3.5', '474': '4.0', '567': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Eragon (2006)"},
+                       "genre": {"S":"Action|Adventure|Fantasy"},
+                       "movie_ratings": {"S":"{'62': '1.5', '129': '2.5', '177': '1.0', '249': '2.5', '380': '3.0', '381': '2.5', '414': '1.5', '448': '1.0', '480': '2.5', '556': '4.5', '605': '3.0', '606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rocky Balboa (2006)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'18': '3.5', '28': '2.5', '52': '4.5', '68': '3.0', '222': '2.0', '232': '2.5', '249': '3.5', '298': '3.0', '305': '4.0', '380': '5.0', '414': '4.0', '480': '4.0', '580': '2.0', '590': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fur: An Imaginary Portrait of Diane Arbus (2006)"},
+                       "genre": {"S":"Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dam Busters, The (1955)"},
+                       "genre": {"S":"Action|Drama|War"},
+                       "movie_ratings": {"S":"{'448': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Another Gay Movie (2006)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Painted Veil, The (2006)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'68': '2.5', '74': '4.0', '474': '4.5', '578': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"We Are Marshall (2006)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'232': '3.5', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Good Shepherd, The (2006)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'28': '3.0', '232': '3.0', '249': '3.5', '282': '4.0', '361': '1.5', '414': '4.0', '448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dreamgirls (2006)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'7': '3.0', '47': '2.5', '249': '3.5', '414': '2.5', '489': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Freedom Writers (2007)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'140': '2.5', '232': '4.0', '414': '3.5', '548': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"When the Levees Broke: A Requiem in Four Acts (2006)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Inland Empire (2006)"},
+                       "genre": {"S":"Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'187': '4.0', '246': '4.5', '380': '1.0', '387': '3.5', '405': '5.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"History Boys, The (2006)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'414': '3.0', '474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Notes on a Scandal (2006)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'28': '3.0', '68': '4.0', '232': '4.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"DOA: Dead or Alive (2006)"},
+                       "genre": {"S":"Action|Adventure"},
+                       "movie_ratings": {"S":"{'382': '3.0', '599': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'232': '3.0', '448': '2.5', '599': '2.0'}"}
+                   }
+               }
+           }
+   ]
+}

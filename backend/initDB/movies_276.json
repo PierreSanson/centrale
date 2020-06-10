@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Splinter (2008)"},
+                       "genre": {"S":"Action|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Australia (2008)"},
+                       "genre": {"S":"Adventure|Drama|War|Western"},
+                       "movie_ratings": {"S":"{'177': '2.0', '464': '4.0', '545': '2.5', '568': '4.5', '605': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bolt (2008)"},
+                       "genre": {"S":"Action|Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'15': '3.0', '21': '3.5', '68': '3.5', '98': '3.0', '105': '4.0', '177': '2.5', '249': '3.5', '292': '4.0', '305': '3.0', '306': '3.0', '328': '2.0', '466': '4.0', '491': '4.0', '509': '3.5', '534': '4.5', '561': '2.5', '567': '2.5', '586': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Milk (2008)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'47': '3.0', '152': '3.5', '177': '4.0', '215': '3.5', '318': '4.0', '326': '4.0', '414': '4.0', '462': '3.5', '526': '5.0', '528': '1.5', '596': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Twilight (2008)"},
+                       "genre": {"S":"Drama|Fantasy|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'10': '4.5', '12': '5.0', '62': '1.0', '73': '2.0', '76': '0.5', '98': '2.0', '105': '3.0', '111': '1.5', '177': '3.0', '220': '3.0', '232': '2.0', '280': '4.0', '298': '0.5', '305': '3.0', '352': '2.0', '414': '2.5', '495': '4.0', '509': '1.5', '525': '1.5', '556': '2.5', '563': '1.0', '605': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Children, The (2008)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Transporter 3 (2008)"},
+                       "genre": {"S":"Action|Adventure|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'28': '3.5', '249': '3.0', '318': '3.5', '380': '2.0', '599': '2.0', '610': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Four Christmases (2008)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'21': '2.5', '89': '2.5', '111': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'153': '1.0', '212': '3.0', '232': '4.0', '318': '4.0', '339': '4.5', '517': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fireproof (2008)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'103': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Igor (2008)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'89': '3.5', '307': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dinotopia (2002)"},
+                       "genre": {"S":"Adventure|Fantasy"},
+                       "movie_ratings": {"S":"{'318': '3.5', '534': '3.5', '605': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hunger (2008)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'18': '4.5', '419': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Punisher: War Zone (2008)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'220': '3.5', '274': '3.0', '292': '2.0', '298': '2.5', '380': '4.0', '477': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shrek the Halls (2007)"},
+                       "genre": {"S":"Adventure|Animation|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'380': '3.0', '517': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pervert's Guide to Cinema, The (2006)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'50': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wallace and Gromit in 'A Matter of Loaf and Death' (2008)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'63': '4.5', '298': '3.0', '380': '5.0', '448': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Day the Earth Stood Still, The (2008)"},
+                       "genre": {"S":"Drama|Sci-Fi|Thriller|IMAX"},
+                       "movie_ratings": {"S":"{'28': '3.0', '232': '2.5', '249': '3.0', '318': '3.0', '352': '3.0', '432': '2.5', '610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Che: Part One (2008)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'305': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Che: Part Two (2008)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'305': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Doubt (2008)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'22': '3.5', '28': '2.5', '68': '3.5', '177': '3.5', '219': '5.0', '381': '3.0', '390': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gran Torino (2008)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'15': '4.0', '18': '3.5', '28': '4.0', '65': '4.5', '103': '5.0', '105': '4.0', '119': '4.5', '131': '3.5', '177': '3.0', '199': '3.5', '209': '4.5', '212': '4.0', '222': '4.0', '227': '3.5', '232': '4.5', '233': '3.5', '249': '4.5', '274': '4.0', '279': '4.0', '280': '4.0', '292': '2.0', '298': '3.0', '305': '5.0', '317': '3.0', '318': '4.0', '326': '3.5', '330': '4.0', '339': '4.0', '352': '5.0', '362': '4.0', '405': '4.0', '414': '4.0', '419': '4.0', '432': '4.0', '445': '4.5', '483': '5.0', '490': '3.5', '495': '4.5', '528': '3.5', '551': '3.0', '560': '3.5', '561': '3.0', '573': '4.5', '585': '4.5', '590': '4.0', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Frost/Nixon (2008)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'29': '4.5', '52': '4.0', '152': '4.0', '177': '3.5', '219': '4.0', '305': '3.5', '326': '4.0', '414': '4.0', '590': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Reader, The (2008)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'68': '3.5', '222': '2.5', '232': '4.0', '307': '4.0', '351': '3.5', '490': '3.5', '517': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sword of the Stranger (Sutorejia: Mukô hadan) (2007)"},
+                       "genre": {"S":"Action|Adventure|Animation"},
+                       "movie_ratings": {"S":"{'534': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

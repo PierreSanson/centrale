@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blue Jasmine (2013)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'41': '3.0', '249': '4.5', '298': '3.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Great Beauty, The (Grande Bellezza, La) (2013)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'119': '5.0', '222': '2.0', '298': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"3 dev adam (Three Giant Men) (1973) "},
+                       "genre": {"S":"Action|Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Louis C.K.: Oh My God (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'63': '4.0', '105': '4.5', '298': '3.0', '522': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Percy Jackson: Sea of Monsters (2013)"},
+                       "genre": {"S":"Adventure|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'382': '3.0', '567': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Smurfs 2, The (2013)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'382': '2.0', '448': '1.5', '483': '3.5', '567': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Alan Partridge: Alpha Papa (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Man of Tai Chi (2013)"},
+                       "genre": {"S":"Action|IMAX"},
+                       "movie_ratings": {"S":"{'448': '2.0', '534': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Batman: Mystery of the Batwoman (2003)"},
+                       "genre": {"S":"Action|Animation|Children|Crime"},
+                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"We're the Millers (2013)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'21': '4.0', '62': '3.5', '73': '3.5', '89': '2.5', '111': '4.5', '212': '3.5', '233': '2.0', '249': '3.5', '298': '2.5', '305': '5.0', '306': '4.0', '352': '4.0', '365': '3.0', '448': '2.5', '462': '4.0', '483': '4.0', '491': '4.0', '495': '4.5', '514': '4.0', '519': '5.0', '564': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Grown Ups 2 (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5', '341': '3.0', '448': '1.5', '534': '4.5', '537': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kick-Ass 2 (2013)"},
+                       "genre": {"S":"Action|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'18': '3.0', '111': '2.5', '249': '4.5', '298': '3.0', '365': '4.0', '380': '4.0', '414': '3.0', '448': '3.0', '483': '4.0', '534': '4.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Riddick (2013)"},
+                       "genre": {"S":"Action|Sci-Fi|Thriller|IMAX"},
+                       "movie_ratings": {"S":"{'249': '3.0', '318': '3.0', '380': '3.5', '534': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Planes (2013)"},
+                       "genre": {"S":"Adventure|Animation|Comedy"},
+                       "movie_ratings": {"S":"{'388': '3.5', '448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blackfish (2013)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'317': '2.0', '525': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wind Rises, The (Kaze tachinu) (2013)"},
+                       "genre": {"S":"Animation|Drama|Romance"},
+                       "movie_ratings": {"S":"{'50': '3.5', '298': '3.5', '523': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jobs (2013)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'184': '2.0', '222': '1.5', '483': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lee Daniels' The Butler (2013)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'567': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In a World... (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '3.5', '462': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"About Time (2013)"},
+                       "genre": {"S":"Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'10': '4.0', '21': '3.5', '62': '4.5', '105': '5.0', '125': '4.0', '159': '5.0', '249': '4.5', '298': '2.5', '365': '1.5', '414': '4.0', '418': '4.5', '491': '4.5', '509': '3.5', '564': '4.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Justice League: Crisis on Two Earths (2010)"},
+                       "genre": {"S":"Action|Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'380': '4.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"You're Next (2011)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'380': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Maria Bamford: The Special Special Special! (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Getaway (2013)"},
+                       "genre": {"S":"Action|Crime"},
+                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mystery of the Third Planet, The (Tayna tretey planety) (1981)"},
+                       "genre": {"S":"Adventure|Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           }
+   ]
+}

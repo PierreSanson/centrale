@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Illusionist, The (2006)"},
+                       "genre": {"S":"Drama|Fantasy|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'24': '3.0', '52': '5.0', '62': '4.0', '65': '3.5', '68': '3.0', '80': '5.0', '105': '3.5', '111': '3.5', '146': '4.0', '161': '4.0', '210': '4.5', '219': '3.0', '227': '3.5', '232': '3.5', '239': '5.0', '274': '4.0', '279': '3.0', '282': '4.5', '288': '3.5', '298': '2.0', '305': '2.5', '307': '4.0', '308': '2.0', '326': '3.0', '352': '4.0', '358': '4.5', '381': '4.0', '382': '4.5', '387': '3.5', '408': '5.0', '414': '3.5', '432': '4.0', '438': '1.5', '460': '5.0', '474': '3.5', '477': '4.0', '480': '4.5', '483': '4.0', '523': '5.0', '586': '5.0', '599': '2.5', '605': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Queen (2006)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'28': '2.0', '74': '4.0', '104': '4.0', '110': '4.5', '177': '4.0', '254': '2.0', '322': '4.0', '414': '4.0', '474': '4.0', '506': '4.0', '517': '4.0', '590': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beerfest (2006)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5', '232': '3.5', '274': '3.5', '298': '3.0', '448': '2.5', '484': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Invincible (2006)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'28': '3.0', '140': '3.5', '166': '4.0', '232': '3.5', '414': '2.5', '480': '3.5', '580': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Idlewild (2006)"},
+                       "genre": {"S":"Crime|Drama|Musical"},
+                       "movie_ratings": {"S":"{'480': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Red Balloon, The (Ballon rouge, Le) (1956)"},
+                       "genre": {"S":"Children|Fantasy"},
+                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Angel-A (2005)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'89': '4.0', '560': '3.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chump at Oxford, A (1940)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Icicle Thief, The (Ladri di saponette) (1989)"},
+                       "genre": {"S":"Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Puffy Chair, The (2006)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wicker Man, The (2006)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'249': '1.0', '307': '0.5', '381': '1.5', '448': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wind That Shakes the Barley, The (2006)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'28': '3.5', '414': '4.0', '474': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Severance (2006)"},
+                       "genre": {"S":"Comedy|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hollywoodland (2006)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'288': '3.5', '414': '3.0', '438': '3.0', '448': '3.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Covenant, The (2006)"},
+                       "genre": {"S":"Action|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'382': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Kiss, The (2006)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'68': '4.5', '414': '4.0', '474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"SherryBaby (2006)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'68': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Idiocracy (2006)"},
+                       "genre": {"S":"Adventure|Comedy|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'21': '5.0', '51': '5.0', '52': '5.0', '68': '3.0', '104': '4.0', '111': '1.5', '122': '5.0', '125': '4.0', '187': '0.5', '219': '3.5', '249': '3.5', '274': '3.5', '298': '3.0', '305': '5.0', '420': '3.5', '495': '4.5', '560': '4.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jesus Camp (2006)"},
+                       "genre": {"S":"Documentary|Drama"},
+                       "movie_ratings": {"S":"{'68': '4.5', '166': '4.5', '232': '3.5', '318': '3.5', '357': '5.0', '462': '3.5', '525': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bow, The (Hwal) (2005)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tiger and the Snow, The (La tigre e la neve) (2005)"},
+                       "genre": {"S":"Comedy|Drama|Romance|War"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fountain, The (2006)"},
+                       "genre": {"S":"Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'62': '3.0', '68': '2.0', '105': '3.0', '122': '4.5', '187': '3.5', '232': '3.5', '254': '3.5', '274': '3.5', '380': '3.0', '387': '4.0', '414': '4.0', '477': '4.5', '599': '3.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fear City: A Family-Style Comedy (La cité de la peur) (1994)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'560': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Science of Sleep, The (La science des rêves) (2006)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'132': '3.5', '246': '4.5', '288': '3.5', '307': '4.5', '318': '3.5', '356': '3.5', '369': '3.5', '473': '4.0', '483': '4.5', '600': '3.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Black Dahlia, The (2006)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'307': '2.0', '380': '4.0', '387': '3.0', '414': '3.5', '474': '3.0', '480': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

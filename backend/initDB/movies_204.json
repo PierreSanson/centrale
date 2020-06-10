@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bad Day at Black Rock (1955)"},
+                       "genre": {"S":"Drama|Thriller|Western"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In China They Eat Dogs (I Kina spiser de hunde) (1999)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'18': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Delta Force 2 (Delta Force 2: The Colombian Connection) (1990)"},
+                       "genre": {"S":"Action|Adventure|Thriller|War"},
+                       "movie_ratings": {"S":"{'594': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Crossroads (1986)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'414': '4.5', '474': '3.0', '599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Seducing Doctor Lewis (Grande séduction, La) (2003)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'140': '1.0', '474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sunrise: A Song of Two Humans (1927)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shock Corridor (1963)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'477': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Au revoir les enfants (1987)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'156': '4.0', '168': '4.5', '221': '4.5', '474': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pursuit of Happiness (2001)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'480': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gladiator (1992)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'28': '4.0', '68': '4.5', '129': '4.5', '239': '5.0', '292': '4.0', '298': '3.0', '460': '5.0', '594': '4.5', '608': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Indestructible Man (1956)"},
+                       "genre": {"S":"Crime|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'448': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wasp Woman, The (1959)"},
+                       "genre": {"S":"Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'448': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Attack of the Giant Leeches (1959)"},
+                       "genre": {"S":"Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'377': '4.0', '448': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dead or Alive: Hanzaisha (1999)"},
+                       "genre": {"S":"Action|Crime"},
+                       "movie_ratings": {"S":"{'274': '3.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lola Montès (1955)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'50': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Charly (1968)"},
+                       "genre": {"S":"Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'91': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lust for Life (1956)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dolce Vita, La (1960)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'74': '5.0', '89': '3.0', '309': '4.0', '387': '4.0', '474': '2.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jin Roh: The Wolf Brigade (Jin-Rô) (1998)"},
+                       "genre": {"S":"Animation|Fantasy|Thriller"},
+                       "movie_ratings": {"S":"{'50': '3.0', '91': '4.5', '318': '3.5', '477': '4.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rush (1991)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'66': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Captain Blood (1935)"},
+                       "genre": {"S":"Action|Adventure|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0', '590': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"*batteries not included (1987)"},
+                       "genre": {"S":"Children|Comedy|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'307': '3.0', '448': '2.5', '477': '4.0', '482': '3.5', '568': '3.5', '599': '3.0', '600': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Educating Rita (1983)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'74': '3.5', '438': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sansho the Bailiff (Sanshô dayû) (1954)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'387': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Zazie dans le métro (1960)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'567': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}
