@@ -8,7 +8,7 @@ const films2 = [
     id: "Avengers (2019)",
   },
   {
-    id: "Gérard Bouchard (12)",
+    id: "Gérard Bouchard (2012)",
   }
 ];
 
@@ -17,7 +17,7 @@ const FilmList = () => {
   const [films, setFilms] = useState([]);
 
   useEffect(async () => {
-    const response = await fetch("https://6w1xm2b238.execute-api.eu-west-1.amazonaws.com/dev/items");
+    const response = await fetch("https://6w1xm2b238.execute-api.eu-west-1.amazonaws.com/dev/movies");
     const responseJson = await response.json();
     console.log(responseJson)
     setFilms(responseJson)
@@ -46,7 +46,9 @@ const FilmList = () => {
               className="FilmList-filmlink"
               href={`http://localhost:3000/films/${film.uuid}`}
             >
-              {film.uuid}
+              <ul>
+              <li>{film.uuid}</li>
+              </ul>
             </a>
           ))}
       </div>
