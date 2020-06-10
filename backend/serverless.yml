@@ -31,7 +31,7 @@ functions:
           method: get
           path: items/{id}
           cors:
-            origin: http://localhost:3000
+            origin: 'http://localhost:3000'
             allowCredentials: true
 
   create_movie:
@@ -41,7 +41,7 @@ functions:
           method: post
           path: items
           cors:
-            origin: http://localhost:3000
+            origin: 'http://localhost:3000'
             allowCredentials: true
 
   list:
@@ -51,7 +51,7 @@ functions:
           method: get
           path: items
           cors:
-            origin: http://localhost:3000
+            origin: 'http://localhost:3000'
             allowCredentials: true
 
 custom:
