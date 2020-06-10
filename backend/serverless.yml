@@ -29,7 +29,7 @@ functions:
     events:
       - http:
           method: get
-          path: items/{id}
+          path: movies/{id}
           cors:
             origin: 'http://localhost:3000'
             allowCredentials: true
@@ -39,20 +39,40 @@ functions:
     events:
       - http:
           method: post
-          path: items
+          path: movies
           cors:
             origin: 'http://localhost:3000'
             allowCredentials: true
 
-  list:
-    handler: functions/list.handle
+  list_movies:
+    handler: functions/list_movies.handle
     events:
       - http:
           method: get
-          path: items
+          path: movies
           cors:
             origin: 'http://localhost:3000'
             allowCredentials: true
+
+  list_users_ratings:
+    handler: functions/list_users_ratings.handle
+    events:
+      - http:
+          method : get
+          path: users
+          cors:
+            origin: 'http://localhost:3000'
+            allowCredentials : true
+
+  put_user_rating:
+    handler: functions/put_user_rating.handle
+    events:
+      - http:
+          method : put
+          path: users
+          cors:
+            origin: 'http://localhost:3000'
+            allowCredentials : true
 
 custom:
   stageVars: ${file(./stage.${self:provider.stage}.yml)}

@@ -412,4 +412,3 @@ aws dynamodb batch-write-item --request-items file://users_20.json
 aws dynamodb batch-write-item --request-items file://users_21.json
 aws dynamodb batch-write-item --request-items file://users_22.json
 aws dynamodb batch-write-item --request-items file://users_23.json
-aws dynamodb batch-write-item --request-items file://users_24.json
