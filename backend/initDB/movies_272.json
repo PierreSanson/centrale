@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Step Brothers (2008)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'2': '5.0', '18': '3.0', '62': '3.5', '68': '2.5', '73': '4.5', '103': '4.0', '111': '5.0', '125': '4.0', '232': '3.5', '249': '4.0', '274': '3.0', '298': '3.0', '318': '4.0', '328': '2.5', '356': '3.0', '365': '3.5', '382': '1.5', '408': '4.0', '414': '2.0', '419': '4.5', '424': '4.0', '448': '3.0', '477': '4.0', '484': '4.5', '560': '3.5', '564': '5.0', '583': '3.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"X-Files: I Want to Believe, The (2008)"},
+                       "genre": {"S":"Drama|Mystery|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'288': '2.5', '477': '3.5', '509': '3.0', '610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Man on Wire (2008)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'22': '0.5', '215': '5.0', '318': '3.5', '357': '3.5', '462': '4.5', '525': '4.0', '590': '4.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Little Drummer Boy, The (1968)"},
+                       "genre": {"S":"Animation|Children|Musical"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hogfather (Terry Pratchett's Hogfather) (2006)"},
+                       "genre": {"S":"Adventure|Fantasy|Thriller"},
+                       "movie_ratings": {"S":"{'380': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pathology (2008)"},
+                       "genre": {"S":"Crime|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'464': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tracey Fragments, The (2007)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'351': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Zone, The (La Zona) (2007)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'318': '3.5', '326': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Edge of Love, The (2008)"},
+                       "genre": {"S":"Drama|Romance|War"},
+                       "movie_ratings": {"S":"{'351': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Heart of a Dog (Sobachye serdtse) (1988)"},
+                       "genre": {"S":"Comedy|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mummy: Tomb of the Dragon Emperor, The (2008)"},
+                       "genre": {"S":"Action|Adventure|Fantasy|Thriller"},
+                       "movie_ratings": {"S":"{'220': '2.5', '246': '2.0', '380': '3.0', '382': '2.5', '509': '2.5', '534': '3.5', '605': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Midnight Meat Train, The (2008)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'28': '3.0', '68': '2.0', '274': '3.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Frozen River (2008)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'28': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Vicky Cristina Barcelona (2008)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'10': '2.0', '22': '1.0', '41': '3.0', '68': '3.0', '105': '4.0', '125': '5.0', '152': '3.5', '153': '1.0', '177': '3.0', '222': '2.5', '241': '4.5', '298': '4.0', '351': '4.0', '448': '3.0', '509': '3.0', '526': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Batman: Gotham Knight (2008)"},
+                       "genre": {"S":"Action|Animation|Crime"},
+                       "movie_ratings": {"S":"{'274': '2.5', '380': '4.0', '477': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Walker, The (2007)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'28': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pineapple Express (2008)"},
+                       "genre": {"S":"Action|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'24': '3.5', '28': '2.0', '62': '4.0', '68': '3.0', '73': '4.0', '89': '3.5', '111': '5.0', '200': '4.0', '212': '2.5', '220': '3.0', '232': '3.5', '249': '5.0', '274': '4.5', '279': '3.5', '280': '4.5', '298': '3.0', '305': '3.0', '307': '4.0', '318': '4.0', '334': '3.0', '339': '2.5', '356': '4.0', '365': '5.0', '414': '4.0', '484': '4.5', '506': '3.0', '525': '2.0', '561': '4.0', '564': '3.5', '573': '5.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Red Cliff (Chi bi) (2008)"},
+                       "genre": {"S":"Action|Adventure|Drama|War"},
+                       "movie_ratings": {"S":"{'246': '5.0', '274': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sisterhood of the Traveling Pants 2, The (2008)"},
+                       "genre": {"S":"Adventure|Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'563': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hell Ride (2008)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"High School Musical 2 (2007)"},
+                       "genre": {"S":"Comedy|Drama|Musical|Romance"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tropic Thunder (2008)"},
+                       "genre": {"S":"Action|Adventure|Comedy|War"},
+                       "movie_ratings": {"S":"{'24': '3.0', '28': '2.0', '41': '3.0', '52': '5.0', '68': '2.5', '111': '3.5', '152': '3.0', '222': '2.5', '249': '4.0', '274': '3.5', '279': '4.5', '298': '3.0', '305': '5.0', '307': '4.0', '318': '4.0', '331': '4.0', '356': '3.5', '365': '3.5', '382': '5.0', '403': '2.0', '408': '4.0', '414': '4.0', '421': '0.5', '448': '3.5', '477': '4.5', '483': '4.5', '489': '4.0', '495': '4.5', '534': '4.0', '564': '1.5', '590': '3.0', '599': '2.5', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Star Wars: The Clone Wars (2008)"},
+                       "genre": {"S":"Action|Adventure|Animation|Sci-Fi"},
+                       "movie_ratings": {"S":"{'21': '1.0', '220': '3.0', '298': '2.5', '380': '2.5', '414': '2.0', '489': '1.5', '534': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Henry Poole is Here (2008)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'28': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mutant Chronicles (2008)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'28': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

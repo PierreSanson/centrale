@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Where the Day Takes You (1992)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Butterfly Effect (2004)"},
+                       "genre": {"S":"Drama|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'15': '3.5', '18': '4.5', '51': '4.5', '62': '4.0', '63': '2.5', '64': '3.0', '68': '2.5', '76': '3.0', '83': '3.5', '105': '4.0', '111': '0.5', '125': '5.0', '139': '1.0', '182': '4.0', '232': '4.0', '239': '3.5', '249': '4.0', '274': '3.5', '288': '3.5', '298': '1.0', '307': '3.5', '331': '3.0', '351': '4.5', '354': '3.5', '357': '4.0', '358': '3.5', '376': '4.0', '380': '4.0', '390': '4.5', '405': '4.0', '414': '4.0', '417': '5.0', '418': '4.5', '432': '4.0', '438': '4.0', '466': '4.5', '475': '4.0', '484': '3.5', '495': '5.0', '534': '4.5', '542': '5.0', '570': '4.0', '580': '3.5', '585': '2.5', '599': '1.5', '608': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Win a Date with Tad Hamilton! (2004)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'143': '3.0', '280': '3.0', '288': '3.0', '358': '4.0', '414': '3.0', '438': '3.5', '600': '0.5', '606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Touching the Void (2003)"},
+                       "genre": {"S":"Adventure|Documentary"},
+                       "movie_ratings": {"S":"{'68': '4.0', '131': '3.0', '168': '5.0', '326': '4.0', '339': '3.5', '343': '4.0', '419': '4.5', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Big Bounce, The (2004)"},
+                       "genre": {"S":"Comedy|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'232': '3.0', '298': '0.5', '414': '2.5', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Perfect Score, The (2004)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'232': '3.0', '274': '3.5', '414': '3.0', '448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"You Got Served (2004)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'175': '3.5', '232': '2.5', '307': '0.5', '438': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Latter Days (2003)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'596': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Barbershop 2: Back in Business (2004)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'232': '2.0', '307': '1.0', '310': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Catch That Kid (2004)"},
+                       "genre": {"S":"Action|Adventure|Children|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'232': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Miracle (2004)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'28': '3.0', '140': '4.0', '177': '3.0', '219': '2.0', '226': '4.0', '232': '4.5', '414': '3.0', '438': '3.5', '480': '3.0', '488': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"An Amazing Couple (2002)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'182': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dreamers, The (2003)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'125': '5.0', '153': '4.0', '182': '4.5', '285': '3.5', '307': '3.0', '318': '3.0', '387': '3.0', '414': '4.0', '432': '3.5', '480': '4.0', '490': '3.5', '560': '4.0', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lost Skeleton of Cadavra, The (2002)"},
+                       "genre": {"S":"Comedy|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'520': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hip Hop Witch, Da (2000)"},
+                       "genre": {"S":"Comedy|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'307': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Thirteen (2003)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'111': '3.5', '156': '4.0', '274': '3.5', '298': '2.5', '414': '4.0', '474': '4.0', '484': '4.5', '525': '3.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Best Defense (1984)"},
+                       "genre": {"S":"Comedy|War"},
+                       "movie_ratings": {"S":"{'606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"50 First Dates (2004)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'10': '3.5', '18': '3.0', '24': '3.5', '41': '5.0', '62': '4.0', '64': '3.0', '66': '4.5', '68': '2.5', '89': '2.0', '111': '4.5', '143': '5.0', '146': '4.5', '153': '0.5', '177': '4.0', '200': '5.0', '226': '4.0', '232': '4.0', '256': '4.0', '274': '4.0', '288': '3.0', '298': '2.5', '306': '3.5', '319': '4.0', '328': '2.5', '334': '4.0', '341': '4.0', '345': '4.5', '358': '4.0', '380': '3.0', '413': '5.0', '414': '3.5', '466': '4.0', '474': '3.5', '480': '2.0', '483': '4.0', '484': '3.5', '489': '4.0', '491': '4.0', '534': '4.0', '551': '3.5', '562': '4.0', '573': '2.5', '583': '4.0', '596': '1.5', '600': '3.0', '605': '2.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Welcome to Mooseport (2004)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'45': '4.0', '140': '3.0', '232': '2.5', '562': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kitchen Stories (Salmer fra kjøkkenet) (2003)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '3.5', '104': '4.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Monsieur Ibrahim (Monsieur Ibrahim et les fleurs du Coran) (2003)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'182': '4.0', '405': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Diary of a Country Priest (Journal d'un curé de campagne) (1951)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'387': '3.5', '474': '3.5', '567': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Thief of Bagdad, The (1924)"},
+                       "genre": {"S":"Action|Adventure|Fantasy"},
+                       "movie_ratings": {"S":"{'177': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Diary of Anne Frank (1959)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'264': '4.5', '309': '4.0', '474': '3.5', '488': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Allegro non troppo (1977)"},
+                       "genre": {"S":"Animation|Comedy|Fantasy|Musical"},
+                       "movie_ratings": {"S":"{'377': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

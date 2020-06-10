@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Genius (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'305': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Wooden Horse (1950)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'517': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jason Bourne (2016)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'18': '3.0', '279': '2.0', '380': '3.0', '414': '2.5', '448': '2.0', '561': '2.0', '567': '1.5', '586': '5.0', '596': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Maid's Room (2014)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sympathy for the Underdog (1971)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Legend of Tarzan (2016)"},
+                       "genre": {"S":"Action|Adventure"},
+                       "movie_ratings": {"S":"{'125': '3.5', '318': '3.5', '365': '2.5', '382': '3.5', '408': '3.5', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Purge: Election Year (2016)"},
+                       "genre": {"S":"Action|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'21': '1.0', '305': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mike & Dave Need Wedding Dates (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '2.0', '111': '4.5', '125': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ice Age: Collision Course (2016)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'50': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lights Out (2016)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'514': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pete's Dragon (2016)"},
+                       "genre": {"S":"Adventure|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Indignation (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'462': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Goat (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Marauders (2016)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Piper (2016)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'148': '4.5', '249': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Adderall Diaries (2015)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hazard (2005)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Red Turtle (2016)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'296': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Satanic (2016)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'21': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nerve (2016)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'249': '3.0', '305': '3.0', '365': '1.5', '380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hellevator (2004)"},
+                       "genre": {"S":"Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sully (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'15': '3.5', '47': '3.5', '382': '4.0', '414': '3.5', '517': '2.5', '567': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Forbidden Dance (1990)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jim Jefferies: Freedumb (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Grandmother (1970)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}

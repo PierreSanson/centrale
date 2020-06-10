@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Promises (2001)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'462': '4.5', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"And Your Mother Too (Y tu mamá también) (2001)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'64': '4.0', '132': '3.0', '178': '5.0', '190': '5.0', '200': '4.0', '221': '4.0', '222': '3.0', '275': '5.0', '298': '3.5', '312': '5.0', '356': '4.5', '414': '4.0', '434': '5.0', '453': '4.0', '462': '3.0', '474': '3.5', '480': '4.0', '489': '3.5', '543': '2.0', '600': '3.5', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"All the Right Moves (1983)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'332': '2.5', '474': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Road to Morocco (1942)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Taps (1981)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Return of the Secaucus 7 (1980)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'318': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rude Boy (1980)"},
+                       "genre": {"S":"Documentary|Drama"},
+                       "movie_ratings": {"S":"{'462': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Running Scared (1980)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Seems Like Old Times (1980)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'275': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shogun Assassin (1980)"},
+                       "genre": {"S":"Action|Adventure"},
+                       "movie_ratings": {"S":"{'187': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Smokey and the Bandit II (1980)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'95': '4.0', '448': '2.0', '474': '1.0', '514': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Smokey and the Bandit (1977)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'95': '4.0', '221': '2.5', '226': '4.0', '322': '2.0', '414': '3.0', '448': '4.0', '474': '0.5', '514': '2.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Smokey and the Bandit III (1983)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'221': '2.0', '448': '1.5', '474': '0.5', '514': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stir Crazy (1980)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '4.0', '514': '3.0', '527': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blade II (2002)"},
+                       "genre": {"S":"Action|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'20': '3.0', '21': '3.0', '51': '2.5', '62': '3.0', '64': '3.0', '68': '3.5', '139': '1.5', '166': '3.5', '182': '2.0', '195': '3.0', '232': '3.0', '249': '3.5', '274': '3.0', '298': '2.5', '305': '4.0', '312': '3.0', '313': '5.0', '380': '5.0', '391': '1.0', '414': '4.0', '425': '4.0', '427': '2.5', '428': '2.5', '438': '3.5', '464': '2.5', '480': '2.0', '495': '3.5', '528': '4.0', '573': '4.5', '580': '3.0', '596': '3.0', '599': '3.5', '608': '4.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sorority Boys (2002)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'307': '2.5', '387': '1.5', '414': '3.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stolen Summer (2002)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'140': '3.0', '414': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"George Washington (2000)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'275': '2.0', '414': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Clockstoppers (2002)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'177': '2.0', '232': '2.0', '380': '3.0', '414': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Death to Smoochy (2002)"},
+                       "genre": {"S":"Comedy|Crime|Drama"},
+                       "movie_ratings": {"S":"{'66': '4.5', '182': '3.0', '274': '4.0', '307': '2.5', '387': '3.0', '414': '2.0', '420': '3.5', '477': '3.0', '480': '4.5', '520': '4.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Panic Room (2002)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.5', '21': '1.0', '64': '4.0', '68': '2.0', '86': '3.5', '140': '3.0', '177': '3.5', '182': '2.5', '211': '2.0', '219': '3.5', '249': '4.0', '274': '3.5', '287': '2.5', '298': '1.0', '307': '2.0', '325': '4.0', '357': '3.0', '380': '3.0', '381': '3.5', '414': '5.0', '415': '3.5', '419': '4.5', '426': '1.0', '427': '3.5', '438': '2.5', '453': '3.0', '474': '4.0', '484': '3.0', '489': '1.0', '525': '3.5', '542': '3.0', '558': '4.0', '561': '1.5', '590': '2.5', '599': '2.5', '608': '4.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rookie, The (2002)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'28': '3.0', '68': '2.0', '140': '4.0', '169': '4.5', '182': '3.0', '219': '2.0', '232': '4.0', '288': '3.5', '292': '2.5', '414': '4.0', '438': '4.0', '453': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"No Such Thing (2001)"},
+                       "genre": {"S":"Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Piano Teacher, The (La pianiste) (2001)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Time Out (L'emploi du temps) (2001)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'275': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

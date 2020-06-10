@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Brothers Grimsby (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'125': '4.0', '249': '3.0', '365': '3.0', '448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dad's Army (1971)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Michael Jackson's Thriller (1983)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'380': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Wait (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'153': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"War and Peace (2016)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'125': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Southbound (2016)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ip Man 3 (2015)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Santa's Little Helper (2015)"},
+                       "genre": {"S":"Children"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Who Killed Chea Vichea? (2010)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'462': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hunt for the Wilderpeople (2016)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'125': '4.0', '212': '4.5', '249': '4.5', '414': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rabbits (2002)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'567': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Genius Party (2007)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Long Live Ghosts! (1977)"},
+                       "genre": {"S":"Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'89': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tears for Sale (2008)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dad's Army (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Barkley Marathons: The Race That Eats Its Young (2015)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Merci Patron ! (2016)"},
+                       "genre": {"S":"Comedy|Documentary"},
+                       "movie_ratings": {"S":"{'560': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Neon Demon (2016)"},
+                       "genre": {"S":"Drama|Horror|Mystery"},
+                       "movie_ratings": {"S":"{'125': '2.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fraktus (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'18': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Eye in the Sky (2016)"},
+                       "genre": {"S":"Drama|Thriller|War"},
+                       "movie_ratings": {"S":"{'365': '1.5', '560': '3.5', '567': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Camino (2016)"},
+                       "genre": {"S":"Action|Adventure|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mr. Right (2016)"},
+                       "genre": {"S":"Action|Comedy|Romance"},
+                       "movie_ratings": {"S":"{'111': '4.5', '125': '4.0', '564': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Noin 7 veljestä (1968)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'89': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Florence Foster Jenkins (2016)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"My Big Fat Greek Wedding 2 (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           }
+   ]
+}

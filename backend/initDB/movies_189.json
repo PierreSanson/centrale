@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Year of the Dragon (1985)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Nothing to Lose (1997)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'66': '4.0', '182': '4.0', '298': '2.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Flying Down to Rio (1933)"},
+                       "genre": {"S":"Comedy|Musical|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Follow the Fleet (1936)"},
+                       "genre": {"S":"Comedy|Musical|Romance"},
+                       "movie_ratings": {"S":"{'104': '4.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"What's New, Pussycat (1965)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '3.0', '477': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mary of Scotland (1936)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Roberta (1935)"},
+                       "genre": {"S":"Comedy|Musical|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Little Women (1949)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'177': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Swing Time (1936)"},
+                       "genre": {"S":"Comedy|Musical|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Public Enemy, The (1931)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'221': '4.5', '590': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Midsummer Night's Dream, A (1935)"},
+                       "genre": {"S":"Comedy|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Life with Father (1947)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"National Velvet (1944)"},
+                       "genre": {"S":"Children|Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0', '590': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jesus Christ Superstar (1973)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'169': '4.5', '474': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dark Victory (1939)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Birdman of Alcatraz (1962)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) (1972)"},
+                       "genre": {"S":"Adventure|Drama"},
+                       "movie_ratings": {"S":"{'50': '3.5', '105': '3.5', '156': '4.5', '199': '4.0', '221': '3.0', '332': '4.0', '377': '5.0', '387': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beauty and the Beast (La belle et la bête) (1946)"},
+                       "genre": {"S":"Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'23': '3.5', '177': '3.5', '274': '3.0', '318': '3.5', '381': '2.0', '474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Birth of a Nation, The (1915)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'177': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Juliet of the Spirits (Giulietta degli spiriti) (1965)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'89': '2.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Macbeth (a.k.a. Tragedy of Macbeth, The) (1971)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'23': '3.0', '66': '4.0', '346': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Red River (1948)"},
+                       "genre": {"S":"Action|Adventure|Western"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Woman Under the Influence, A (1974)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'318': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stagecoach (1939)"},
+                       "genre": {"S":"Action|Drama|Romance|Western"},
+                       "movie_ratings": {"S":"{'221': '4.0', '590': '3.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shot in the Dark, A (1964)"},
+                       "genre": {"S":"Comedy|Crime|Mystery"},
+                       "movie_ratings": {"S":"{'474': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}

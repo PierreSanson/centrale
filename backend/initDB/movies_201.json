@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Virgin Spring, The (Jungfrukällan) (1960)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'346': '3.5', '387': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mogambo (1953)"},
+                       "genre": {"S":"Adventure|Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Secret Life of Walter Mitty, The (1947)"},
+                       "genre": {"S":"Comedy|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Another Thin Man (1939)"},
+                       "genre": {"S":"Comedy|Crime|Drama|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Thin Man Goes Home, The (1945)"},
+                       "genre": {"S":"Comedy|Crime|Mystery"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shadow of the Thin Man (1941)"},
+                       "genre": {"S":"Comedy|Crime|Mystery"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"After the Thin Man (1936)"},
+                       "genre": {"S":"Comedy|Crime|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'377': '4.0', '474': '4.0', '580': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Song of the Thin Man (1947)"},
+                       "genre": {"S":"Comedy|Crime|Drama|Musical|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Love Crazy (1941)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gunga Din (1939)"},
+                       "genre": {"S":"Adventure|Comedy|War"},
+                       "movie_ratings": {"S":"{'474': '3.0', '590': '4.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Children of Dune (2003)"},
+                       "genre": {"S":"Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'28': '4.5', '264': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dune (2000)"},
+                       "genre": {"S":"Drama|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'28': '5.0', '167': '5.0', '414': '3.0', '580': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lammbock (2001)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'18': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Legend, The (Legend of Fong Sai-Yuk, The) (Fong Sai Yuk) (1993)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'187': '4.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tremors II: Aftershocks (1996)"},
+                       "genre": {"S":"Comedy|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'274': '3.5', '307': '1.0', '380': '4.0', '482': '2.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tremors 3: Back to Perfection (2001)"},
+                       "genre": {"S":"Comedy|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'274': '2.5', '380': '3.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Notorious C.H.O. (2002)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'263': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Plague of the Zombies (1966)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Walked with a Zombie (1943)"},
+                       "genre": {"S":"Drama|Horror"},
+                       "movie_ratings": {"S":"{'474': '3.5', '594': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Highway 61 (1991)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'28': '2.5', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"How to Succeed in Business Without Really Trying (1967)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'474': '3.5', '538': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pat Garrett and Billy the Kid (1973)"},
+                       "genre": {"S":"Western"},
+                       "movie_ratings": {"S":"{'74': '4.0', '318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Man on Earth, The (Ultimo uomo della Terra, L') (1964)"},
+                       "genre": {"S":"Drama|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'514': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Duck, You Sucker (1971)"},
+                       "genre": {"S":"Action|Western"},
+                       "movie_ratings": {"S":"{'274': '3.5', '448': '4.5', '599': '2.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bring Me the Head of Alfredo Garcia (1974)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'387': '3.5', '448': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

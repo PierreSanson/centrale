@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Iron Man 3 (2013)"},
+                       "genre": {"S":"Action|Sci-Fi|Thriller|IMAX"},
+                       "movie_ratings": {"S":"{'18': '3.5', '21': '3.5', '62': '3.5', '80': '4.0', '139': '1.5', '153': '0.5', '184': '4.0', '210': '4.5', '249': '4.0', '291': '4.0', '292': '4.0', '298': '3.0', '305': '2.5', '318': '3.0', '331': '3.0', '380': '5.0', '382': '4.0', '393': '4.0', '448': '3.0', '462': '3.0', '483': '4.5', '522': '3.5', '534': '3.0', '550': '4.0', '561': '2.5', '567': '3.0', '573': '5.0', '582': '4.5', '586': '4.5', '596': '4.0', '599': '3.0', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"English Teacher, The (2013)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mud (2012)"},
+                       "genre": {"S":"Adventure|Crime|Drama"},
+                       "movie_ratings": {"S":"{'326': '5.0', '352': '4.0', '560': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bill Hicks: Revelations (1993)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'63': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pawn (2013)"},
+                       "genre": {"S":"Crime|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shaolin Temple (Shao Lin si) (1976)"},
+                       "genre": {"S":"Action|Adventure|Drama"},
+                       "movie_ratings": {"S":"{'610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Syrup (2013)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '4.0', '448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Great Gatsby, The (2013)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'24': '3.5', '41': '3.0', '50': '2.5', '68': '2.5', '73': '3.5', '105': '4.5', '111': '3.5', '177': '3.0', '292': '2.0', '305': '3.5', '318': '3.0', '339': '4.5', '418': '5.0', '448': '3.5', '495': '3.0', '517': '3.0', '523': '5.0', '525': '3.5', '560': '3.0', '561': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Star Trek Into Darkness (2013)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi|IMAX"},
+                       "movie_ratings": {"S":"{'18': '4.0', '63': '4.5', '68': '5.0', '73': '5.0', '139': '2.0', '227': '4.0', '249': '4.5', '256': '4.0', '292': '4.0', '318': '3.5', '352': '4.5', '380': '4.0', '393': '4.5', '414': '3.5', '448': '3.0', '462': '2.0', '509': '3.5', '522': '4.5', '525': '2.5', '534': '3.5', '561': '3.5', '567': '2.0', '573': '5.0', '586': '4.0', '596': '3.0', '599': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Internship, The (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'21': '4.0', '73': '4.0', '89': '4.0', '111': '4.5', '119': '4.0', '249': '3.5', '298': '0.5', '448': '3.0', '483': '4.0', '564': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Darkon (2006)"},
+                       "genre": {"S":"Documentary|Fantasy"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mimino (1977)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu) (1973)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Only God Forgives (2013)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'249': '3.5', '380': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hangover Part III, The (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '3.5', '111': '3.5', '222': '3.5', '249': '3.5', '365': '4.5', '448': '2.5', '495': '3.0', '534': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fast & Furious 6 (Fast and the Furious 6, The) (2013)"},
+                       "genre": {"S":"Action|Crime|Thriller|IMAX"},
+                       "movie_ratings": {"S":"{'21': '3.0', '249': '3.5', '365': '2.0', '380': '3.0', '382': '3.5', '534': '4.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Epic (2013)"},
+                       "genre": {"S":"Adventure|Animation|Fantasy"},
+                       "movie_ratings": {"S":"{'111': '3.5', '448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Captain America (1979)"},
+                       "genre": {"S":"Action|Drama"},
+                       "movie_ratings": {"S":"{'599': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tie Xi Qu: West of the Tracks (Tiexi qu) (2003)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rink, The (1916)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Captain America II: Death Too Soon (1979)"},
+                       "genre": {"S":"Action|Crime"},
+                       "movie_ratings": {"S":"{'599': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Down Terrace (2009)"},
+                       "genre": {"S":"Comedy|Crime|Drama"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Frances Ha (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'567': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lords of Salem, The (2012)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Behind the Candelabra (2013)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

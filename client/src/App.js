@@ -35,7 +35,7 @@ function App() {
         <div>
           <Link to="/">Accueil</Link>
           <Link to="/films">Liste des films</Link>
-          <Link to="/demo">Recherche films</Link>         
+          <Link to="/recherche">Recherche films</Link>         
           <select
             value={user}
             onChange={updateUser}>
@@ -52,7 +52,8 @@ function App() {
               type="button"
               onClick={disconnect} >
               Se déconnecter
-            </button>)
+            </button>
+            )
             : null
           }
 
@@ -63,8 +64,8 @@ function App() {
           <Route exact path="/films/:filmId" render={(props) => <FilmPage {...props} user={user} />} />
           <Route exact path="/films">
             <FilmList />
-          </Route>                                                                                                                                                                                                                                               
-          <Route exact path="/demo">
+          </Route>                                                                                                                                                                                                                                                
+          <Route exact path="/recherche">
             <FilmSearch />
           </Route>
           <Route exact path="/">

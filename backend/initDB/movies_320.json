@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Thing: Terror Takes Shape, The (1998)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'517': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hotel Transylvania (2012)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'50': '2.0', '89': '5.0', '249': '3.5', '306': '3.5', '318': '3.5', '365': '2.0', '448': '2.5', '525': '3.5', '534': '4.5', '586': '4.0', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Side by Side (2012)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Take Aim at the Police Van (Sono gosôsha wo nerae: 'Jûsangô taihisen' yori) (1960)"},
+                       "genre": {"S":"Action|Crime|Mystery"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Argo (2012)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'50': '3.5', '105': '4.0', '159': '4.5', '177': '5.0', '184': '4.5', '212': '4.0', '222': '4.5', '227': '4.5', '249': '4.5', '279': '3.5', '298': '3.0', '305': '4.5', '317': '2.0', '318': '4.0', '339': '4.0', '352': '4.0', '376': '5.0', '378': '3.5', '413': '5.0', '414': '4.0', '419': '1.5', '448': '4.0', '483': '4.5', '495': '5.0', '522': '2.5', '525': '4.0', '537': '4.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Seven Psychopaths (2012)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'122': '4.0', '177': '4.0', '249': '3.5', '279': '3.0', '298': '3.0', '318': '4.5', '352': '3.5', '380': '5.0', '414': '4.0', '483': '3.5', '537': '2.5', '560': '3.0', '561': '2.0', '599': '3.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Liberal Arts (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Catch .44 (2011)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'292': '1.0', '448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"[REC]³ 3 Génesis (2012)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'380': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Asterix & Obelix: God Save Britannia (Astérix et Obélix: Au service de Sa Majesté) (2012)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'483': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Paranormal Activity 4 (2012)"},
+                       "genre": {"S":"Horror|IMAX"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Alex Cross (2012)"},
+                       "genre": {"S":"Action|Crime|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cloud Atlas (2012)"},
+                       "genre": {"S":"Drama|Sci-Fi|IMAX"},
+                       "movie_ratings": {"S":"{'18': '3.5', '65': '4.0', '105': '4.0', '125': '4.0', '222': '3.0', '249': '4.0', '305': '4.5', '318': '4.0', '339': '4.0', '352': '5.0', '448': '3.0', '483': '4.5', '511': '4.0', '534': '4.5', '560': '2.5', '582': '3.0', '596': '3.0', '599': '3.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"'Hellboy': The Seeds of Creation (2004)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Documentary|Fantasy"},
+                       "movie_ratings": {"S":"{'332': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Silent Hill: Revelation 3D (2012)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Here Comes the Boom (2012)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'89': '2.5', '111': '3.5', '249': '3.5', '298': '0.5', '448': '2.5', '534': '4.0', '567': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mental (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Killing Them Softly (2012)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'222': '2.0', '249': '3.5', '318': '4.5', '448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Imposter, The (2012)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'419': '5.0', '525': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sessions, The (Surrogate, The) (2012)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'448': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Smashed (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wreck-It Ralph (2012)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'21': '2.0', '30': '4.0', '63': '5.0', '68': '4.0', '111': '3.5', '125': '3.5', '177': '4.0', '227': '4.0', '249': '4.5', '252': '3.5', '279': '2.0', '306': '4.0', '380': '5.0', '448': '3.5', '459': '4.5', '534': '4.5', '560': '3.5', '561': '4.0', '567': '2.5', '582': '3.0', '596': '4.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Silver Linings Playbook (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'41': '4.0', '47': '3.5', '62': '4.0', '65': '3.0', '68': '3.5', '73': '3.5', '98': '5.0', '105': '4.0', '143': '3.0', '153': '3.5', '177': '4.5', '222': '2.5', '249': '4.5', '298': '3.0', '328': '0.5', '331': '5.0', '339': '3.5', '414': '4.0', '443': '5.0', '448': '4.0', '483': '4.5', '491': '2.0', '495': '5.0', '525': '4.0', '528': '3.5', '562': '4.5', '563': '3.5', '564': '3.5', '599': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Flight (2012)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'47': '4.0', '50': '2.5', '123': '4.0', '222': '3.0', '292': '2.0', '339': '3.5', '414': '4.0', '448': '3.5', '495': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Anna Karenina (2012)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           }
+   ]
+}

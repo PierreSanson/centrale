@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Karate Kid, The (2010)"},
+                       "genre": {"S":"Action|Children|Drama"},
+                       "movie_ratings": {"S":"{'50': '2.0', '204': '0.5', '232': '3.5', '249': '3.5', '448': '1.0', '483': '4.0', '534': '3.5', '564': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kids Are All Right, The (2010)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'47': '3.0', '292': '1.0', '448': '3.0', '483': '4.0', '490': '3.5', '596': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Serbian Film, A (Srpski film) (2010)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'305': '4.0', '599': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cherrybomb (2009)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Batman: Under the Red Hood (2010)"},
+                       "genre": {"S":"Action|Animation"},
+                       "movie_ratings": {"S":"{'274': '3.5', '380': '5.0', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Salt (2010)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.0', '21': '3.5', '139': '1.5', '213': '3.5', '232': '4.0', '249': '3.5', '274': '3.5', '292': '3.5', '317': '3.0', '352': '4.0', '380': '2.0', '414': '2.5', '448': '1.5', '495': '2.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"No. 1 Ladies' Detective Agency, The (2008)"},
+                       "genre": {"S":"Comedy|Crime|Mystery"},
+                       "movie_ratings": {"S":"{'489': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Watch Out for the Automobile (Beregis avtomobilya) (1966)"},
+                       "genre": {"S":"Comedy|Crime|Romance"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mr. Nobody (2009)"},
+                       "genre": {"S":"Drama|Fantasy|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'62': '4.5', '105': '3.5', '125': '4.0', '318': '4.0', '417': '5.0', '483': '4.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dinner for Schmucks (2010)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '3.0', '232': '3.0', '249': '3.5', '318': '5.0', '448': '1.5', '534': '3.5', '564': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Deadly Outlaw: Rekka (a.k.a. Violent Fire) (Jitsuroku Andô Noboru kyôdô-den: Rekka) (2002)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hellsinki (Rööperi) (2009)"},
+                       "genre": {"S":"Crime"},
+                       "movie_ratings": {"S":"{'489': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ip Man 2 (2010)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'125': '3.5', '298': '0.5', '305': '4.5', '332': '3.5', '380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ramona and Beezus (2010)"},
+                       "genre": {"S":"Children|Comedy"},
+                       "movie_ratings": {"S":"{'103': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rebound, The (2009)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Other Guys, The (2010)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'18': '3.0', '21': '3.5', '73': '4.5', '111': '3.0', '122': '4.5', '124': '2.0', '125': '4.0', '232': '3.0', '249': '3.5', '274': '3.5', '298': '1.0', '365': '4.5', '380': '4.0', '408': '4.0', '414': '4.0', '419': '3.5', '448': '2.0', '534': '2.0', '561': '2.0', '564': '4.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Two Escobars, The (2010)"},
+                       "genre": {"S":"Crime|Documentary"},
+                       "movie_ratings": {"S":"{'419': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Paper Man (2009)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Expendables, The (2010)"},
+                       "genre": {"S":"Action|Adventure|Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.5', '177': '2.0', '222': '2.0', '249': '4.0', '256': '4.0', '274': '3.0', '292': '3.5', '298': '2.5', '305': '4.0', '318': '3.0', '352': '2.5', '380': '2.0', '414': '2.0', '534': '4.0', '561': '2.5', '562': '4.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scott Pilgrim vs. the World (2010)"},
+                       "genre": {"S":"Action|Comedy|Fantasy|Musical|Romance"},
+                       "movie_ratings": {"S":"{'18': '4.0', '50': '2.0', '62': '4.0', '63': '5.0', '68': '4.0', '104': '3.0', '105': '4.0', '111': '3.5', '114': '3.5', '122': '5.0', '125': '4.0', '143': '1.0', '148': '4.0', '152': '3.5', '153': '2.5', '177': '5.0', '211': '4.5', '212': '4.5', '232': '4.0', '249': '4.5', '274': '3.0', '279': '4.0', '292': '2.0', '298': '3.0', '305': '3.0', '318': '4.0', '330': '5.0', '332': '2.0', '365': '2.5', '380': '4.0', '414': '5.0', '448': '3.0', '466': '3.5', '471': '5.0', '477': '5.0', '483': '3.0', '495': '4.0', '522': '5.0', '525': '4.5', '534': '4.5', '560': '2.5', '596': '3.5', '599': '2.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Killed My Mother (J'ai tué ma mère) (2009)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'503': '3.0', '596': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Heartless (2009)"},
+                       "genre": {"S":"Fantasy|Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Piranha (Piranha 3D) (2010)"},
+                       "genre": {"S":"Action|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'448': '3.0', '578': '0.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Extraordinary Adventures of Adèle Blanc-Sec, The (2010)"},
+                       "genre": {"S":"Action|Adventure|Fantasy|Mystery"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Get Low (2009)"},
+                       "genre": {"S":"Comedy|Drama|Mystery"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           }
+   ]
+}

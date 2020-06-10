@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In This World (2002)"},
+                       "genre": {"S":"Adventure|Drama"},
+                       "movie_ratings": {"S":"{'448': '3.0', '474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Duplex (2003)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'41': '5.0', '222': '2.0', '226': '2.0', '232': '3.0', '274': '1.0', '307': '2.0', '387': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rundown, The (2003)"},
+                       "genre": {"S":"Action|Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'82': '4.5', '111': '3.0', '140': '3.0', '232': '3.0', '249': '3.5', '274': '3.5', '305': '3.0', '380': '4.0', '414': '4.0', '425': '2.5', '428': '3.0', '438': '3.5', '448': '2.5', '480': '1.5', '599': '2.5', '608': '3.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Under the Tuscan Sun (2003)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'47': '3.0', '140': '3.5', '143': '2.5', '169': '4.0', '177': '3.0', '288': '3.5', '438': '2.0', '563': '3.0', '594': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Luther (2003)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mambo Italiano (2003)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'596': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"My Life Without Me (2003)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5', '580': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"To Be and to Have (Être et avoir) (2002)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Triplets of Belleville, The (Les triplettes de Belleville) (2003)"},
+                       "genre": {"S":"Animation|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'23': '4.5', '50': '3.5', '66': '4.0', '104': '3.5', '167': '3.0', '246': '4.0', '253': '4.5', '260': '5.0', '263': '3.5', '298': '3.0', '318': '3.5', '381': '4.0', '387': '3.5', '414': '4.5', '474': '3.5', '477': '3.0', '480': '3.0', '483': '3.0', '488': '3.0', '525': '4.0', '560': '4.0', '600': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Videodrome (1983)"},
+                       "genre": {"S":"Fantasy|Horror|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'132': '3.5', '182': '4.5', '274': '3.5', '318': '3.5', '387': '4.5', '440': '3.5', '599': '2.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Life and Debt (2001)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'462': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lagaan: Once Upon a Time in India (2001)"},
+                       "genre": {"S":"Comedy|Drama|Musical|Romance"},
+                       "movie_ratings": {"S":"{'408': '4.0', '474': '4.5', '593': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Judgment at Nuremberg (1961)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '3.5', '309': '4.0', '387': '3.0', '421': '4.5', '474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brief History of Time, A (1991)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'414': '3.5', '514': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Leningrad Cowboys Go America (1989)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rules of the Game, The (La règle du jeu) (1939)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '3.0', '387': '4.0', '590': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Seven Brides for Seven Brothers (1954)"},
+                       "genre": {"S":"Comedy|Musical|Romance|Western"},
+                       "movie_ratings": {"S":"{'100': '4.5', '474': '4.5', '590': '3.0', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kiss of the Spider Woman (1985)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'51': '3.0', '66': '4.5', '288': '4.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"All the President's Men (1976)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'18': '4.0', '29': '4.5', '74': '5.0', '137': '4.0', '140': '4.0', '177': '3.0', '271': '3.5', '285': '4.0', '307': '4.0', '318': '4.0', '322': '4.0', '332': '3.5', '345': '4.0', '377': '5.0', '414': '4.0', '462': '4.0', '474': '4.0', '480': '4.5', '482': '3.5', '510': '4.5', '513': '4.5', '514': '4.0', '580': '3.5', '590': '4.0', '599': '4.0', '605': '4.0', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Angie (1994)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Apartment, The (Appartement, L') (1996)"},
+                       "genre": {"S":"Drama|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Avalon (2001)"},
+                       "genre": {"S":"Drama|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'23': '3.5', '414': '2.5', '580': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Babette's Feast (Babettes gæstebud) (1987)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'74': '5.0', '156': '4.0', '474': '5.0', '599': '3.5', '606': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beethoven (1992)"},
+                       "genre": {"S":"Children|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'51': '2.0', '153': '0.5', '222': '1.5', '307': '2.0', '380': '3.0', '387': '1.0', '477': '3.0', '489': '0.5', '517': '1.0', '594': '4.0', '599': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beethoven's 2nd (1993)"},
+                       "genre": {"S":"Children|Comedy"},
+                       "movie_ratings": {"S":"{'274': '2.0', '307': '1.5', '380': '3.0', '477': '0.5', '517': '0.5'}"}
+                   }
+               }
+           }
+   ]
+}

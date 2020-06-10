@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Fox and the Hound 2 (2006)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Operation 'Y' & Other Shurik's Adventures (1965)"},
+                       "genre": {"S":"Comedy|Crime|Romance"},
+                       "movie_ratings": {"S":"{'89': '2.5', '105': '5.0', '523': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Project Almanac (2015)"},
+                       "genre": {"S":"Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'125': '4.0', '256': '3.5', '448': '2.5', '533': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Louis C.K.: Live at The Comedy Store (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.5', '298': '3.0', '495': '5.0', '522': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Brooklyn (2015)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'298': '2.0', '339': '4.0', '414': '5.0', '418': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The End of the Tour (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Experimenter (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mistress America (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Zipper (2015)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Walk in the Woods (2015)"},
+                       "genre": {"S":"Adventure|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"True Story (2015)"},
+                       "genre": {"S":"Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.5', '462': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kurt Cobain: Montage of Heck (2015)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Going Clear: Scientology and the Prison of Belief (2015)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'111': '4.5', '184': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"What Happened, Miss Simone? (2015)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'525': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Story of Children and Film (2013)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Story of Film: An Odyssey, The (2011)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Eden (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'119': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The D Train (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dope (2015)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'114': '3.5', '125': '4.0', '298': '3.0', '448': '2.5', '495': '4.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Me and Earl and the Dying Girl (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'73': '4.0', '125': '4.0', '212': '3.0', '256': '4.5', '298': '3.0', '511': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Overnight (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'318': '4.5', '448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Stanford Prison Experiment (2015)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'184': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Pigeon Sat on a Branch Reflecting on Existence (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'318': '4.5', '567': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Loft (2014)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Vice (2015)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'292': '1.0'}"}
+                   }
+               }
+           }
+   ]
+}

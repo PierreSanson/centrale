@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Kill Giants (2018)"},
+                       "genre": {"S":"Drama|Fantasy|Thriller"},
+                       "movie_ratings": {"S":"{'514': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sherlock - A Study in Pink (2010)"},
+                       "genre": {"S":"Crime"},
+                       "movie_ratings": {"S":"{'18': '4.5', '62': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Game Over, Man! (2018)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'249': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Blockers (2018)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'514': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pacific Rim: Uprising (2018)"},
+                       "genre": {"S":"Action|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'305': '2.5', '514': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rampage (2018)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'514': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jurassic World: Fallen Kingdom (2018)"},
+                       "genre": {"S":"Action|Adventure|Drama|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'514': '2.5', '556': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Incredibles 2 (2018)"},
+                       "genre": {"S":"Action|Adventure|Animation|Children"},
+                       "movie_ratings": {"S":"{'25': '4.0', '98': '4.0', '338': '1.0', '417': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Deadpool 2 (2018)"},
+                       "genre": {"S":"Action|Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'25': '5.0', '62': '4.0', '98': '5.0', '233': '2.5', '248': '4.5', '249': '5.0', '305': '5.0', '331': '4.0', '338': '1.0', '380': '3.0', '514': '3.5', '586': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Solo: A Star Wars Story (2018)"},
+                       "genre": {"S":"Action|Adventure|Children|Sci-Fi"},
+                       "movie_ratings": {"S":"{'62': '4.0', '380': '4.0', '414': '3.5', '514': '3.0', '586': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Won't You Be My Neighbor? (2018)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'462': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sorry to Bother You (2018)"},
+                       "genre": {"S":"Comedy|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'462': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ant-Man and the Wasp (2018)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'50': '3.0', '380': '4.0', '596': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dogman (2018)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mamma Mia: Here We Go Again! (2018)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'212': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tag (2018)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'514': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Man Who Killed Don Quixote (2018)"},
+                       "genre": {"S":"Adventure|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Boundaries (2018)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'338': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Spiral (2018)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'338': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mission: Impossible - Fallout (2018)"},
+                       "genre": {"S":"Action|Adventure|Thriller"},
+                       "movie_ratings": {"S":"{'184': '4.0', '248': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"SuperFly (2018)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'318': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Iron Soldier (2010)"},
+                       "genre": {"S":"Action|Sci-Fi"},
+                       "movie_ratings": {"S":"{'210': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"BlacKkKlansman (2018)"},
+                       "genre": {"S":"Comedy|Crime|Drama"},
+                       "movie_ratings": {"S":"{'462': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Darkest Minds (2018)"},
+                       "genre": {"S":"Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'50': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tilt (2011)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'338': '1.5'}"}
+                   }
+               }
+           }
+   ]
+}

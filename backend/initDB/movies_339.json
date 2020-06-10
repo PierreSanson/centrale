@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Signal, The (2014)"},
+                       "genre": {"S":"Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'119': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Expendables 3 (2014)"},
+                       "genre": {"S":"Action|Adventure"},
+                       "movie_ratings": {"S":"{'305': '4.0', '365': '2.5', '534': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hercules (2014)"},
+                       "genre": {"S":"Action|Adventure"},
+                       "movie_ratings": {"S":"{'298': '0.5', '380': '2.0', '534': '4.0', '567': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Most Wanted Man (2014)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'414': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Life After Beth (2014)"},
+                       "genre": {"S":"Comedy|Horror|Romance"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Felony (2013)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Get on Up (2014)"},
+                       "genre": {"S":"Drama|Musical"},
+                       "movie_ratings": {"S":"{'285': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Magic in the Moonlight (2014)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Housebound (2014)"},
+                       "genre": {"S":"Comedy|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'89': '4.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Hundred-Foot Journey (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'10': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Batman: Assault on Arkham (2014)"},
+                       "genre": {"S":"Action|Animation|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"White Frog (2012)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'596': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Den, The (2013)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jupiter Ascending (2015)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'292': '1.5', '610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Teenage Mutant Ninja Turtles (2014)"},
+                       "genre": {"S":"Action|Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'318': '3.5', '380': '3.0', '448': '2.0', '610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I'll Follow You Down (2013)"},
+                       "genre": {"S":"Drama|Mystery|Sci-Fi"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Old Lady and the Pigeons, The (La vieille dame et les pigeons) (1997)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Giver, The (2014)"},
+                       "genre": {"S":"Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'73': '1.0', '210': '4.5', '292': '3.0', '448': '2.0', '567': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pretty One, The (2013)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'10': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Revenge of the Green Dragons (2014)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Let's Be Cops (2014)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'89': '2.5', '111': '4.0', '365': '3.5', '448': '2.5', '564': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Inbetweeners 2, The (2014)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '3.5', '534': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sacrament, The (2013)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sin City: A Dame to Kill For (2014)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'212': '3.0', '305': '4.0', '380': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"If I Stay (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'365': '2.0'}"}
+                   }
+               }
+           }
+   ]
+}

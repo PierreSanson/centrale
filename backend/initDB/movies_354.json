@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"San Andreas (2015)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'305': '2.5', '448': '1.5', '495': '1.0', '534': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Welcome to Me (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '4.5', '365': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Comedy Central Roast of James Franco (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'365': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"We Could Be King (2014)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'317': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hitman: Agent 47 (2015)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"B/W (2015)"},
+                       "genre": {"S":"Comedy|Crime|Sci-Fi"},
+                       "movie_ratings": {"S":"{'125': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ricki and the Flash (2015)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Partisan (2015)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Infini (2015)"},
+                       "genre": {"S":"Horror|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pitch Perfect 2 (2015)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'21': '3.0', '111': '3.5', '305': '3.5', '306': '4.0', '448': '3.0', '509': '5.0', '525': '2.5', '534': '2.5', '583': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Just Before I Go (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Carol (2015)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'596': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Office Romance (1977)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'89': '3.0', '105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bootleggers (1961)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Lobster (2015)"},
+                       "genre": {"S":"Comedy|Romance|Sci-Fi"},
+                       "movie_ratings": {"S":"{'125': '3.5', '298': '3.0', '318': '3.5', '326': '5.0', '414': '4.5', '560': '4.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Güeros (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'153': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Maggie (2015)"},
+                       "genre": {"S":"Drama|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hot Pursuit (2015)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Slow West (2015)"},
+                       "genre": {"S":"Action|Thriller|Western"},
+                       "movie_ratings": {"S":"{'318': '4.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Green Inferno (2014)"},
+                       "genre": {"S":"Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Barely Lethal (2015)"},
+                       "genre": {"S":"Action|Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Carry On Don't Lose Your Head (1966)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"What Love Is (2007)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Monkey King (1964)"},
+                       "genre": {"S":"Animation"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"5 to 7 (2014)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}

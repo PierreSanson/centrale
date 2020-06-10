@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Very Potter Musical, A (2009)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'89': '4.5', '177': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Very Potter Sequel, A (2010)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'177': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Miss Nobody (2010)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Civil War, The (1990)"},
+                       "genre": {"S":"Documentary|War"},
+                       "movie_ratings": {"S":"{'357': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ro.Go.Pa.G. (1963)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Women on the 6th Floor, The (Les Femmes du 6ème Étage) (2010)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'509': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mega Shark vs. Crocosaurus (2010)"},
+                       "genre": {"S":"Action|Adventure|Horror"},
+                       "movie_ratings": {"S":"{'382': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Red Hill (2010)"},
+                       "genre": {"S":"Crime|Thriller|Western"},
+                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mickey's The Prince and the Pauper (1990)"},
+                       "genre": {"S":"Animation|Children"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gone (2012)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Project X (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '1.5', '249': '3.0', '298': '1.5', '305': '4.5', '365': '0.5', '448': '1.5', '503': '0.5', '564': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dr. Seuss' The Lorax (2012)"},
+                       "genre": {"S":"Animation|Fantasy|Musical|IMAX"},
+                       "movie_ratings": {"S":"{'73': '3.5', '249': '3.0', '503': '2.5', '567': '1.5', '586': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Big Year, The (2011)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'68': '4.0', '222': '3.5', '448': '3.0', '483': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Act of Valor (2012)"},
+                       "genre": {"S":"Action|Thriller|War"},
+                       "movie_ratings": {"S":"{'80': '4.5', '503': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Trailer Park Boys (1999)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'484': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"This Means War (2012)"},
+                       "genre": {"S":"Action|Comedy|Romance"},
+                       "movie_ratings": {"S":"{'50': '1.0', '68': '3.5', '73': '3.5', '89': '2.0', '111': '3.5', '249': '3.5', '448': '2.0', '489': '3.5', '534': '2.0', '561': '2.0', '564': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"John Carter (2012)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi|IMAX"},
+                       "movie_ratings": {"S":"{'249': '3.5', '292': '3.5', '298': '3.0', '352': '2.0', '408': '4.0', '448': '2.0', '509': '3.5', '534': '4.0', '556': '4.0', '567': '1.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Goon (2011)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'111': '4.5', '249': '4.0', '298': '2.0', '365': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ledge, The (2011)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"21 Jump Street (2012)"},
+                       "genre": {"S":"Action|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'21': '3.0', '30': '5.0', '68': '5.0', '73': '4.5', '89': '3.0', '111': '5.0', '122': '4.5', '125': '4.0', '212': '4.0', '249': '4.0', '280': '4.0', '298': '2.5', '305': '4.5', '318': '4.0', '352': '2.0', '365': '4.5', '448': '4.5', '484': '4.5', '509': '3.0', '525': '4.0', '534': '4.0', '550': '4.0', '560': '3.0', '564': '4.0', '596': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jeff, Who Lives at Home (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'249': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lockout (2012)"},
+                       "genre": {"S":"Action|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'249': '3.0', '380': '5.0', '448': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Snowtown (Snowtown Murders, The) (2011)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Space Battleship Yamato (2010)"},
+                       "genre": {"S":"Action|Adventure|Drama"},
+                       "movie_ratings": {"S":"{'332': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jiro Dreams of Sushi (2011)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'52': '5.0', '68': '4.5', '298': '3.0', '318': '3.5', '525': '4.5'}"}
+                   }
+               }
+           }
+   ]
+}

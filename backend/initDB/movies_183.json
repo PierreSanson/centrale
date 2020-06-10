@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Boyz N the Hood (1991)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'28': '2.0', '61': '4.0', '64': '4.0', '95': '4.5', '182': '3.0', '221': '5.0', '226': '4.0', '239': '4.5', '274': '3.5', '307': '2.5', '414': '3.5', '425': '3.5', '434': '3.0', '462': '3.5', '480': '4.0', '484': '5.0', '553': '4.0', '608': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bugsy (1991)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bugsy Malone (1976)"},
+                       "genre": {"S":"Children|Comedy|Crime|Musical"},
+                       "movie_ratings": {"S":"{'448': '3.0', '606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cobra (1986)"},
+                       "genre": {"S":"Action|Crime"},
+                       "movie_ratings": {"S":"{'561': '3.5', '599': '2.0', '606': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Phenomena (a.k.a. Creepers) (1985)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Crimewave (1985)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Monty Python's The Meaning of Life (1983)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'18': '4.5', '23': '3.5', '28': '2.5', '50': '3.0', '51': '5.0', '66': '3.5', '91': '4.0', '122': '5.0', '199': '3.5', '204': '4.0', '221': '3.5', '239': '4.0', '274': '4.0', '282': '4.5', '298': '2.5', '318': '5.0', '328': '5.0', '356': '3.5', '380': '4.0', '387': '4.0', '405': '4.0', '414': '4.0', '418': '5.0', '420': '4.5', '448': '3.0', '462': '3.0', '474': '3.5', '477': '4.0', '480': '4.5', '483': '4.5', '488': '4.5', '509': '4.0', '525': '4.0', '526': '5.0', '580': '3.0', '599': '3.5', '600': '5.0', '606': '4.0', '608': '2.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Where Eagles Dare (1968)"},
+                       "genre": {"S":"Action|Adventure|War"},
+                       "movie_ratings": {"S":"{'140': '4.0', '182': '3.0', '292': '4.5', '305': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tightrope (1984)"},
+                       "genre": {"S":"Thriller"},
+                       "movie_ratings": {"S":"{'414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sleeping with the Enemy (1991)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'414': '2.5', '474': '3.5', '482': '1.0', '599': '2.0', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"PCU (1994)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'298': '1.5', '307': '3.5', '387': '1.5', '414': '3.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rookie, The (1990)"},
+                       "genre": {"S":"Action|Comedy|Thriller"},
+                       "movie_ratings": {"S":"{'414': '2.0', '448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"City Heat (1984)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Three O'Clock High (1987)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"White Hunter, Black Heart (1990)"},
+                       "genre": {"S":"Adventure|Drama"},
+                       "movie_ratings": {"S":"{'28': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Come and See (Idi i smotri) (1985)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'305': '5.0', '567': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ginger Snaps (2000)"},
+                       "genre": {"S":"Drama|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'91': '5.0', '274': '3.5', '414': '4.0', '474': '4.0', '608': '3.5', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"More American Graffiti (1979)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'514': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"It's Pat (1994)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'307': '1.5', '599': '0.5', '608': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Regarding Henry (1991)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'66': '4.0', '414': '4.0', '474': '3.5', '599': '3.0', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Alien Contamination (1980)"},
+                       "genre": {"S":"Action|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'3': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Amazing Transparent Man, The (1960)"},
+                       "genre": {"S":"Sci-Fi"},
+                       "movie_ratings": {"S":"{'377': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Love Affair (1939)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scrooge (1970)"},
+                       "genre": {"S":"Drama|Fantasy|Musical"},
+                       "movie_ratings": {"S":"{}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Leap of Faith (1992)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'307': '2.0', '474': '3.0', '599': '2.0'}"}
+                   }
+               }
+           }
+   ]
+}

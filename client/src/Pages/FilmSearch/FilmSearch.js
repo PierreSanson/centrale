@@ -33,9 +33,14 @@ const PageFilm = () => {
   }, [fetchAgain]);
   
   const sendDB = async(event) => {
+<<<<<<< HEAD
     await fetch("https://6w1xm2b238.execute-api.eu-west-1.amazonaws.com/dev/movies",{
+=======
+    const Name_Year = item.Title+' ('+item.Year+')'
+    await fetch("https://32inokvd3h.execute-api.eu-west-1.amazonaws.com/dev/movies",{
+>>>>>>> 57814244f4e3687d8a1248c0adbf24dacc44a28b
       method: "post",
-      body: JSON.stringify({'Name_Year':item.Title+' ('+item.Year+')',"genre":item.Genre}),
+      body: JSON.stringify({"uuid": Name_Year, "genre":item.Genre}),
     });
     event.preventDefault();
   };

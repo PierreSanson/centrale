@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Upside of Anger, The (2005)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'438': '3.0', '474': '3.5', '606': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Little Miss Marker (1980)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sweet Liberty (1986)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"I Remember Mama (1948)"},
+                       "genre": {"S":"Children|Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Smooth Talk (1985)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'156': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Out Cold (1989)"},
+                       "genre": {"S":"Comedy|Thriller"},
+                       "movie_ratings": {"S":"{'68': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Man Trouble (1992)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'474': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Battles Without Honor & Humanity (Jingi naki tatakai) (1973)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stander (2003)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'28': '3.0', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Imaginary Heroes (2004)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'232': '3.5', '599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sergeant York (1941)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'28': '3.0', '474': '4.0', '590': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ruby & Quentin (Tais-toi!) (2003)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'560': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wizards (1977)"},
+                       "genre": {"S":"Animation|Fantasy|Sci-Fi|War"},
+                       "movie_ratings": {"S":"{'514': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Life and Death of Peter Sellers, The (2004)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Appleseed (Appurushîdo) (2004)"},
+                       "genre": {"S":"Action|Animation|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'34': '3.0', '129': '4.5', '320': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Many Adventures of Winnie the Pooh, The (1977)"},
+                       "genre": {"S":"Animation|Children|Musical"},
+                       "movie_ratings": {"S":"{'274': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Elektra (2005)"},
+                       "genre": {"S":"Action|Adventure|Crime|Drama"},
+                       "movie_ratings": {"S":"{'219': '0.5', '232': '2.0', '292': '3.0', '380': '2.0', '414': '2.5', '438': '1.5', '480': '1.0', '596': '2.5', '599': '1.5', '608': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Racing Stripes (2005)"},
+                       "genre": {"S":"Children|Comedy"},
+                       "movie_ratings": {"S":"{'232': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Coach Carter (2005)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'28': '3.0', '140': '3.0', '232': '3.5', '274': '3.0', '298': '2.5', '414': '3.0', '438': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Boys Town (1938)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gold Diggers of 1935 (1935)"},
+                       "genre": {"S":"Comedy|Musical"},
+                       "movie_ratings": {"S":"{'177': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rocco and His Brothers (Rocco e i suoi fratelli) (1960)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Memories of Murder (Salinui chueok) (2003)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'187': '5.0', '296': '5.0', '305': '4.0', '483': '4.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chase, The (1994)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Crime|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Downfall (Untergang, Der) (2004)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'22': '1.0', '76': '4.0', '119': '4.0', '182': '3.5', '187': '5.0', '221': '4.0', '227': '4.0', '237': '3.0', '241': '3.5', '305': '5.0', '318': '4.5', '326': '4.5', '339': '5.0', '419': '4.5', '420': '4.0', '445': '2.5', '464': '4.0', '474': '3.5', '495': '4.5', '606': '3.5'}"}
+                   }
+               }
+           }
+   ]
+}

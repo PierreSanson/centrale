@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jane Eyre (1944)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'250': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tale of Two Cities, A (1935)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '4.5', '253': '4.0', '387': '4.0', '474': '4.5', '580': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ben-Hur: A Tale of the Christ (1925)"},
+                       "genre": {"S":"Adventure|Drama|Romance"},
+                       "movie_ratings": {"S":"{'137': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das) (1920)"},
+                       "genre": {"S":"Crime|Fantasy|Horror"},
+                       "movie_ratings": {"S":"{'137': '3.0', '177': '3.0', '221': '5.0', '260': '3.5', '346': '4.0', '362': '5.0', '590': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gorky Park (1983)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'23': '3.5', '514': '3.5', '580': '3.5', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Great Train Robbery (1978)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Crime|Drama"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Guarding Tess (1994)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'438': '3.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hannah and Her Sisters (1986)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'28': '1.5', '74': '5.0', '137': '4.5', '346': '4.5', '357': '1.5', '387': '3.5', '397': '4.5', '448': '4.0', '462': '3.5', '474': '4.0', '480': '5.0', '600': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hard Way, The (1991)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'594': '5.0', '599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Highlander II: The Quickening (1991)"},
+                       "genre": {"S":"Action|Sci-Fi"},
+                       "movie_ratings": {"S":"{'66': '2.0', '104': '2.0', '438': '0.5', '448': '1.5', '594': '4.0', '599': '1.5', '606': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hoffa (1992)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'28': '3.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"House of Cards (1993)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Housesitter (1992)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'307': '2.0', '474': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hudson Hawk (1991)"},
+                       "genre": {"S":"Action|Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'51': '5.0', '91': '3.0', '448': '2.0', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Invasion of the Body Snatchers (1978)"},
+                       "genre": {"S":"Horror|Mystery|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'75': '4.0', '137': '3.5', '274': '3.5', '305': '4.5', '339': '4.5', '580': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kindergarten Cop (1990)"},
+                       "genre": {"S":"Action|Comedy|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'51': '3.0', '64': '3.0', '66': '3.5', '68': '3.5', '169': '3.5', '177': '3.0', '249': '3.5', '274': '3.5', '282': '3.0', '381': '3.5', '387': '2.5', '438': '2.5', '474': '3.0', '489': '1.0', '599': '3.5', '600': '3.0', '608': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"King Ralph (1991)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Boy Scout, The (1991)"},
+                       "genre": {"S":"Action|Comedy|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'51': '3.5', '249': '4.0', '448': '3.5', '464': '4.0', '483': '4.0', '489': '1.5', '561': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Last Tango in Paris (Ultimo tango a Parigi) (1972)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'125': '5.0', '156': '5.0', '346': '5.0', '387': '3.5', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lorenzo's Oil (1992)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'28': '3.5', '226': '3.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lover, The (Amant, L') (1992)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'68': '3.5', '414': '3.0', '606': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mr. Destiny (1990)"},
+                       "genre": {"S":"Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Night of the Hunter, The (1955)"},
+                       "genre": {"S":"Drama|Film-Noir|Thriller"},
+                       "movie_ratings": {"S":"{'221': '4.0', '346': '4.0', '387': '4.0', '405': '4.5', '462': '3.0', '474': '4.5', '590': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Only the Lonely (1991)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'66': '4.0', '474': '3.0', '599': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dave Chappelle: For What it's Worth (2004)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.0', '111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scooby-Doo! Abracadabra-Doo (2010)"},
+                       "genre": {"S":"Animation|Children|Mystery"},
+                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mommy (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wild (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'18': '3.5', '41': '4.0', '292': '0.5', '448': '3.0', '563': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Top Five (2014)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'448': '3.0', '564': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bill Burr: I'm Sorry You Feel That Way (2014)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Big Eyes (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '4.0', '448': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Into the Woods (2014)"},
+                       "genre": {"S":"Children|Comedy|Fantasy|Musical"},
+                       "movie_ratings": {"S":"{'448': '2.5', '509': '2.5', '556': '4.0', '563': '4.0', '567': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Men, Women & Children (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Interview (2014)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'21': '0.5', '62': '3.0', '89': '2.5', '105': '3.5', '111': '4.5', '125': '4.0', '249': '4.0', '305': '3.5', '306': '3.0', '365': '5.0', '448': '3.5', '564': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kingsman: The Secret Service (2015)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Crime"},
+                       "movie_ratings": {"S":"{'10': '1.0', '18': '4.0', '21': '4.0', '24': '4.0', '52': '4.0', '68': '4.0', '73': '4.5', '105': '4.0', '111': '5.0', '119': '4.0', '122': '4.5', '125': '4.0', '154': '5.0', '184': '5.0', '212': '4.0', '249': '4.5', '272': '4.0', '279': '4.0', '292': '4.0', '298': '3.5', '331': '3.5', '341': '4.0', '352': '4.0', '380': '5.0', '408': '2.0', '414': '4.0', '448': '3.5', '511': '4.0', '525': '4.5', '533': '5.0', '534': '4.5', '563': '4.0', '564': '4.0', '567': '3.0', '596': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bill Burr: You People Are All the Same (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Night at the Museum: Secret of the Tomb (2014)"},
+                       "genre": {"S":"Adventure|Children|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'21': '3.5', '89': '4.5', '111': '3.5', '256': '4.0', '448': '2.5', '517': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Paradox (2010)"},
+                       "genre": {"S":"Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'210': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Punisher: Dirty Laundry (2012)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Seventh Son (2014)"},
+                       "genre": {"S":"Adventure|Children|Fantasy"},
+                       "movie_ratings": {"S":"{'448': '1.0', '534': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Corner Gas: The Movie (2014)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Man Called Blade (1977)"},
+                       "genre": {"S":"Action|Drama|Thriller|Western"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Merry Friggin' Christmas (2014)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'21': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Into the Forest of Fireflies' Light (2011)"},
+                       "genre": {"S":"Animation|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'523': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"PK (2014)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Chappie (2015)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'15': '2.5', '105': '4.0', '122': '5.0', '125': '3.0', '249': '3.5', '298': '3.0', '305': '3.5', '365': '2.5', '448': '2.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Salt of the Earth (2014)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'105': '5.0', '318': '4.5', '560': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Fool (2014)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Taken 3 (2015)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'119': '4.5', '380': '2.0', '448': '1.0', '586': '5.0', '610': '1.0'}"}
+                   }
+               }
+           }
+   ]
+}

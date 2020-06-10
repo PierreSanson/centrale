@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Captain Fantastic (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'62': '4.5', '125': '4.5', '153': '4.5', '462': '4.5', '471': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Toni Erdmann (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'18': '3.5', '125': '3.5', '318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Wailing (2016)"},
+                       "genre": {"S":"Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Comedy of the Strict Regime (1993)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Meddler (2016)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Now You See Me 2 (2016)"},
+                       "genre": {"S":"Action|Comedy|Thriller"},
+                       "movie_ratings": {"S":"{'18': '3.5', '62': '3.5', '111': '4.5', '248': '4.5', '249': '4.0', '365': '4.0', '514': '4.0', '551': '4.0', '564': '4.0', '567': '1.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ali Wong: Baby Cobra (2016)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Café Society (2016)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Neo Tokyo (1987)"},
+                       "genre": {"S":"Adventure|Animation|Fantasy|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Swiss Army Man (2016)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'125': '4.0', '212': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Do-Over (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5', '365': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Death Smiles on a Murderer (1973)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'514': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"},
+                       "genre": {"S":"Action|Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Fundamentals of Caring (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'125': '3.5', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Popstar: Never Stop Never Stopping (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '1.5', '249': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Midsummer Night's Dream (2016)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'210': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Bremen Town Musicians (1969)"},
+                       "genre": {"S":"Animation|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Planet Earth (2006)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'47': '3.0', '105': '5.0', '184': '5.0', '233': '4.0', '251': '5.0', '525': '4.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bo Burnham: Make Happy (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'525': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Conjuring 2 (2016)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'306': '4.0', '365': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pelé: Birth of a Legend (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ghostbusters (2016)"},
+                       "genre": {"S":"Action|Comedy|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'111': '3.5', '125': '3.5', '249': '3.5', '306': '4.0', '382': '3.0', '414': '3.0', '448': '1.5', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Central Intelligence (2016)"},
+                       "genre": {"S":"Action|Comedy"},
+                       "movie_ratings": {"S":"{'111': '5.0', '125': '3.5', '448': '2.5', '564': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"O.J.: Made in America (2016)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bloodmoon (1997)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'610': '2.5'}"}
+                   }
+               }
+           }
+   ]
+}

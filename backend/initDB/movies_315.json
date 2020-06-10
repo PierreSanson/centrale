@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Safe (2012)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'341': '4.0', '380': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dark Shadows (2012)"},
+                       "genre": {"S":"Comedy|Horror|IMAX"},
+                       "movie_ratings": {"S":"{'111': '4.0', '177': '3.0', '305': '1.5', '448': '2.0', '509': '2.5', '599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"96 Minutes (2011) "},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Decoy Bride, The (2011)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'21': '3.0', '89': '4.5', '509': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Rocket Singh: Salesman of the Year (2009)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dictator, The (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'21': '4.0', '50': '2.0', '89': '2.0', '105': '4.0', '122': '4.5', '125': '4.5', '184': '4.0', '249': '4.0', '280': '1.5', '298': '2.0', '305': '4.5', '318': '4.0', '341': '4.0', '365': '3.0', '448': '3.5', '511': '4.0', '564': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Walking with Monsters (2005)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Men in Black III (M.III.B.) (M.I.B.³) (2012)"},
+                       "genre": {"S":"Action|Comedy|Sci-Fi|IMAX"},
+                       "movie_ratings": {"S":"{'21': '4.0', '24': '4.0', '62': '3.5', '111': '1.0', '177': '2.0', '222': '3.0', '246': '4.0', '249': '4.0', '292': '3.5', '298': '2.5', '318': '3.5', '380': '5.0', '448': '2.5', '483': '3.0', '509': '3.0', '525': '3.5', '534': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Snow White and the Huntsman (2012)"},
+                       "genre": {"S":"Action|Adventure|Drama"},
+                       "movie_ratings": {"S":"{'249': '3.5', '448': '2.0', '483': '2.5', '509': '2.5', '534': '3.0', '556': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sound of My Voice (2011)"},
+                       "genre": {"S":"Drama|Mystery|Sci-Fi"},
+                       "movie_ratings": {"S":"{'509': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Eva (2011)"},
+                       "genre": {"S":"Drama|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'483': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pirates! Band of Misfits, The (2012)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'104': '4.0', '105': '2.5', '448': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Prometheus (2012)"},
+                       "genre": {"S":"Action|Horror|Sci-Fi|IMAX"},
+                       "movie_ratings": {"S":"{'15': '3.0', '50': '1.5', '62': '3.5', '68': '3.0', '80': '5.0', '122': '4.0', '139': '1.5', '249': '4.5', '279': '3.0', '298': '3.5', '305': '2.5', '317': '4.0', '318': '4.0', '328': '2.0', '331': '5.0', '352': '4.5', '380': '4.0', '408': '2.0', '414': '3.0', '448': '2.5', '483': '2.5', '534': '3.0', '561': '2.0', '573': '4.5', '582': '4.0', '599': '3.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Pact, The (2012)"},
+                       "genre": {"S":"Horror|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bernie (2011)"},
+                       "genre": {"S":"Comedy|Crime|Drama"},
+                       "movie_ratings": {"S":"{'448': '3.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Inhale (2010)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Take This Waltz (2011)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'125': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wanderlust (2012)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5', '298': '1.5', '318': '4.0', '448': '2.0', '534': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Moonrise Kingdom (2012)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'68': '3.5', '89': '3.0', '105': '4.0', '122': '5.0', '125': '5.0', '153': '5.0', '212': '4.5', '237': '3.5', '249': '5.0', '280': '5.0', '292': '2.0', '298': '3.0', '317': '3.0', '318': '3.5', '331': '4.0', '352': '4.0', '414': '4.5', '426': '2.0', '448': '3.5', '487': '2.5', '495': '4.5', '496': '3.5', '522': '4.5', '525': '4.5', '543': '2.0', '560': '3.5', '567': '3.5', '599': '4.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Get the Gringo (2012)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'380': '4.0', '382': '3.5', '586': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Superman/Doomsday (2007) "},
+                       "genre": {"S":"Action|Animation"},
+                       "movie_ratings": {"S":"{'380': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Thousand Words, A (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'21': '3.0', '448': '2.5', '537': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Safety Not Guaranteed (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'122': '4.0', '125': '3.5', '249': '4.0', '298': '3.0', '414': '4.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Madagascar 3: Europe's Most Wanted (2012)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy|IMAX"},
+                       "movie_ratings": {"S":"{'119': '4.0', '210': '4.0', '246': '4.5', '249': '3.5', '388': '5.0', '448': '2.5', '561': '2.0', '567': '2.5', '606': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Your Sister's Sister (2011)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

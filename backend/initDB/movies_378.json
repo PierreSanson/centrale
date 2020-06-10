@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"A Street Cat Named Bob (2016)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'114': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Lego Batman Movie (2017)"},
+                       "genre": {"S":"Action|Animation|Comedy"},
+                       "movie_ratings": {"S":"{'111': '3.5', '125': '4.0', '249': '4.0', '380': '5.0', '517': '1.0', '567': '3.5', '596': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Spirit of Christmas (1995)"},
+                       "genre": {"S":"Animation|Comedy"},
+                       "movie_ratings": {"S":"{'89': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Good Boy (2016)"},
+                       "genre": {"S":"Children|Comedy|Drama"},
+                       "movie_ratings": {"S":"{'125': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dana Carvey: Straight White Male, 60 (2016)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Marvel One-Shot: Agent Carter (2013)"},
+                       "genre": {"S":"Action|Adventure|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'596': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kizumonogatari II: Passionate Blood (2016)"},
+                       "genre": {"S":"Animation|Fantasy|Mystery"},
+                       "movie_ratings": {"S":"{'184': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Joe Rogan: Live (2006)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jim Gaffigan: Cinco (2017)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'561': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kizumonogatari III: Cold Blood (2017)"},
+                       "genre": {"S":"Animation|Fantasy|Mystery"},
+                       "movie_ratings": {"S":"{'184': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"John Wick: Chapter Two (2017)"},
+                       "genre": {"S":"Action|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'21': '3.5', '62': '4.5', '111': '4.0', '279': '4.0', '380': '5.0', '599': '3.0', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Get Out (2017)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'62': '4.0', '98': '4.5', '103': '3.0', '125': '4.0', '184': '4.5', '212': '2.5', '306': '3.0', '363': '4.0', '417': '3.0', '462': '5.0', '514': '2.5', '515': '4.5', '567': '2.0', '599': '3.0', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Logan (2017)"},
+                       "genre": {"S":"Action|Sci-Fi"},
+                       "movie_ratings": {"S":"{'18': '4.0', '21': '3.0', '49': '4.5', '62': '5.0', '68': '4.0', '119': '4.5', '125': '3.5', '212': '4.5', '249': '5.0', '279': '4.0', '305': '4.5', '363': '4.0', '380': '5.0', '400': '4.0', '414': '4.0', '471': '4.5', '475': '3.5', '515': '5.0', '523': '5.0', '551': '3.0', '567': '4.0', '586': '5.0', '596': '5.0', '599': '3.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kong: Skull Island (2017)"},
+                       "genre": {"S":"Action|Adventure|Fantasy"},
+                       "movie_ratings": {"S":"{'50': '1.5', '212': '3.0', '249': '4.0', '380': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"T2: Trainspotting (2017)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'125': '4.0', '233': '3.5', '249': '4.0', '305': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Big Sick (2017)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'111': '4.0', '414': '5.0', '599': '3.0', '601': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"100 Streets (2016)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Saturn 3 (1980)"},
+                       "genre": {"S":"Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'514': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beauty and the Beast (2017)"},
+                       "genre": {"S":"Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'212': '4.0', '596': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Boss Baby (2017)"},
+                       "genre": {"S":"Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.5', '252': '4.0', '306': '3.5', '567': '2.0', '586': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mercury Plains (2016)"},
+                       "genre": {"S":"Action|Adventure|Drama"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Call Me by Your Name (2017)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'50': '3.5', '153': '4.5', '318': '4.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Mudbound (2017)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ghost in the Shell (2017)"},
+                       "genre": {"S":"Action|Drama|Sci-Fi"},
+                       "movie_ratings": {"S":"{'318': '3.5', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bill Burr: Walk Your Way Out (2017)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'111': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Lost Room (2006)"},
+                       "genre": {"S":"Action|Fantasy|Mystery"},
+                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Tangerine (2015)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Every Secret Thing (2014)"},
+                       "genre": {"S":"Crime|Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"964 Pinocchio (1991)"},
+                       "genre": {"S":"Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'599': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Joy (2015)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'50': '2.5', '125': '3.5', '414': '4.5', '448': '3.0', '462': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ready Player One"},
+                       "genre": {"S":"Action|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'209': '3.5', '305': '4.5', '380': '3.0', '514': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Victor Frankenstein (2015)"},
+                       "genre": {"S":"Drama|Horror|Sci-Fi"},
+                       "movie_ratings": {"S":"{'119': '4.5', '448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Guardians (2016)"},
+                       "genre": {"S":"(no genres listed)"},
+                       "movie_ratings": {"S":"{'596': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Invincible Shaolin (1978)"},
+                       "genre": {"S":"Action"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Scouts Guide to the Zombie Apocalypse (2015)"},
+                       "genre": {"S":"Action|Comedy|Horror"},
+                       "movie_ratings": {"S":"{'125': '4.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Suffragette (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fort Tilden (2014)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Turbo Kid (2015)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi"},
+                       "movie_ratings": {"S":"{'89': '2.5', '125': '4.0', '380': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Unauthorized Saved by the Bell Story (2014)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"War Room (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'567': '0.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Legend (2015)"},
+                       "genre": {"S":"Crime|Thriller"},
+                       "movie_ratings": {"S":"{'18': '4.0', '298': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Deathgasm (2015)"},
+                       "genre": {"S":"Comedy|Horror"},
+                       "movie_ratings": {"S":"{'114': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"The Danish Girl (2015)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'339': '4.0', '596': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cooties (2015)"},
+                       "genre": {"S":"Comedy|Horror"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Autumn Marathon (1979)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"12 Chairs (1976)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ordinary Miracle (1978)"},
+                       "genre": {"S":"Comedy|Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Old Men: Robbers (1971)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Unbelievable Adventures of Italians in Russia (1974)"},
+                       "genre": {"S":"Adventure|Comedy"},
+                       "movie_ratings": {"S":"{'89': '2.0', '105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"It Can't Be! (1975)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           }
+   ]
+}

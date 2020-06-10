@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Survive Style 5+ (2004)"},
+                       "genre": {"S":"Fantasy|Mystery|Romance|Thriller"},
+                       "movie_ratings": {"S":"{'560': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Woyzeck (1979)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'50': '3.0', '387': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Exorcism of Emily Rose, The (2005)"},
+                       "genre": {"S":"Crime|Drama|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'226': '4.0', '232': '3.0', '274': '1.5', '380': '3.0', '414': '3.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Flightplan (2005)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'140': '3.5', '177': '2.5', '232': '2.5', '274': '2.5', '305': '4.0', '380': '3.0', '414': '4.0', '425': '4.0', '448': '2.0', '561': '2.0', '599': '1.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Corpse Bride (2005)"},
+                       "genre": {"S":"Animation|Comedy|Fantasy|Musical|Romance"},
+                       "movie_ratings": {"S":"{'18': '4.0', '41': '3.5', '62': '4.0', '68': '2.5', '103': '4.0', '104': '3.5', '105': '4.0', '111': '2.5', '132': '3.5', '139': '3.5', '177': '2.5', '200': '3.0', '226': '4.0', '232': '3.0', '246': '3.0', '288': '3.5', '298': '3.5', '307': '3.0', '328': '2.0', '331': '3.5', '334': '4.0', '336': '2.5', '352': '4.0', '356': '2.5', '362': '4.5', '387': '3.5', '390': '5.0', '401': '4.0', '424': '4.0', '426': '2.5', '474': '4.0', '480': '3.5', '483': '4.0', '489': '4.0', '509': '3.5', '523': '5.0', '525': '3.5', '534': '4.0', '560': '3.5', '596': '4.0', '600': '3.0', '605': '3.0', '606': '4.5', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Green Street Hooligans (a.k.a. Hooligans) (2005)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'28': '2.5', '105': '5.0', '226': '4.0', '249': '4.5', '380': '3.0', '405': '4.0', '414': '3.5', '580': '3.5', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"History of Violence, A (2005)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'18': '4.0', '22': '2.5', '52': '5.0', '62': '4.0', '64': '3.0', '68': '3.0', '74': '3.0', '103': '3.5', '139': '2.5', '140': '3.5', '166': '4.5', '187': '4.0', '219': '2.5', '274': '4.0', '298': '1.5', '380': '5.0', '387': '4.0', '414': '4.0', '438': '3.0', '474': '4.0', '480': '3.0', '540': '3.5', '542': '3.0', '560': '4.5', '580': '4.0', '605': '2.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Oliver Twist (2005)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'288': '3.5', '387': '3.5', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Greatest Game Ever Played, The (2005)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'28': '3.0', '140': '4.0', '232': '3.5', '414': '3.5', '480': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Capote (2005)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'7': '3.5', '18': '4.0', '22': '3.5', '28': '2.0', '70': '4.5', '74': '3.5', '187': '4.0', '199': '3.5', '232': '3.5', '282': '4.5', '318': '4.5', '339': '4.5', '357': '4.0', '382': '4.5', '414': '3.5', '462': '3.0', '474': '4.5', '477': '4.0', '480': '4.5', '506': '4.0', '525': '4.0', '580': '4.0', '590': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Final Fantasy VII: Advent Children (2004)"},
+                       "genre": {"S":"Action|Adventure|Animation|Fantasy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'129': '4.5', '219': '4.0', '226': '4.0', '380': '4.0', '438': '5.0', '483': '2.0', '509': '2.5', '534': '4.0', '599': '2.5', '608': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Roll Bounce (2005)"},
+                       "genre": {"S":"Comedy|Drama|Romance"},
+                       "movie_ratings": {"S":"{'480': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Into the Blue (2005)"},
+                       "genre": {"S":"Action|Adventure|Crime|Thriller"},
+                       "movie_ratings": {"S":"{'232': '3.0', '414': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"MirrorMask (2005)"},
+                       "genre": {"S":"Adventure|Children|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'307': '4.5', '381': '3.5', '387': '3.0', '393': '4.0', '477': '4.0', '483': '4.5', '489': '3.5', '599': '2.5', '600': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wallace & Gromit in The Curse of the Were-Rabbit (2005)"},
+                       "genre": {"S":"Adventure|Animation|Children|Comedy"},
+                       "movie_ratings": {"S":"{'18': '4.0', '21': '1.5', '22': '0.5', '50': '3.0', '63': '5.0', '89': '2.5', '98': '5.0', '104': '5.0', '161': '5.0', '167': '5.0', '177': '3.0', '232': '2.5', '298': '3.0', '305': '4.5', '307': '4.0', '334': '4.0', '352': '3.0', '376': '5.0', '380': '5.0', '387': '3.5', '401': '3.5', '414': '3.5', '448': '3.5', '474': '4.5', '477': '4.0', '480': '3.5', '509': '3.0', '517': '2.5', '599': '3.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Kiss Kiss Bang Bang (2005)"},
+                       "genre": {"S":"Comedy|Crime|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'18': '4.0', '24': '4.0', '28': '4.5', '62': '4.0', '68': '3.5', '105': '3.0', '132': '2.5', '178': '5.0', '200': '5.0', '219': '5.0', '232': '3.5', '239': '4.0', '249': '4.0', '254': '4.0', '279': '4.0', '298': '3.5', '307': '3.0', '318': '3.5', '352': '3.5', '356': '5.0', '370': '4.0', '380': '5.0', '414': '4.0', '448': '4.5', '480': '4.0', '483': '5.0', '506': '4.5', '522': '4.0', '560': '4.5', '561': '4.0', '580': '4.0', '590': '3.5', '596': '4.5', '599': '3.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Bittersweet Life, A (Dalkomhan insaeng) (2005)"},
+                       "genre": {"S":"Action|Crime|Drama"},
+                       "movie_ratings": {"S":"{'560': '4.0', '599': '3.5', '610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Short Film About Love, A (Krótki film o milosci) (1988)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"All This, and Heaven Too (1940)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'345': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Darwin's Nightmare (2004)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'462': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beowulf & Grendel (2005)"},
+                       "genre": {"S":"Action|Adventure|Drama|Fantasy"},
+                       "movie_ratings": {"S":"{'249': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"No Direction Home: Bob Dylan (2005)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'227': '4.0', '357': '5.0', '398': '5.0', '499': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Goal! The Dream Begins (Goal!) (2005)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'7': '3.5', '175': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wraith, The (1986)"},
+                       "genre": {"S":"Action|Horror|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'514': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"In Her Shoes (2005)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'232': '3.0', '336': '3.5', '480': '2.0', '489': '4.0'}"}
+                   }
+               }
+           }
+   ]
+}

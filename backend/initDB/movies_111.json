@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Long Walk Home, The (1990)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'290': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Clara's Heart (1988)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'474': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Burglar (1987)"},
+                       "genre": {"S":"Comedy|Crime"},
+                       "movie_ratings": {"S":"{'474': '1.5', '555': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fatal Beauty (1987)"},
+                       "genre": {"S":"Action|Comedy|Crime|Drama"},
+                       "movie_ratings": {"S":"{'368': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Gone in 60 Seconds (2000)"},
+                       "genre": {"S":"Action|Crime"},
+                       "movie_ratings": {"S":"{'13': '3.0', '19': '2.0', '34': '4.5', '42': '4.0', '45': '5.0', '63': '2.5', '64': '2.5', '68': '3.0', '82': '4.0', '97': '4.0', '100': '4.0', '101': '4.0', '105': '3.5', '112': '4.0', '132': '2.0', '139': '1.5', '140': '4.0', '177': '3.0', '182': '2.5', '195': '3.0', '200': '4.0', '219': '2.5', '232': '3.5', '239': '3.5', '249': '4.0', '256': '4.0', '274': '3.5', '282': '3.5', '292': '3.0', '298': '2.5', '299': '4.0', '318': '3.0', '331': '2.0', '333': '3.0', '352': '3.0', '354': '3.5', '367': '3.0', '380': '3.0', '391': '2.0', '414': '3.0', '415': '3.5', '428': '2.0', '432': '3.5', '438': '3.5', '448': '2.0', '453': '2.0', '457': '5.0', '466': '3.5', '475': '4.0', '480': '3.0', '483': '3.0', '484': '3.5', '489': '1.5', '495': '4.5', '519': '3.5', '542': '2.5', '579': '4.0', '591': '4.0', '596': '2.5', '608': '3.5', '610': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Love's Labour's Lost (2000)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'104': '2.0', '333': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sunshine (1999)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'477': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Hamlet (1990)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'465': '5.0', '474': '4.0', '480': '3.5', '599': '3.0', '606': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Coming Home (1978)"},
+                       "genre": {"S":"Drama|War"},
+                       "movie_ratings": {"S":"{'202': '4.0', '368': '2.0', '465': '4.0', '474': '3.5', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"American Pop (1981)"},
+                       "genre": {"S":"Animation|Musical"},
+                       "movie_ratings": {"S":"{'202': '3.0', '414': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Assault on Precinct 13 (1976)"},
+                       "genre": {"S":"Action|Thriller"},
+                       "movie_ratings": {"S":"{'183': '3.0', '274': '3.5', '368': '3.0', '377': '4.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Near Dark (1987)"},
+                       "genre": {"S":"Horror|Western"},
+                       "movie_ratings": {"S":"{'91': '4.5', '312': '3.0', '313': '5.0', '499': '5.0', '533': '5.0', '562': '4.0', '603': '4.0', '610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"One False Move (1992)"},
+                       "genre": {"S":"Crime|Drama|Film-Noir|Thriller"},
+                       "movie_ratings": {"S":"{'275': '3.0', '290': '4.0', '318': '4.0', '325': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Shaft (1971)"},
+                       "genre": {"S":"Action|Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'1': '5.0', '182': '4.0', '414': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Conversation, The (1974)"},
+                       "genre": {"S":"Drama|Mystery"},
+                       "movie_ratings": {"S":"{'50': '4.0', '70': '4.5', '74': '4.0', '168': '4.5', '182': '3.5', '221': '4.0', '265': '4.0', '275': '5.0', '290': '5.0', '317': '3.0', '387': '5.0', '410': '5.0', '415': '4.0', '469': '5.0', '474': '4.0', '590': '4.0', '599': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Cutter's Way (1981)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'368': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Fury, The (1978)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'312': '3.0', '465': '4.0', '571': '1.0', '603': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Paper Chase, The (1973)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'265': '4.0', '325': '4.0', '474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Serpico (1973)"},
+                       "genre": {"S":"Crime|Drama"},
+                       "movie_ratings": {"S":"{'9': '3.0', '74': '4.5', '103': '5.0', '105': '4.0', '113': '4.0', '140': '4.0', '182': '4.0', '221': '4.5', '260': '2.0', '290': '4.0', '294': '4.0', '346': '3.0', '414': '4.0', '465': '4.0', '474': '4.0', '599': '3.0', '608': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Ace in the Hole (Big Carnival, The) (1951)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'318': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Lonely Are the Brave (1962)"},
+                       "genre": {"S":"Drama|Western"},
+                       "movie_ratings": {"S":"{'140': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Sugarland Express, The (1974)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'290': '4.0', '514': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Trouble in Paradise (1932)"},
+                       "genre": {"S":"Comedy|Romance"},
+                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Big Trouble in Little China (1986)"},
+                       "genre": {"S":"Action|Adventure|Comedy|Fantasy"},
+                       "movie_ratings": {"S":"{'1': '4.0', '19': '2.0', '57': '4.0', '66': '4.0', '68': '2.5', '91': '5.0', '135': '5.0', '182': '4.0', '186': '3.0', '202': '4.0', '207': '3.5', '274': '3.5', '288': '3.5', '307': '4.0', '313': '5.0', '368': '2.0', '380': '5.0', '414': '5.0', '428': '3.5', '448': '3.0', '465': '4.0', '483': '3.5', '514': '4.0', '539': '4.5', '561': '5.0', '599': '4.0', '603': '3.0', '610': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Badlands (1973)"},
+                       "genre": {"S":"Crime|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'16': '4.0', '137': '4.5', '140': '3.0', '156': '4.0', '275': '5.0', '290': '4.0', '339': '5.0', '346': '4.5', '462': '3.5', '555': '3.0', '599': '4.5'}"}
+                   }
+               }
+           }
+   ]
+}

@@ -1,0 +1,254 @@
+{
+   "cs-group-4-Pierre-dynamodb": [
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"ABCs of Death, The (2012)"},
+                       "genre": {"S":"Horror"},
+                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Beautiful Creatures (2013)"},
+                       "genre": {"S":"Drama|Fantasy|Romance"},
+                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Good Day to Die Hard, A (2013)"},
+                       "genre": {"S":"Action|Crime|Thriller|IMAX"},
+                       "movie_ratings": {"S":"{'50': '1.0', '222': '2.0', '292': '3.5', '380': '2.0', '448': '1.5', '534': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"21 and Over (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '3.0', '111': '4.5', '365': '4.0', '382': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Safe Haven (2013)"},
+                       "genre": {"S":"Drama|Mystery|Romance"},
+                       "movie_ratings": {"S":"{'563': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Frozen Planet (2011)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'105': '4.5', '318': '4.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Act of Killing, The (2012)"},
+                       "genre": {"S":"Documentary"},
+                       "movie_ratings": {"S":"{'462': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Universal Soldier: Day of Reckoning (2012)"},
+                       "genre": {"S":"Action|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Escape from Planet Earth (2013)"},
+                       "genre": {"S":"Adventure|Animation|Comedy|Sci-Fi"},
+                       "movie_ratings": {"S":"{'210': '4.5', '586': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Before Midnight (2013)"},
+                       "genre": {"S":"Drama|Romance"},
+                       "movie_ratings": {"S":"{'41': '1.5', '105': '4.0', '241': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Snitch (2013)"},
+                       "genre": {"S":"Action|Drama|Thriller"},
+                       "movie_ratings": {"S":"{'382': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Dark Skies (2013)"},
+                       "genre": {"S":"Horror|Sci-Fi|Thriller"},
+                       "movie_ratings": {"S":"{'80': '4.0', '610': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Oh Boy (A Coffee in Berlin) (2012)"},
+                       "genre": {"S":"Comedy|Drama"},
+                       "movie_ratings": {"S":"{'153': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Journey to the West: Conquering the Demons (Daai wa sai you chi Chui mo chun kei) (2013)"},
+                       "genre": {"S":"Adventure|Comedy|Fantasy|Romance|IMAX"},
+                       "movie_ratings": {"S":"{'125': '4.5', '408': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Maniac Cop 2 (1990)"},
+                       "genre": {"S":"Action|Horror|Thriller"},
+                       "movie_ratings": {"S":"{'610': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Jack the Giant Slayer (2013)"},
+                       "genre": {"S":"Adventure|Fantasy|IMAX"},
+                       "movie_ratings": {"S":"{'249': '3.0', '298': '0.5', '448': '2.5', '534': '4.0', '567': '1.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Wadjda (2012)"},
+                       "genre": {"S":"Drama"},
+                       "movie_ratings": {"S":"{'567': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Unintentional Kidnapping of Mrs. Elfriede Ott, The (Die Unabsichtliche Entführung der Frau Elfriede Ott) (2010)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'50': '2.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Legend of Sleepy Hollow, The (1949)"},
+                       "genre": {"S":"Animation|Comedy|Horror|Musical"},
+                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"G.I. Joe: Retaliation (2013)"},
+                       "genre": {"S":"Action|Adventure|Sci-Fi|Thriller|IMAX"},
+                       "movie_ratings": {"S":"{'249': '3.0', '483': '2.5', '534': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Stoker (2013)"},
+                       "genre": {"S":"Drama|Mystery|Thriller"},
+                       "movie_ratings": {"S":"{'105': '4.0', '610': '3.5'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Oz the Great and Powerful (2013)"},
+                       "genre": {"S":"Action|Adventure|Fantasy|IMAX"},
+                       "movie_ratings": {"S":"{'125': '4.5', '210': '3.5', '298': '1.5', '365': '2.0', '534': '4.0', '610': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Croods, The (2013)"},
+                       "genre": {"S":"Adventure|Animation|Comedy"},
+                       "movie_ratings": {"S":"{'111': '3.5', '119': '4.0', '122': '4.5', '143': '4.0', '249': '3.5', '292': '3.0', '534': '4.0', '567': '2.5', '586': '5.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Incredible Burt Wonderstone, The (2013)"},
+                       "genre": {"S":"Comedy"},
+                       "movie_ratings": {"S":"{'89': '3.0', '448': '2.5', '483': '3.0'}"}
+                   }
+               }
+           },
+       {
+               "PutRequest": {
+                   "Item": {
+                       "type": {"S":"movie"},
+                       "uuid": {"S":"Call, The (2013)"},
+                       "genre": {"S":"Drama|Thriller"},
+                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                   }
+               }
+           }
+   ]
+}
