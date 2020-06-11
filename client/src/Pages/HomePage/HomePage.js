@@ -5,14 +5,12 @@ import "./HomePage.css"
 const HomePage = () => {
 
   return (
-    <div className="HomePage">
-      <div className="HomePage-header">
-        <div className="content">
-          Le gros site
-        </div>
+    <div className="content">
+      <div className="page-header">
+        >Accueil
       </div>
-      <div>
-        <img src={logo} className="HomePage-logo" alt="logo" />
+      <div className="page-body">
+        Ceci est la page d'accueil
       </div>
     </div>
   );

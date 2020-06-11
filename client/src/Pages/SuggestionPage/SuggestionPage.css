@@ -1,0 +1,30 @@
+.films-container{
+  margin-top: 15px;
+}
+
+.film-box{
+  background-color: #7f7f7f ;
+  min-height: 30px;
+  border-radius: 10px;
+  margin-top: 5px;
+  display:flex;
+  align-items: center;
+  cursor: pointer;
+  padding-left: 10px;
+  transition: background-color 0.5s;
+}
+
+.film-box:hover{
+  background-color:  #a9a9a9 ;
+}
+
+.filmlink{
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.title-suggestion{
+  margin-top: 15px;
+  font-size: 20px;
+}

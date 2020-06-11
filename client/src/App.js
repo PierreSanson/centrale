@@ -12,10 +12,8 @@ function App() {
   const [usersList, setUsersList] = useState([]);
 
   const fetchUsersList = async () => {
-    const response = await fetch("https://k90b21t2k0.execute-api.eu-west-1.amazonaws.com/dev/users");
+    const response = await fetch("https://mev5r38l16.execute-api.eu-west-1.amazonaws.com/dev/users");
     const responseJson = await response.json();
-    console.log("fetchUsersList");
-    console.log(responseJson);
     setUsersList(responseJson);
     if (user) {
       setUser(responseJson.find((u) => u.uuid === user.uuid));
@@ -37,7 +35,7 @@ function App() {
   };
 
   const updateNote = async (movieID, rating) => {
-    await fetch("https://k90b21t2k0.execute-api.eu-west-1.amazonaws.com/dev/users", {
+    await fetch("https://mev5r38l16.execute-api.eu-west-1.amazonaws.com/dev/users", {
       method: "put",
       body: JSON.stringify({
         userID: user.uuid,
@@ -52,9 +50,9 @@ function App() {
     <Router>
       <div>
         <div className="header">
-          <marquee className="header-title" scrollamount="10" behavior="alternate">
-            Le gros site
-          </marquee>
+          <div className="header-title">
+            J'aime la cinématographie et vous ?
+          </div>
           <div className="links-container">
             <Link className="page-link" to="/">Accueil</Link>
             <Link className="page-link" to="/films">Liste des films</Link>
@@ -81,6 +79,9 @@ function App() {
                 : null
               }
             </div>
+          </div>
+          <div className="liseret">
+
           </div>
         </div>
 

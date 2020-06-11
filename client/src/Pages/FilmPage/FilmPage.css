@@ -1,0 +1,25 @@
+.film-infos{
+  padding-left: 100px;
+  display: flex;
+}
+
+.film-text{
+  margin-left: 30px;
+}
+
+.rating-panel{
+  display: flex;
+}
+
+.rating-selector{
+  margin-left: 15px;
+}
+
+.film-line{
+  display: flex;
+}
+
+.film-info-category{
+  font-weight: bold;
+  margin-right: 15px;
+}
