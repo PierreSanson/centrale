@@ -1,37 +1,32 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
-const FilmList = () => {
-  const [search, setSearch] = useState("");
-  const [films, setFilms] = useState([]);
 
-  const fetchFilmList = async () => {
-    const response = await fetch("https://k90b21t2k0.execute-api.eu-west-1.amazonaws.com/dev/movies");
+const SuggestionPage = (props) => {
+  const [films, setFilms] = useState([]);
+  const user = props.user;
+
+  const fetchSuggestions = async () => {
+    const response = await fetch("", {
+      method: "post",
+      body: JSON.stringify(user.uuid)
+    });
     const responseJson = await response.json();
     setFilms(responseJson);
-    console.log(films)
   }
 
   useEffect(() => {
-    fetchFilmList();
+    fetchSuggestions();
   }, []);
 
   return (
-    <div className="FilmList content">
+    <div className="FilmList">
       <div className="FilmList-header">
         <div>
-          Liste des films
+          Vos recommendations
         </div>
-        <input
-          className="search-bar"
-          value={search}
-          type="text"
-          onChange={(e) => setSearch(e.target.value)}
-        />
 
         {films
-          .filter((film) => film.uuid.indexOf(search) !== -1)
-          .sort((a, b) => a.uuid - b.uuid)
           .map((film) => (
             <Link
               to={`/films/${film.uuid}`}
@@ -46,4 +41,4 @@ const FilmList = () => {
   );
 };
 
-export default FilmList;
+export default SuggestionPage;

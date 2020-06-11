@@ -4,11 +4,10 @@ import "./HomePage.css"
 
 const HomePage = () => {
 
-
   return (
     <div className="HomePage">
       <div className="HomePage-header">
-        <div>
+        <div className="content">
           Le gros site
         </div>
       </div>
