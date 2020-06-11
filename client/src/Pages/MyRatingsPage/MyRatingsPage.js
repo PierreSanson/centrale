@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import "./SuggestionPage.css"
+import "./MyRatingsPage.css"
 
 const SuggestionPage = (props) => {
   const user = props.user;
@@ -13,39 +13,23 @@ const SuggestionPage = (props) => {
     <div className="content">
       <div className="filmlist-header">
         <div className="page-header">
-          >Mes recommandations
+          >Mes notes
         </div>
         <div className="page-body">
           <div className="films-container">
             <div className="title-suggestion">
-              Les autres utilisateurs ont aussi aimé :
+            Les films que j'ai notés :
             </div>
-            {user.suggestions.split(';')
+            {user.user_ratings.slice(1,-1).split(',')
               .slice(0, 10)
               .map((film) => (
                 <Link
-                  to={`/films/${film}`}
+                  to={`/films/${film.slice(1,-7)}`}
                   key={film.uuid}
                   className="filmlink"
                 >
                   <div className="film-box">
-                    {film}
-                  </div>
-                </Link>
-              ))}
-            <div className="title-suggestion">
-              Meilleurs films de la catégorie {user.suggestions.split(';')[20]}:
-            </div>
-            {user.suggestions.split(';')
-              .slice(10, 20)
-              .map((film) => (
-                <Link
-                  to={`/films/${film}`}
-                  key={film.uuid}
-                  className="filmlink"
-                >
-                  <div className="film-box">
-                    {film}
+                    {film.slice(1,-7)}
                   </div>
                 </Link>
               ))}

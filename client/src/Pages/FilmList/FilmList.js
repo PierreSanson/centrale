@@ -26,7 +26,7 @@ const FilmList = () => {
         </div>
         <div className="search-bar">
           <div className="search-title">
-            Recherche:
+            Recherche :
           </div>
           <input
             className="search-zone"
