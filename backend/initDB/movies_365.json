@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dil To Pagal Hai (1997)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Boy and the Beast (2015)"},
                        "genre": {"S":"Action|Adventure|Animation"},
-                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Creed (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'47': '3.5', '212': '3.5', '326': '3.5', '365': '3.0', '462': '4.5', '495': '5.0', '561': '3.5', '567': '3.5'}"}
+                       "movie_ratings": {"S":"{\"47\": \"3.5\", \"212\": \"3.5\", \"326\": \"3.5\", \"365\": \"3.0\", \"462\": \"4.5\", \"495\": \"5.0\", \"561\": \"3.5\", \"567\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dragons: Gift of the Night Fury (2011)"},
                        "genre": {"S":"Adventure|Animation|Comedy"},
-                       "movie_ratings": {"S":"{'210': '5.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"5.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Twinsters (2015)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'525': '4.0'}"}
+                       "movie_ratings": {"S":"{\"525\": \"4.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cosmic Scrat-tastrophe (2015)"},
                        "genre": {"S":"Animation|Children|Comedy"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Solace (2015)"},
                        "genre": {"S":"Fantasy|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Lost in the Sun (2015)"},
                        "genre": {"S":"Action|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -84,9 +84,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Le Maître d'école (1981)"},
+                       "uuid": {"S":"Le Maï¿½tre d\"ï¿½cole (1981)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Eros (2004)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Those Happy Days (2006)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'125': '3.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"3.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Girls (1961)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Adventures of Sherlock Holmes and Doctor Watson"},
                        "genre": {"S":"(no genres listed)"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"What Men Still Talk About (2011)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Adventures of Sherlock Holmes and Doctor Watson: The Treasures of Agra (1983)"},
                        "genre": {"S":"Crime|Mystery"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Adventures Of Sherlock Holmes And Dr. Watson: The Twentieth Century Approaches (1986)"},
                        "genre": {"S":"Crime|Mystery"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Adventures of Sherlock Holmes and Doctor Watson: King of Blackmailers (1980)"},
                        "genre": {"S":"Crime|Mystery"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Adventures of Sherlock Holmes and Dr. Watson: Bloody Signature (1979)"},
                        "genre": {"S":"Crime"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sherlock Holmes and Dr. Watson: Acquaintance (1979)"},
                        "genre": {"S":"Crime"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: Last Christmas (2014)"},
                        "genre": {"S":"Adventure|Drama|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'210': '4.5', '380': '3.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"380\": \"3.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: The Doctor, the Widow and the Wardrobe (2011)"},
                        "genre": {"S":"Adventure|Drama"},
-                       "movie_ratings": {"S":"{'210': '4.5', '248': '5.0', '380': '3.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"248\": \"5.0\", \"380\": \"3.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: A Christmas Carol (2010)"},
                        "genre": {"S":"Sci-Fi"},
-                       "movie_ratings": {"S":"{'210': '4.5', '380': '5.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"380\": \"5.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: Planet of the Dead (2009)"},
                        "genre": {"S":"Adventure|Children|Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'210': '4.5', '380': '3.0', '517': '1.0', '525': '3.5'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"380\": \"3.0\", \"517\": \"1.0\", \"525\": \"3.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: The Next Doctor (2008)"},
                        "genre": {"S":"Adventure|Children|Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'210': '4.5', '380': '3.0', '517': '1.0', '525': '3.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"380\": \"3.0\", \"517\": \"1.0\", \"525\": \"3.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: Voyage Of The Damned (2007)"},
                        "genre": {"S":"Action|Sci-Fi"},
-                       "movie_ratings": {"S":"{'210': '4.5', '248': '5.0', '380': '4.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"248\": \"5.0\", \"380\": \"4.0\"}"}
                    }
                }
            }

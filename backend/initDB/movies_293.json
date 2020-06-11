@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Three Men and a Cradle (3 hommes et un couffin) (1985)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sky Crawlers, The (Sukai kurora) (2008)"},
                        "genre": {"S":"Adventure|Animation|Drama"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cargo (2009)"},
                        "genre": {"S":"Sci-Fi"},
-                       "movie_ratings": {"S":"{'210': '3.5'}"}
+                       "movie_ratings": {"S":"{\"210\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Nightmare on Elm Street, A (2010)"},
                        "genre": {"S":"Fantasy|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'380': '0.5', '610': '2.0'}"}
+                       "movie_ratings": {"S":"{\"380\": \"0.5\", \"610\": \"2.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Four Lions (2010)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'63': '5.0', '212': '4.0', '318': '4.0', '599': '2.5', '610': '4.5'}"}
+                       "movie_ratings": {"S":"{\"63\": \"5.0\", \"212\": \"4.0\", \"318\": \"4.0\", \"599\": \"2.5\", \"610\": \"4.5\"}"}
                    }
                }
            },
@@ -54,9 +54,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"St Trinian's 2: The Legend of Fritton's Gold (2009)"},
+                       "uuid": {"S":"St Trinian\"s 2: The Legend of Fritton\"s Gold (2009)"},
                        "genre": {"S":"Adventure|Comedy"},
-                       "movie_ratings": {"S":"{'10': '2.0'}"}
+                       "movie_ratings": {"S":"{\"10\": \"2.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"12 Angry Men (1997)"},
                        "genre": {"S":"Crime|Drama"},
-                       "movie_ratings": {"S":"{'177': '5.0'}"}
+                       "movie_ratings": {"S":"{\"177\": \"5.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Robin Hood (2010)"},
                        "genre": {"S":"Action|Adventure|Drama|Romance|War"},
-                       "movie_ratings": {"S":"{'122': '3.5', '318': '3.0', '380': '2.0', '432': '4.5', '448': '2.0', '534': '4.0'}"}
+                       "movie_ratings": {"S":"{\"122\": \"3.5\", \"318\": \"3.0\", \"380\": \"2.0\", \"432\": \"4.5\", \"448\": \"2.0\", \"534\": \"4.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Lovers & Leavers (Kuutamolla) (2002)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'489': '3.5'}"}
+                       "movie_ratings": {"S":"{\"489\": \"3.5\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Merantau (2009)"},
                        "genre": {"S":"Action|Drama"},
-                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Stingray Sam (2009)"},
                        "genre": {"S":"Comedy|Musical|Sci-Fi|Western"},
-                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cemetery Junction (2010)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'448': '3.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.5\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Blue Valentine (2010)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'249': '3.5', '298': '0.5', '351': '3.5', '432': '2.5', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"249\": \"3.5\", \"298\": \"0.5\", \"351\": \"3.5\", \"432\": \"2.5\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Killers (2010)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'274': '3.0', '448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"274\": \"3.0\", \"448\": \"1.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Buried (2010)"},
                        "genre": {"S":"Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'249': '3.5', '274': '3.0', '380': '4.0', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"249\": \"3.5\", \"274\": \"3.0\", \"380\": \"4.0\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Shake Hands with the Devil (2007)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'233': '2.5'}"}
+                       "movie_ratings": {"S":"{\"233\": \"2.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Prince of Persia: The Sands of Time (2010)"},
                        "genre": {"S":"Action|Adventure|Fantasy|Romance|IMAX"},
-                       "movie_ratings": {"S":"{'62': '3.5', '233': '1.5', '249': '3.0', '318': '2.5', '380': '4.0', '381': '3.0', '448': '1.0', '464': '2.5', '509': '4.0', '556': '4.0', '561': '3.0', '599': '2.0', '605': '3.5'}"}
+                       "movie_ratings": {"S":"{\"62\": \"3.5\", \"233\": \"1.5\", \"249\": \"3.0\", \"318\": \"2.5\", \"380\": \"4.0\", \"381\": \"3.0\", \"448\": \"1.0\", \"464\": \"2.5\", \"509\": \"4.0\", \"556\": \"4.0\", \"561\": \"3.0\", \"599\": \"2.0\", \"605\": \"3.5\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Please Give (2010)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'448': '3.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.5\"}"}
                    }
                }
            },
@@ -184,9 +184,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Baarìa (2009)"},
+                       "uuid": {"S":"Baarï¿½a (2009)"},
                        "genre": {"S":"Comedy|Drama|War"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ricky Gervais Live: Animals (2003)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'490': '3.5'}"}
+                       "movie_ratings": {"S":"{\"490\": \"3.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sex and the City 2 (2010)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'111': '1.5', '489': '0.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"1.5\", \"489\": \"0.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Get Him to the Greek (2010)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '5.0', '122': '4.0', '232': '3.5', '249': '3.5', '298': '3.5', '318': '3.5', '365': '3.0', '495': '4.5', '509': '1.5', '560': '3.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"5.0\", \"122\": \"4.0\", \"232\": \"3.5\", \"249\": \"3.5\", \"298\": \"3.5\", \"318\": \"3.5\", \"365\": \"3.0\", \"495\": \"4.5\", \"509\": \"1.5\", \"560\": \"3.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Unthinkable (2010)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'125': '3.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"3.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Back-up Plan, The (2010)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'563': '3.0'}"}
+                       "movie_ratings": {"S":"{\"563\": \"3.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Splice (2009)"},
                        "genre": {"S":"Horror|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'80': '4.0', '274': '3.5', '381': '3.0'}"}
+                       "movie_ratings": {"S":"{\"80\": \"4.0\", \"274\": \"3.5\", \"381\": \"3.0\"}"}
                    }
                }
            }

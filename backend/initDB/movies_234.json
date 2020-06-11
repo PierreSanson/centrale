@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Beauty Shop (2005)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'232': '2.0'}"}
+                       "movie_ratings": {"S":"{\"232\": \"2.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sahara (2005)"},
                        "genre": {"S":"Action|Adventure|Comedy"},
-                       "movie_ratings": {"S":"{'89': '3.0', '140': '2.5', '232': '3.0', '274': '2.5', '380': '3.0', '438': '4.0', '460': '3.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"3.0\", \"140\": \"2.5\", \"232\": \"3.0\", \"274\": \"2.5\", \"380\": \"3.0\", \"438\": \"4.0\", \"460\": \"3.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Fever Pitch (2005)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'68': '4.0', '111': '3.0', '219': '0.5', '232': '3.5', '288': '3.5', '438': '3.0', '480': '2.5', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"68\": \"4.0\", \"111\": \"3.0\", \"219\": \"0.5\", \"232\": \"3.5\", \"288\": \"3.5\", \"438\": \"3.0\", \"480\": \"2.5\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Eros (2004)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                       "movie_ratings": {"S":"{\"606\": \"3.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Not on the Lips (Pas sur la bouche) (2003)"},
                        "genre": {"S":"Comedy|Musical|Romance"},
-                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                       "movie_ratings": {"S":"{\"606\": \"3.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Electra Glide in Blue (1973)"},
                        "genre": {"S":"Action|Crime"},
-                       "movie_ratings": {"S":"{'221': '3.5'}"}
+                       "movie_ratings": {"S":"{\"221\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Special Day, A (Giornata particolare, Una) (1977)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -74,9 +74,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Man Who Planted Trees, The (Homme qui plantait des arbres, L') (1987)"},
+                       "uuid": {"S":"Man Who Planted Trees, The (Homme qui plantait des arbres, L\") (1987)"},
                        "genre": {"S":"Animation|Drama"},
-                       "movie_ratings": {"S":"{'50': '3.5', '105': '4.5', '318': '4.5', '477': '4.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"3.5\", \"105\": \"4.5\", \"318\": \"4.5\", \"477\": \"4.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Tanguy (2001)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'50': '2.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"2.5\"}"}
                    }
                }
            },
@@ -94,9 +94,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"National Lampoon's Lady Killers (National Lampoon's Gold Diggers) (2003)"},
+                       "uuid": {"S":"National Lampoon\"s Lady Killers (National Lampoon\"s Gold Diggers) (2003)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'226': '1.0'}"}
+                       "movie_ratings": {"S":"{\"226\": \"1.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Little Girl Who Lives Down the Lane, The (1976)"},
                        "genre": {"S":"Drama|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -114,9 +114,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Ringu 0: Bâsudei (2000)"},
+                       "uuid": {"S":"Ringu 0: Bï¿½sudei (2000)"},
                        "genre": {"S":"Drama|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                       "movie_ratings": {"S":"{\"380\": \"3.0\"}"}
                    }
                }
            },
@@ -124,9 +124,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Brothers (Brødre) (2004)"},
+                       "uuid": {"S":"Brothers (Brï¿½dre) (2004)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'221': '4.5', '387': '4.0'}"}
+                       "movie_ratings": {"S":"{\"221\": \"4.5\", \"387\": \"4.0\"}"}
                    }
                }
            },
@@ -134,9 +134,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Maidens in Uniform (Mädchen in Uniform) (1931)"},
+                       "uuid": {"S":"Maidens in Uniform (Mï¿½dchen in Uniform) (1931)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'596': '3.5'}"}
+                       "movie_ratings": {"S":"{\"596\": \"3.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"With Six You Get Eggroll (1968)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -154,9 +154,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Holiday (Jour de fête) (1949)"},
+                       "uuid": {"S":"Holiday (Jour de fï¿½te) (1949)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                       "movie_ratings": {"S":"{\"50\": \"3.0\"}"}
                    }
                }
            },
@@ -164,9 +164,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962)"},
+                       "uuid": {"S":"Ivan\"s Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'105': '5.0', '567': '0.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\", \"567\": \"0.5\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Trip to the Moon, A (Voyage dans la lune, Le) (1902)"},
                        "genre": {"S":"Action|Adventure|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'50': '3.5', '105': '4.5', '318': '3.0', '567': '3.5', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"50\": \"3.5\", \"105\": \"4.5\", \"318\": \"3.0\", \"567\": \"3.5\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ascent, The (Voskhozhdeniye) (1977)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"3.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Carrie (2002)"},
                        "genre": {"S":"Drama|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'503': '3.0'}"}
+                       "movie_ratings": {"S":"{\"503\": \"3.0\"}"}
                    }
                }
            },
@@ -204,9 +204,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Boccaccio '70 (1962)"},
+                       "uuid": {"S":"Boccaccio \"70 (1962)"},
                        "genre": {"S":"Comedy|Fantasy|Romance"},
-                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.0\"}"}
                    }
                }
            },
@@ -214,9 +214,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Hitchhiker's Guide to the Galaxy, The (2005)"},
+                       "uuid": {"S":"Hitchhiker\"s Guide to the Galaxy, The (2005)"},
                        "genre": {"S":"Adventure|Comedy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'18': '3.0', '21': '4.5', '22': '1.0', '28': '3.0', '45': '4.0', '63': '3.5', '68': '3.0', '76': '4.0', '89': '3.0', '104': '4.0', '122': '4.5', '129': '3.5', '139': '2.0', '212': '4.0', '219': '3.5', '232': '1.0', '256': '4.0', '274': '2.5', '288': '3.5', '307': '3.5', '318': '4.0', '328': '3.0', '331': '4.0', '332': '2.0', '365': '4.0', '380': '4.0', '381': '2.0', '405': '3.5', '414': '3.5', '420': '4.0', '438': '1.5', '448': '3.0', '477': '5.0', '483': '4.5', '489': '3.5', '509': '4.0', '520': '4.0', '525': '4.0', '534': '4.5', '542': '4.0', '561': '3.0', '580': '4.0', '606': '3.0', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.0\", \"21\": \"4.5\", \"22\": \"1.0\", \"28\": \"3.0\", \"45\": \"4.0\", \"63\": \"3.5\", \"68\": \"3.0\", \"76\": \"4.0\", \"89\": \"3.0\", \"104\": \"4.0\", \"122\": \"4.5\", \"129\": \"3.5\", \"139\": \"2.0\", \"212\": \"4.0\", \"219\": \"3.5\", \"232\": \"1.0\", \"256\": \"4.0\", \"274\": \"2.5\", \"288\": \"3.5\", \"307\": \"3.5\", \"318\": \"4.0\", \"328\": \"3.0\", \"331\": \"4.0\", \"332\": \"2.0\", \"365\": \"4.0\", \"380\": \"4.0\", \"381\": \"2.0\", \"405\": \"3.5\", \"414\": \"3.5\", \"420\": \"4.0\", \"438\": \"1.5\", \"448\": \"3.0\", \"477\": \"5.0\", \"483\": \"4.5\", \"489\": \"3.5\", \"509\": \"4.0\", \"520\": \"4.0\", \"525\": \"4.0\", \"534\": \"4.5\", \"542\": \"4.0\", \"561\": \"3.0\", \"580\": \"4.0\", \"606\": \"3.0\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Amityville Horror, The (2005)"},
                        "genre": {"S":"Horror|Thriller"},
-                       "movie_ratings": {"S":"{'249': '2.5', '274': '2.5', '307': '0.5', '345': '3.0', '380': '3.0', '514': '2.0'}"}
+                       "movie_ratings": {"S":"{\"249\": \"2.5\", \"274\": \"2.5\", \"307\": \"0.5\", \"345\": \"3.0\", \"380\": \"3.0\", \"514\": \"2.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Mutant Aliens (2001)"},
                        "genre": {"S":"Animation|Comedy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'89': '5.0', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -244,9 +244,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Before the Fall (NaPolA - Elite für den Führer) (2004)"},
+                       "uuid": {"S":"Before the Fall (NaPolA - Elite fï¿½r den Fï¿½hrer) (2004)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'105': '3.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"3.5\"}"}
                    }
                }
            }

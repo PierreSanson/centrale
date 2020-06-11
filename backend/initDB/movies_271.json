@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Young People Fucking (a.k.a. YPF) (2007)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'414': '3.5', '490': '1.0'}"}
+                       "movie_ratings": {"S":"{\"414\": \"3.5\", \"490\": \"1.0\"}"}
                    }
                }
            },
@@ -14,9 +14,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"St. Trinian's (2007)"},
+                       "uuid": {"S":"St. Trinian\"s (2007)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'414': '2.5'}"}
+                       "movie_ratings": {"S":"{\"414\": \"2.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Futurama: The Beast with a Billion Backs (2008)"},
                        "genre": {"S":"Action|Animation|Comedy|Romance|Sci-Fi"},
-                       "movie_ratings": {"S":"{'177': '3.0', '274': '4.0', '298': '4.0', '380': '3.5', '448': '3.0', '483': '3.5'}"}
+                       "movie_ratings": {"S":"{\"177\": \"3.0\", \"274\": \"4.0\", \"298\": \"4.0\", \"380\": \"3.5\", \"448\": \"3.0\", \"483\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Kit Kittredge: An American Girl (2008)"},
                        "genre": {"S":"Children|Comedy|Drama|Mystery"},
-                       "movie_ratings": {"S":"{'89': '4.0', '103': '2.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\", \"103\": \"2.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Gonzo: The Life and Work of Dr. Hunter S. Thompson (2008)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'274': '4.0', '599': '3.5'}"}
+                       "movie_ratings": {"S":"{\"274\": \"4.0\", \"599\": \"3.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wackness, The (2008)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'280': '4.0', '298': '3.0', '356': '5.0'}"}
+                       "movie_ratings": {"S":"{\"280\": \"4.0\", \"298\": \"3.0\", \"356\": \"5.0\"}"}
                    }
                }
            },
@@ -64,9 +64,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Strange Circus (Kimyô na sâkasu) (2005)"},
+                       "uuid": {"S":"Strange Circus (Kimyï¿½ na sï¿½kasu) (2005)"},
                        "genre": {"S":"Horror|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Encounters at the End of the World (2008)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'398': '4.5', '462': '4.0', '610': '5.0'}"}
+                       "movie_ratings": {"S":"{\"398\": \"4.5\", \"462\": \"4.0\", \"610\": \"5.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Zombie Strippers! (2008)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'68': '0.5'}"}
+                       "movie_ratings": {"S":"{\"68\": \"0.5\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Frosty the Snowman (1969)"},
                        "genre": {"S":"Animation|Children|Comedy|Fantasy|Musical"},
-                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"1.5\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Battle for Haditha (2007)"},
                        "genre": {"S":"War"},
-                       "movie_ratings": {"S":"{'28': '4.0'}"}
+                       "movie_ratings": {"S":"{\"28\": \"4.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Mamma Mia! (2008)"},
                        "genre": {"S":"Comedy|Musical|Romance"},
-                       "movie_ratings": {"S":"{'10': '3.0', '21': '3.5', '50': '2.5', '104': '4.5', '177': '3.5', '305': '4.0', '334': '2.5', '339': '3.0', '414': '2.0', '489': '0.5', '509': '2.5', '517': '3.5', '525': '3.0', '563': '3.5'}"}
+                       "movie_ratings": {"S":"{\"10\": \"3.0\", \"21\": \"3.5\", \"50\": \"2.5\", \"104\": \"4.5\", \"177\": \"3.5\", \"305\": \"4.0\", \"334\": \"2.5\", \"339\": \"3.0\", \"414\": \"2.0\", \"489\": \"0.5\", \"509\": \"2.5\", \"517\": \"3.5\", \"525\": \"3.0\", \"563\": \"3.5\"}"}
                    }
                }
            },
@@ -124,9 +124,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)"},
+                       "uuid": {"S":"Welcome to the Sticks (Bienvenue chez les Ch\"tis) (2008)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'318': '4.0', '543': '5.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.0\", \"543\": \"5.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Rogue (2007)"},
                        "genre": {"S":"Action|Adventure|Horror|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.5\"}"}
                    }
                }
            },
@@ -144,9 +144,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"It's the Great Pumpkin, Charlie Brown (1966)"},
+                       "uuid": {"S":"It\"s the Great Pumpkin, Charlie Brown (1966)"},
                        "genre": {"S":"Animation|Children|Comedy"},
-                       "movie_ratings": {"S":"{'51': '5.0', '307': '4.0', '448': '3.0', '514': '4.0', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"51\": \"5.0\", \"307\": \"4.0\", \"448\": \"3.0\", \"514\": \"4.0\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Journey to the Center of the Earth (2008)"},
                        "genre": {"S":"Action|Adventure|Sci-Fi"},
-                       "movie_ratings": {"S":"{'68': '3.0', '288': '2.5', '305': '3.5', '380': '3.0', '567': '0.5'}"}
+                       "movie_ratings": {"S":"{\"68\": \"3.0\", \"288\": \"2.5\", \"305\": \"3.5\", \"380\": \"3.0\", \"567\": \"0.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Meet Dave (2008)"},
                        "genre": {"S":"Adventure|Children|Comedy|Romance|Sci-Fi"},
-                       "movie_ratings": {"S":"{'305': '2.5', '520': '4.5'}"}
+                       "movie_ratings": {"S":"{\"305\": \"2.5\", \"520\": \"4.5\"}"}
                    }
                }
            },
@@ -174,9 +174,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Machine Girl, The (Kataude mashin gâru) (2008)"},
+                       "uuid": {"S":"Machine Girl, The (Kataude mashin gï¿½ru) (2008)"},
                        "genre": {"S":"Action|Comedy|Fantasy|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'274': '3.0', '599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"274\": \"3.0\", \"599\": \"1.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Shrooms (2007)"},
                        "genre": {"S":"Horror|Thriller"},
-                       "movie_ratings": {"S":"{'274': '3.5'}"}
+                       "movie_ratings": {"S":"{\"274\": \"3.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Transsiberian (2008)"},
                        "genre": {"S":"Crime|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'28': '2.5'}"}
+                       "movie_ratings": {"S":"{\"28\": \"2.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Stargate: Continuum (2008)"},
                        "genre": {"S":"Sci-Fi"},
-                       "movie_ratings": {"S":"{'28': '2.5'}"}
+                       "movie_ratings": {"S":"{\"28\": \"2.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Watchmen (2009)"},
                        "genre": {"S":"Action|Drama|Mystery|Sci-Fi|Thriller|IMAX"},
-                       "movie_ratings": {"S":"{'18': '3.5', '28': '4.0', '52': '4.0', '62': '4.5', '68': '3.5', '73': '5.0', '80': '4.0', '105': '3.5', '122': '4.5', '123': '4.0', '125': '3.5', '139': '4.0', '209': '5.0', '211': '5.0', '219': '4.5', '220': '2.5', '232': '4.5', '246': '5.0', '249': '4.0', '274': '4.0', '298': '3.5', '305': '4.0', '318': '5.0', '332': '4.0', '344': '5.0', '362': '4.0', '380': '3.0', '393': '4.0', '414': '3.5', '430': '4.5', '432': '4.0', '477': '4.5', '484': '3.0', '489': '4.0', '522': '5.0', '525': '3.5', '534': '2.0', '560': '4.5', '573': '5.0', '590': '3.0', '596': '3.5', '599': '3.0', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.5\", \"28\": \"4.0\", \"52\": \"4.0\", \"62\": \"4.5\", \"68\": \"3.5\", \"73\": \"5.0\", \"80\": \"4.0\", \"105\": \"3.5\", \"122\": \"4.5\", \"123\": \"4.0\", \"125\": \"3.5\", \"139\": \"4.0\", \"209\": \"5.0\", \"211\": \"5.0\", \"219\": \"4.5\", \"220\": \"2.5\", \"232\": \"4.5\", \"246\": \"5.0\", \"249\": \"4.0\", \"274\": \"4.0\", \"298\": \"3.5\", \"305\": \"4.0\", \"318\": \"5.0\", \"332\": \"4.0\", \"344\": \"5.0\", \"362\": \"4.0\", \"380\": \"3.0\", \"393\": \"4.0\", \"414\": \"3.5\", \"430\": \"4.5\", \"432\": \"4.0\", \"477\": \"4.5\", \"484\": \"3.0\", \"489\": \"4.0\", \"522\": \"5.0\", \"525\": \"3.5\", \"534\": \"2.0\", \"560\": \"4.5\", \"573\": \"5.0\", \"590\": \"3.0\", \"596\": \"3.5\", \"599\": \"3.0\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Shotgun Stories (2007)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'28': '2.5'}"}
+                       "movie_ratings": {"S":"{\"28\": \"2.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Watching the Detectives (2007)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Felon (2008)"},
                        "genre": {"S":"Crime|Drama"},
-                       "movie_ratings": {"S":"{'28': '3.0', '553': '4.0'}"}
+                       "movie_ratings": {"S":"{\"28\": \"3.0\", \"553\": \"4.0\"}"}
                    }
                }
            }

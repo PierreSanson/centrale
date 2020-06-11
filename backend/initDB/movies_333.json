@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Haunter (2013)"},
                        "genre": {"S":"Horror|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wrong Cops (2013)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Muppet Christmas: Letters to Santa, A (2008)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'21': '1.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"1.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ninja: Shadow of a Tear (2013)"},
                        "genre": {"S":"Action|Crime|Thriller"},
-                       "movie_ratings": {"S":"{'610': '4.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.5\"}"}
                    }
                }
            },
@@ -44,9 +44,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Fuck You, Goethe (Fack Ju Göhte) (2013)"},
+                       "uuid": {"S":"Fuck You, Goethe (Fack Ju Gï¿½hte) (2013)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'50': '1.5', '509': '4.0'}"}
+                       "movie_ratings": {"S":"{\"50\": \"1.5\", \"509\": \"4.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"High School (2010)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'125': '4.5'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Grudge Match (2013)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'448': '1.5', '462': '3.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\", \"462\": \"3.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Highlander: The Search for Vengeance (2007)"},
                        "genre": {"S":"Action|Adventure|Fantasy"},
-                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                       "movie_ratings": {"S":"{\"380\": \"3.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Only Lovers Left Alive (2013)"},
                        "genre": {"S":"Drama|Horror|Romance"},
-                       "movie_ratings": {"S":"{'610': '5.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"5.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cats (1998)"},
                        "genre": {"S":"Musical"},
-                       "movie_ratings": {"S":"{'517': '4.0'}"}
+                       "movie_ratings": {"S":"{\"517\": \"4.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"MacGyver: Trail to Doomsday (1994)"},
                        "genre": {"S":"Action|Adventure"},
-                       "movie_ratings": {"S":"{'18': '3.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bad Karma (2012)"},
                        "genre": {"S":"Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hunting Elephants (2013)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dragon Ball Z: Battle of Gods (2013)"},
                        "genre": {"S":"Action|Animation|Fantasy|IMAX"},
-                       "movie_ratings": {"S":"{'249': '4.0', '380': '4.0'}"}
+                       "movie_ratings": {"S":"{\"249\": \"4.0\", \"380\": \"4.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Freezer (2014)"},
                        "genre": {"S":"Action|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"We Are What We Are (2013)"},
                        "genre": {"S":"Drama|Horror|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'365': '1.5', '610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"365\": \"1.5\", \"610\": \"3.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dragon ball Z 04: Lord Slug (1991)"},
                        "genre": {"S":"Animation|Children"},
-                       "movie_ratings": {"S":"{'599': '4.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"4.0\"}"}
                    }
                }
            },
@@ -174,9 +174,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Chinese Puzzle (Casse-tête chinois) (2013)"},
+                       "uuid": {"S":"Chinese Puzzle (Casse-tï¿½te chinois) (2013)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -184,9 +184,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi) (1996)"},
+                       "uuid": {"S":"Dragon Ball: The Path to Power (Doragon bï¿½ru: Saikyï¿½ e no michi) (1996)"},
                        "genre": {"S":"Action|Adventure|Animation|Children"},
-                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ride Along (2014)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'21': '3.0', '89': '3.5', '111': '3.5', '365': '3.0', '448': '2.0', '564': '4.0'}"}
+                       "movie_ratings": {"S":"{\"21\": \"3.0\", \"89\": \"3.5\", \"111\": \"3.5\", \"365\": \"3.0\", \"448\": \"2.0\", \"564\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jack Ryan: Shadow Recruit (2014)"},
                        "genre": {"S":"Action|Drama|Thriller|IMAX"},
-                       "movie_ratings": {"S":"{'448': '2.5', '567': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\", \"567\": \"1.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Divergent (2014)"},
                        "genre": {"S":"Adventure|Romance|Sci-Fi|IMAX"},
-                       "movie_ratings": {"S":"{'21': '3.5', '62': '3.0', '104': '3.5', '177': '4.0', '210': '4.5', '272': '3.0', '292': '4.0', '323': '2.5', '344': '3.0', '352': '2.5', '365': '2.0', '380': '3.0', '443': '5.0', '475': '3.5', '534': '2.0', '561': '1.0', '563': '3.5', '567': '0.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"3.5\", \"62\": \"3.0\", \"104\": \"3.5\", \"177\": \"4.0\", \"210\": \"4.5\", \"272\": \"3.0\", \"292\": \"4.0\", \"323\": \"2.5\", \"344\": \"3.0\", \"352\": \"2.5\", \"365\": \"2.0\", \"380\": \"3.0\", \"443\": \"5.0\", \"475\": \"3.5\", \"534\": \"2.0\", \"561\": \"1.0\", \"563\": \"3.5\", \"567\": \"0.5\"}"}
                    }
                }
            },
@@ -224,9 +224,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Hotel Chevalier (Part 1 of 'The Darjeeling Limited') (2007)"},
+                       "uuid": {"S":"Hotel Chevalier (Part 1 of \"The Darjeeling Limited\") (2007)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.5\"}"}
                    }
                }
            },
@@ -234,9 +234,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Ernest & Célestine (Ernest et Célestine) (2012)"},
+                       "uuid": {"S":"Ernest & Cï¿½lestine (Ernest et Cï¿½lestine) (2012)"},
                        "genre": {"S":"Adventure|Animation|Children|Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Drift (2013)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            }

@@ -17,7 +17,7 @@ const FilmList = () => {
   const [films, setFilms] = useState([]);
 
   useEffect(async () => {
-    const response = await fetch("https://32inokvd3h.execute-api.eu-west-1.amazonaws.com/dev/movies");
+    const response = await fetch("https://k90b21t2k0.execute-api.eu-west-1.amazonaws.com/dev/movies");
     const responseJson = await response.json();
     console.log(responseJson)
     setFilms(responseJson)

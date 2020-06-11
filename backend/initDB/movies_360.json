@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ghost in the Shell Arise - Border 2: Ghost Whispers (2013)"},
                        "genre": {"S":"Action|Animation|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"How to Make Love Like an Englishman (2014)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'21': '2.5', '448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"21\": \"2.5\", \"448\": \"2.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Fracchia contro Dracula (1985)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Always Watching: A Marble Hornets Story (2015)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'306': '2.0'}"}
+                       "movie_ratings": {"S":"{\"306\": \"2.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Madly in Love (1981)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Intern (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'10': '5.0', '41': '3.5', '62': '4.0', '73': '4.0', '111': '4.5', '159': '4.5', '298': '1.0', '305': '4.0', '306': '3.0', '448': '2.5', '491': '4.0', '519': '4.0', '564': '3.5'}"}
+                       "movie_ratings": {"S":"{\"10\": \"5.0\", \"41\": \"3.5\", \"62\": \"4.0\", \"73\": \"4.0\", \"111\": \"4.5\", \"159\": \"4.5\", \"298\": \"1.0\", \"305\": \"4.0\", \"306\": \"3.0\", \"448\": \"2.5\", \"491\": \"4.0\", \"519\": \"4.0\", \"564\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hollywood Chainsaw Hookers (1988)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Love (2015)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Room (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'47': '2.5', '153': '4.5', '279': '3.5', '298': '2.0', '414': '4.5', '418': '4.5', '567': '3.0', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"47\": \"2.5\", \"153\": \"4.5\", \"279\": \"3.5\", \"298\": \"2.0\", \"414\": \"4.5\", \"418\": \"4.5\", \"567\": \"3.0\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Runner (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Gift (2015)"},
                        "genre": {"S":"Drama|Horror"},
-                       "movie_ratings": {"S":"{'47': '1.0', '380': '3.5', '495': '5.0', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"47\": \"1.0\", \"380\": \"3.5\", \"495\": \"5.0\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -114,9 +114,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"George Carlin: Jammin' in New York (1992)"},
+                       "uuid": {"S":"George Carlin: Jammin\" in New York (1992)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Witch (2015)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Men & Chicken (2015)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'18': '4.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Escort (2015)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'21': '3.0'}"}
+                       "movie_ratings": {"S":"{\"21\": \"3.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: The Waters of Mars (2009)"},
                        "genre": {"S":"Adventure|Children|Sci-Fi"},
-                       "movie_ratings": {"S":"{'210': '4.5', '380': '4.0', '517': '3.0', '525': '4.5'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"380\": \"4.0\", \"517\": \"3.0\", \"525\": \"4.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Family Guy Presents: Something, Something, Something, Dark Side (2009)"},
                        "genre": {"S":"Animation|Comedy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Visit, The (2015)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'495': '3.5'}"}
+                       "movie_ratings": {"S":"{\"495\": \"3.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Secret in Their Eyes (2015)"},
                        "genre": {"S":"Crime|Drama|Mystery"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Electric Hotel (1908)"},
                        "genre": {"S":"Animation|Comedy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jeff Ross Roasts Criminals: Live at Brazos County Jail (2015)"},
                        "genre": {"S":"Comedy|Documentary"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Battle For Sevastopol (2015)"},
                        "genre": {"S":"Drama|Romance|War"},
-                       "movie_ratings": {"S":"{'305': '5.0'}"}
+                       "movie_ratings": {"S":"{\"305\": \"5.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"American Ultra (2015)"},
                        "genre": {"S":"Action|Comedy|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'89': '3.5', '119': '1.5', '249': '3.0', '298': '0.5', '365': '3.5', '564': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"3.5\", \"119\": \"1.5\", \"249\": \"3.0\", \"298\": \"0.5\", \"365\": \"3.5\", \"564\": \"4.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Straight Outta Compton (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'47': '4.0', '103': '4.5', '111': '4.5', '212': '3.5', '249': '4.0', '414': '4.0', '495': '5.0'}"}
+                       "movie_ratings": {"S":"{\"47\": \"4.0\", \"103\": \"4.5\", \"111\": \"4.5\", \"212\": \"3.5\", \"249\": \"4.0\", \"414\": \"4.0\", \"495\": \"5.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cop Car (2015)"},
                        "genre": {"S":"Crime|Thriller"},
-                       "movie_ratings": {"S":"{'256': '4.0', '448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"256\": \"4.0\", \"448\": \"3.0\"}"}
                    }
                }
            }

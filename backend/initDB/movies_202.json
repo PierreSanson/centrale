@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ride the High Country (1962)"},
                        "genre": {"S":"Adventure|Drama|Western"},
-                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Master of the Flying Guillotine (Du bi quan wang da po xue di zi) (1975)"},
                        "genre": {"S":"Action"},
-                       "movie_ratings": {"S":"{'3': '4.5'}"}
+                       "movie_ratings": {"S":"{\"3\": \"4.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Frankenstein Must Be Destroyed (1969)"},
                        "genre": {"S":"Drama|Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Gidget (1959)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                       "movie_ratings": {"S":"{\"606\": \"3.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Desperate Living (1977)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'462': '3.5'}"}
+                       "movie_ratings": {"S":"{\"462\": \"3.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Stray Dog (Nora inu) (1949)"},
                        "genre": {"S":"Drama|Film-Noir|Thriller"},
-                       "movie_ratings": {"S":"{'23': '3.5'}"}
+                       "movie_ratings": {"S":"{\"23\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hidden Fortress, The (Kakushi-toride no san-akunin) (1958)"},
                        "genre": {"S":"Action|Adventure"},
-                       "movie_ratings": {"S":"{'332': '4.5', '387': '4.0'}"}
+                       "movie_ratings": {"S":"{\"332\": \"4.5\", \"387\": \"4.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"High and Low (Tengoku to jigoku) (1963)"},
                        "genre": {"S":"Crime|Drama|Film-Noir|Thriller"},
-                       "movie_ratings": {"S":"{'298': '4.0'}"}
+                       "movie_ratings": {"S":"{\"298\": \"4.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"People Under the Stairs, The (1991)"},
                        "genre": {"S":"Horror|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'64': '3.5', '274': '4.0'}"}
+                       "movie_ratings": {"S":"{\"64\": \"3.5\", \"274\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dark Days (2000)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'23': '3.0', '318': '4.0', '474': '4.0'}"}
+                       "movie_ratings": {"S":"{\"23\": \"3.0\", \"318\": \"4.0\", \"474\": \"4.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Zelig (1983)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'168': '4.5', '182': '4.0', '387': '4.0', '474': '4.0', '477': '4.0', '600': '3.5', '606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"168\": \"4.5\", \"182\": \"4.0\", \"387\": \"4.0\", \"474\": \"4.0\", \"477\": \"4.0\", \"600\": \"3.5\", \"606\": \"4.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Shame (Skammen) (1968)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'387': '4.0'}"}
+                       "movie_ratings": {"S":"{\"387\": \"4.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Silence, The (Tystnaden) (1963)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'346': '3.0', '387': '4.0'}"}
+                       "movie_ratings": {"S":"{\"346\": \"3.0\", \"387\": \"4.0\"}"}
                    }
                }
            },
@@ -134,9 +134,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Winter Light (Nattvardsgästerna) (1963)"},
+                       "uuid": {"S":"Winter Light (Nattvardsgï¿½sterna) (1963)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'387': '3.5'}"}
+                       "movie_ratings": {"S":"{\"387\": \"3.5\"}"}
                    }
                }
            },
@@ -144,9 +144,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Through a Glass Darkly (Såsom i en spegel) (1961)"},
+                       "uuid": {"S":"Through a Glass Darkly (Sï¿½som i en spegel) (1961)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'387': '4.5'}"}
+                       "movie_ratings": {"S":"{\"387\": \"4.5\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Magician (1958)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'346': '4.5'}"}
+                       "movie_ratings": {"S":"{\"346\": \"4.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Killers, The (1946)"},
                        "genre": {"S":"Crime|Film-Noir"},
-                       "movie_ratings": {"S":"{'309': '4.0'}"}
+                       "movie_ratings": {"S":"{\"309\": \"4.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Night of the Iguana, The (1964)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Nightbreed (1990)"},
                        "genre": {"S":"Fantasy|Horror"},
-                       "movie_ratings": {"S":"{'387': '2.0'}"}
+                       "movie_ratings": {"S":"{\"387\": \"2.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ken Park (2002)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'187': '4.5'}"}
+                       "movie_ratings": {"S":"{\"187\": \"4.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Monterey Pop (1968)"},
                        "genre": {"S":"Documentary|Musical"},
-                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"3.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bridge Too Far, A (1977)"},
                        "genre": {"S":"Action|Drama|War"},
-                       "movie_ratings": {"S":"{'63': '4.5', '140': '3.5', '237': '3.5', '414': '4.0', '474': '3.5', '580': '3.5', '590': '4.0'}"}
+                       "movie_ratings": {"S":"{\"63\": \"4.5\", \"140\": \"3.5\", \"237\": \"3.5\", \"414\": \"4.0\", \"474\": \"3.5\", \"580\": \"3.5\", \"590\": \"4.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Infernal Affairs (Mou gaan dou) (2002)"},
                        "genre": {"S":"Crime|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'187': '4.0', '305': '5.0', '318': '4.5', '343': '5.0', '380': '5.0', '387': '4.0', '414': '3.5', '474': '4.0', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"187\": \"4.0\", \"305\": \"5.0\", \"318\": \"4.5\", \"343\": \"5.0\", \"380\": \"5.0\", \"387\": \"4.0\", \"414\": \"3.5\", \"474\": \"4.0\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)"},
                        "genre": {"S":"Drama|Horror|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'64': '4.5', '387': '4.5', '594': '0.5', '599': '3.5'}"}
+                       "movie_ratings": {"S":"{\"64\": \"4.5\", \"387\": \"4.5\", \"594\": \"0.5\", \"599\": \"3.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Broadway Danny Rose (1984)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'51': '5.0', '387': '4.0', '474': '4.0', '480': '4.0', '600': '4.0'}"}
+                       "movie_ratings": {"S":"{\"51\": \"5.0\", \"387\": \"4.0\", \"474\": \"4.0\", \"480\": \"4.0\", \"600\": \"4.0\"}"}
                    }
                }
            }

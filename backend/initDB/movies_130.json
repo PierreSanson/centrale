@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Another Woman (1988)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'387': '4.5'}"}
+                       "movie_ratings": {"S":"{\"387\": \"4.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Beach Blanket Bingo (1965)"},
                        "genre": {"S":"Comedy|Musical"},
-                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"1.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Big Deal on Madonna Street (I Soliti Ignoti) (1958)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cannonball Run, The (1981)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'42': '4.0', '95': '4.0', '135': '3.0', '182': '2.0', '384': '1.0', '414': '3.0', '448': '5.0', '474': '1.0', '514': '2.5', '608': '2.0'}"}
+                       "movie_ratings": {"S":"{\"42\": \"4.0\", \"95\": \"4.0\", \"135\": \"3.0\", \"182\": \"2.0\", \"384\": \"1.0\", \"414\": \"3.0\", \"448\": \"5.0\", \"474\": \"1.0\", \"514\": \"2.5\", \"608\": \"2.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cannonball Run II (1984)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'448': '3.0', '514': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\", \"514\": \"2.0\"}"}
                    }
                }
            },
@@ -54,9 +54,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Diary of a Chambermaid (Journal d'une femme de chambre, Le) (1964)"},
+                       "uuid": {"S":"Diary of a Chambermaid (Journal d\"une femme de chambre, Le) (1964)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'50': '3.5', '387': '4.0'}"}
+                       "movie_ratings": {"S":"{\"50\": \"3.5\", \"387\": \"4.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dr. Goldfoot and the Bikini Machine (1965)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'441': '5.0'}"}
+                       "movie_ratings": {"S":"{\"441\": \"5.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Fall of the House of Usher, The (House of Usher) (1960)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'307': '3.0', '387': '3.0'}"}
+                       "movie_ratings": {"S":"{\"307\": \"3.0\", \"387\": \"3.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Faust (1926)"},
                        "genre": {"S":"Drama|Fantasy|Horror"},
-                       "movie_ratings": {"S":"{'346': '4.0'}"}
+                       "movie_ratings": {"S":"{\"346\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Man Who Shot Liberty Valance, The (1962)"},
                        "genre": {"S":"Crime|Drama|Western"},
-                       "movie_ratings": {"S":"{'168': '5.0', '186': '4.0', '199': '5.0', '309': '3.5', '590': '4.5'}"}
+                       "movie_ratings": {"S":"{\"168\": \"5.0\", \"186\": \"4.0\", \"199\": \"5.0\", \"309\": \"3.5\", \"590\": \"4.5\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Salvador (1986)"},
                        "genre": {"S":"Drama|Thriller|War"},
-                       "movie_ratings": {"S":"{'182': '4.5'}"}
+                       "movie_ratings": {"S":"{\"182\": \"4.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"September (1987)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'387': '3.5'}"}
+                       "movie_ratings": {"S":"{\"387\": \"3.5\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Shadows and Fog (1991)"},
                        "genre": {"S":"Comedy|Drama|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'387': '3.5', '448': '3.5', '600': '3.0'}"}
+                       "movie_ratings": {"S":"{\"387\": \"3.5\", \"448\": \"3.5\", \"600\": \"3.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Something Wild (1986)"},
                        "genre": {"S":"Comedy|Crime|Drama"},
-                       "movie_ratings": {"S":"{'479': '4.0'}"}
+                       "movie_ratings": {"S":"{\"479\": \"4.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Thing with Two Heads, The (1972)"},
                        "genre": {"S":"Comedy|Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'288': '1.0', '502': '0.5'}"}
+                       "movie_ratings": {"S":"{\"288\": \"1.0\", \"502\": \"0.5\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"All That Heaven Allows (1955)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'345': '4.5', '474': '3.5', '600': '4.0', '603': '5.0'}"}
+                       "movie_ratings": {"S":"{\"345\": \"4.5\", \"474\": \"3.5\", \"600\": \"4.0\", \"603\": \"5.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Barefoot Contessa, The (1954)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'603': '3.0'}"}
+                       "movie_ratings": {"S":"{\"603\": \"3.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cries and Whispers (Viskningar och rop) (1972)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'346': '4.0', '603': '4.0'}"}
+                       "movie_ratings": {"S":"{\"346\": \"4.0\", \"603\": \"4.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il) (1970)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'597': '3.0', '603': '4.0', '606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"597\": \"3.0\", \"603\": \"4.0\", \"606\": \"4.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Kiss Me Deadly (1955)"},
                        "genre": {"S":"Film-Noir"},
-                       "movie_ratings": {"S":"{'387': '3.0', '603': '5.0'}"}
+                       "movie_ratings": {"S":"{\"387\": \"3.0\", \"603\": \"5.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Lion in Winter, The (1968)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'74': '3.5', '137': '4.5', '199': '5.0', '322': '3.5', '445': '3.5', '462': '3.0', '474': '3.5', '599': '2.5', '603': '4.0'}"}
+                       "movie_ratings": {"S":"{\"74\": \"3.5\", \"137\": \"4.5\", \"199\": \"5.0\", \"322\": \"3.5\", \"445\": \"3.5\", \"462\": \"3.0\", \"474\": \"3.5\", \"599\": \"2.5\", \"603\": \"4.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Misfits, The (1961)"},
                        "genre": {"S":"Comedy|Drama|Romance|Western"},
-                       "movie_ratings": {"S":"{'603': '4.0', '606': '2.5'}"}
+                       "movie_ratings": {"S":"{\"603\": \"4.0\", \"606\": \"2.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Moby Dick (1956)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'387': '4.0', '516': '5.0'}"}
+                       "movie_ratings": {"S":"{\"387\": \"4.0\", \"516\": \"5.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sweet Smell of Success (1957)"},
                        "genre": {"S":"Drama|Film-Noir"},
-                       "movie_ratings": {"S":"{'309': '4.0', '462': '4.0', '474': '3.5', '603': '5.0'}"}
+                       "movie_ratings": {"S":"{\"309\": \"4.0\", \"462\": \"4.0\", \"474\": \"3.5\", \"603\": \"5.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Written on the Wind (1956)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'474': '3.5', '603': '5.0'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.5\", \"603\": \"5.0\"}"}
                    }
                }
            }

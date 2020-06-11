@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Family Guy Presents: Blue Harvest (2007)"},
                        "genre": {"S":"Animation|Comedy"},
-                       "movie_ratings": {"S":"{'111': '4.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Trinity and Sartana Are Coming (1972)"},
                        "genre": {"S":"Comedy|Western"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -24,9 +24,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Kevin Hart: I'm a Grown Little Man (2009)"},
+                       "uuid": {"S":"Kevin Hart: I\"m a Grown Little Man (2009)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jim Norton: American Degenerate (2013)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '4.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jim Jefferies: BARE (2014)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hard Promises (1991)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Hateful Eight (2015)"},
                        "genre": {"S":"Western"},
-                       "movie_ratings": {"S":"{'41': '4.0', '50': '2.5', '62': '5.0', '122': '5.0', '125': '4.0', '212': '3.5', '249': '4.5', '305': '3.5', '318': '3.0', '328': '3.0', '339': '4.5', '352': '4.0', '413': '3.0', '414': '4.0', '514': '3.0', '560': '3.5', '599': '3.0', '610': '4.5'}"}
+                       "movie_ratings": {"S":"{\"41\": \"4.0\", \"50\": \"2.5\", \"62\": \"5.0\", \"122\": \"5.0\", \"125\": \"4.0\", \"212\": \"3.5\", \"249\": \"4.5\", \"305\": \"3.5\", \"318\": \"3.0\", \"328\": \"3.0\", \"339\": \"4.5\", \"352\": \"4.0\", \"413\": \"3.0\", \"414\": \"4.0\", \"514\": \"3.0\", \"560\": \"3.5\", \"599\": \"3.0\", \"610\": \"4.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Patton Oswalt: Tragedy Plus Comedy Equals Time (2014)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wild Card (2015)"},
                        "genre": {"S":"Action|Crime|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'119': '3.0'}"}
+                       "movie_ratings": {"S":"{\"119\": \"3.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Paper Towns (2015)"},
                        "genre": {"S":"Drama|Mystery|Romance"},
-                       "movie_ratings": {"S":"{'62': '3.5', '298': '0.5'}"}
+                       "movie_ratings": {"S":"{\"62\": \"3.5\", \"298\": \"0.5\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Wedding Ringer (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'73': '3.5', '89': '2.5', '111': '5.0', '448': '3.0', '564': '5.0'}"}
+                       "movie_ratings": {"S":"{\"73\": \"3.5\", \"89\": \"2.5\", \"111\": \"5.0\", \"448\": \"3.0\", \"564\": \"5.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wyrmwood (2015)"},
                        "genre": {"S":"Action|Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'534': '3.5'}"}
+                       "movie_ratings": {"S":"{\"534\": \"3.5\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Boy Next Door (2015)"},
                        "genre": {"S":"Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Boy Meets Girl (2015)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Victoria (2015)"},
                        "genre": {"S":"Crime|Drama|Romance"},
-                       "movie_ratings": {"S":"{'18': '3.5', '50': '3.5', '119': '3.5', '125': '4.0', '526': '5.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.5\", \"50\": \"3.5\", \"119\": \"3.5\", \"125\": \"4.0\", \"526\": \"5.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Dark Valley (2014)"},
                        "genre": {"S":"Western"},
-                       "movie_ratings": {"S":"{'50': '2.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"2.5\"}"}
                    }
                }
            },
@@ -164,9 +164,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"I'm Here (2010)"},
+                       "uuid": {"S":"I\"m Here (2010)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.5\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Last Five Years (2014)"},
                        "genre": {"S":"Comedy|Drama|Musical|Romance"},
-                       "movie_ratings": {"S":"{'563': '3.5'}"}
+                       "movie_ratings": {"S":"{\"563\": \"3.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Crimson Peak (2015)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.5\"}"}
                    }
                }
            },
@@ -194,9 +194,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Dragonheart 3: The Sorcerer's Curse (2015)"},
+                       "uuid": {"S":"Dragonheart 3: The Sorcerer\"s Curse (2015)"},
                        "genre": {"S":"Action|Adventure|Fantasy"},
-                       "movie_ratings": {"S":"{'210': '4.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Chris Rock: Bigger & Blacker (1999)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Natural Love (1996)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Forgotten Space (2010)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cloudburst (2011)"},
                        "genre": {"S":"Adventure|Comedy|Drama"},
-                       "movie_ratings": {"S":"{'596': '4.0'}"}
+                       "movie_ratings": {"S":"{\"596\": \"4.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Tom Segura: Completely Normal (2014)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '5.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"5.0\"}"}
                    }
                }
            }

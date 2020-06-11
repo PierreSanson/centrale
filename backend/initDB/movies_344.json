@@ -4,9 +4,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"The Rabbi's Cat (Le chat du rabbin) (2011)"},
+                       "uuid": {"S":"The Rabbi\"s Cat (Le chat du rabbin) (2011)"},
                        "genre": {"S":"Adventure|Animation"},
-                       "movie_ratings": {"S":"{'567': '3.0'}"}
+                       "movie_ratings": {"S":"{\"567\": \"3.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Still Alice (2014)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'47': '4.0', '73': '4.0', '153': '3.0', '177': '3.5', '495': '4.5'}"}
+                       "movie_ratings": {"S":"{\"47\": \"4.0\", \"73\": \"4.0\", \"153\": \"3.0\", \"177\": \"3.5\", \"495\": \"4.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Paddington (2014)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'119': '4.0', '184': '4.5', '256': '4.0', '567': '3.5'}"}
+                       "movie_ratings": {"S":"{\"119\": \"4.0\", \"184\": \"4.5\", \"256\": \"4.0\", \"567\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Maze Runner: Scorch Trials (2015)"},
                        "genre": {"S":"Action|Thriller"},
-                       "movie_ratings": {"S":"{'184': '1.0', '249': '3.5', '305': '2.5', '448': '1.0', '567': '0.5', '599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"184\": \"1.0\", \"249\": \"3.5\", \"305\": \"2.5\", \"448\": \"1.0\", \"567\": \"0.5\", \"599\": \"2.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ice Age: A Mammoth Christmas (2011)"},
                        "genre": {"S":"Adventure|Animation|Children"},
-                       "movie_ratings": {"S":"{'21': '3.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"3.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Voices (2014)"},
                        "genre": {"S":"Comedy|Crime|Thriller"},
-                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Courier (1987)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'105': '3.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"3.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Green Prince (2014)"},
                        "genre": {"S":"Documentary|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'233': '2.5'}"}
+                       "movie_ratings": {"S":"{\"233\": \"2.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dying of the Light (2014)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hellbenders (2012)"},
                        "genre": {"S":"Comedy|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Omega Doom (1996)"},
                        "genre": {"S":"Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"By the Gun (2014)"},
                        "genre": {"S":"Crime|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Kill the Messenger (2014)"},
                        "genre": {"S":"Crime|Drama|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bring It On: In It To Win It (2007)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Fans (1999)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Mule (2014)"},
                        "genre": {"S":"Comedy|Crime|Drama"},
-                       "movie_ratings": {"S":"{'89': '4.0', '448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\", \"448\": \"3.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Hobbit: The Battle of the Five Armies (2014)"},
                        "genre": {"S":"Adventure|Fantasy"},
-                       "movie_ratings": {"S":"{'62': '4.0', '68': '3.0', '105': '4.0', '153': '2.5', '249': '4.0', '256': '3.5', '291': '4.0', '298': '3.0', '305': '3.0', '318': '3.0', '352': '5.0', '380': '3.0', '382': '4.5', '462': '1.5', '475': '4.5', '534': '3.0', '551': '1.0', '586': '5.0'}"}
+                       "movie_ratings": {"S":"{\"62\": \"4.0\", \"68\": \"3.0\", \"105\": \"4.0\", \"153\": \"2.5\", \"249\": \"4.0\", \"256\": \"3.5\", \"291\": \"4.0\", \"298\": \"3.0\", \"305\": \"3.0\", \"318\": \"3.0\", \"352\": \"5.0\", \"380\": \"3.0\", \"382\": \"4.5\", \"462\": \"1.5\", \"475\": \"4.5\", \"534\": \"3.0\", \"551\": \"1.0\", \"586\": \"5.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Selma (2014)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'241': '3.0', '567': '2.0'}"}
+                       "movie_ratings": {"S":"{\"241\": \"3.0\", \"567\": \"2.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Unbroken (2014)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'448': '2.5', '567': '2.0', '610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\", \"567\": \"2.0\", \"610\": \"3.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Black Sea (2015)"},
                        "genre": {"S":"Adventure|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'305': '4.0'}"}
+                       "movie_ratings": {"S":"{\"305\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Good Copy Bad Copy (2007)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"3.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Playing It Cool (2014)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -224,9 +224,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"National Lampoon's Bag Boy (2007)"},
+                       "uuid": {"S":"National Lampoon\"s Bag Boy (2007)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Closer to the Moon (2013)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Girl Walks Home Alone at Night, A (2014)"},
                        "genre": {"S":"Horror|Romance|Thriller"},
-                       "movie_ratings": {"S":"{'318': '4.0', '610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.0\", \"610\": \"3.0\"}"}
                    }
                }
            }

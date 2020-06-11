@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Blackhat (2015)"},
                        "genre": {"S":"Action|Crime|Drama|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0', '533': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\", \"533\": \"3.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"By the Law (1926)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"3.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Son of a Gun (2014)"},
                        "genre": {"S":"Action|Crime|Drama"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Terminator Genisys (2015)"},
                        "genre": {"S":"Action|Adventure|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'247': '2.5', '249': '3.5', '305': '2.5', '380': '3.0', '448': '2.0', '561': '1.0', '567': '1.5', '586': '4.0', '610': '2.5'}"}
+                       "movie_ratings": {"S":"{\"247\": \"2.5\", \"249\": \"3.5\", \"305\": \"2.5\", \"380\": \"3.0\", \"448\": \"2.0\", \"561\": \"1.0\", \"567\": \"1.5\", \"586\": \"4.0\", \"610\": \"2.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"John Mulaney: New In Town (2012)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'525': '4.0'}"}
+                       "movie_ratings": {"S":"{\"525\": \"4.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Patton Oswalt: My Weakness Is Strong (2009)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Hound of the Baskervilles (1988)"},
                        "genre": {"S":"Crime|Drama|Horror|Mystery"},
-                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Man on High Heels (2014)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'596': '3.0'}"}
+                       "movie_ratings": {"S":"{\"596\": \"3.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Space Buddies (2009)"},
                        "genre": {"S":"Adventure|Children|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Houdini (2014)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.0\"}"}
                    }
                }
            },
@@ -104,9 +104,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"To Grandmother's House We Go (1992)"},
+                       "uuid": {"S":"To Grandmother\"s House We Go (1992)"},
                        "genre": {"S":"Adventure|Children|Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5', '599': '1.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\", \"599\": \"1.0\"}"}
                    }
                }
            },
@@ -114,9 +114,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"101 Dalmatians II: Patch's London Adventure (2003)"},
+                       "uuid": {"S":"101 Dalmatians II: Patch\"s London Adventure (2003)"},
                        "genre": {"S":"Animation|Children"},
-                       "movie_ratings": {"S":"{'517': '2.5'}"}
+                       "movie_ratings": {"S":"{\"517\": \"2.5\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Hungover Games (2014)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'537': '2.5'}"}
+                       "movie_ratings": {"S":"{\"537\": \"2.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Duke of Burgundy (2014)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"3.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Red Army (2014)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'256': '4.0'}"}
+                       "movie_ratings": {"S":"{\"256\": \"4.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"It Follows (2014)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'122': '5.0', '306': '3.0', '599': '3.5', '610': '5.0'}"}
+                       "movie_ratings": {"S":"{\"122\": \"5.0\", \"306\": \"3.0\", \"599\": \"3.5\", \"610\": \"5.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Town that Dreaded Sundown (2014)"},
                        "genre": {"S":"Horror|Thriller"},
-                       "movie_ratings": {"S":"{'317': '3.0'}"}
+                       "movie_ratings": {"S":"{\"317\": \"3.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Carry on Cabby (1963)"},
                        "genre": {"S":"Adventure|Comedy|Romance"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Carry on Cruising (1962)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"3.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bill Burr: Let It Go (2010)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bill Burr: Why Do I Do This? (2008)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Killer Movie (2008)"},
                        "genre": {"S":"Comedy|Horror|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -224,9 +224,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Sebastian Maniscalco: What's Wrong with People? (2012)"},
+                       "uuid": {"S":"Sebastian Maniscalco: What\"s Wrong with People? (2012)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '3.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"3.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Stuart Little 3: Call of the Wild (2005)"},
                        "genre": {"S":"Animation|Children|Comedy|Fantasy"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Guy X (2005)"},
                        "genre": {"S":"Comedy|War"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            }

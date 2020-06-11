@@ -4,9 +4,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Dragon Ball Z: Bardock - The Father of Goku (Doragon bôru Z: Tatta hitori no saishuu kessen - Furiiza ni itonda Z senshi Kakarotto no chichi) (1990)"},
+                       "uuid": {"S":"Dragon Ball Z: Bardock - The Father of Goku (Doragon bï¿½ru Z: Tatta hitori no saishuu kessen - Furiiza ni itonda Z senshi Kakarotto no chichi) (1990)"},
                        "genre": {"S":"Action|Adventure|Animation"},
-                       "movie_ratings": {"S":"{'599': '4.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"4.0\"}"}
                    }
                }
            },
@@ -14,9 +14,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993)"},
+                       "uuid": {"S":"Dragon Ball Z: The History of Trunks (Doragon bï¿½ru Z: Zetsubï¿½ e no hankï¿½!! Nokosareta chï¿½ senshi - Gohan to Torankusu) (1993)"},
                        "genre": {"S":"Action|Adventure|Animation"},
-                       "movie_ratings": {"S":"{'21': '2.0', '599': '4.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"2.0\", \"599\": \"4.5\"}"}
                    }
                }
            },
@@ -24,9 +24,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Dragon Ball GT: A Hero's Legacy (Doragon bôru GT: Gokû gaiden! Yûki no akashi wa sû-shin-chû) (1997)"},
+                       "uuid": {"S":"Dragon Ball GT: A Hero\"s Legacy (Doragon bï¿½ru GT: Gokï¿½ gaiden! Yï¿½ki no akashi wa sï¿½-shin-chï¿½) (1997)"},
                        "genre": {"S":"Action|Adventure|Animation"},
-                       "movie_ratings": {"S":"{'380': '2.0'}"}
+                       "movie_ratings": {"S":"{\"380\": \"2.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sidewalls (Medianeras) (2011)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'105': '4.0', '233': '3.0', '318': '4.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.0\", \"233\": \"3.0\", \"318\": \"4.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Skyfall (2012)"},
                        "genre": {"S":"Action|Adventure|Thriller|IMAX"},
-                       "movie_ratings": {"S":"{'10': '5.0', '21': '4.0', '24': '3.5', '50': '2.5', '52': '3.0', '62': '4.5', '63': '3.5', '68': '4.5', '73': '5.0', '80': '4.5', '103': '4.0', '119': '3.5', '122': '4.5', '139': '3.5', '205': '3.0', '209': '4.0', '212': '4.0', '246': '4.5', '249': '4.0', '256': '4.0', '261': '4.0', '279': '5.0', '292': '4.0', '305': '3.5', '328': '3.5', '331': '4.0', '339': '3.5', '352': '4.0', '376': '4.5', '380': '2.0', '393': '5.0', '408': '3.0', '414': '4.0', '448': '4.0', '489': '4.0', '517': '1.0', '522': '4.5', '525': '4.0', '526': '3.5', '534': '3.5', '551': '4.5', '561': '3.0', '564': '3.0', '567': '3.0', '573': '5.0', '582': '4.5', '586': '3.5', '596': '3.0', '599': '3.5', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"10\": \"5.0\", \"21\": \"4.0\", \"24\": \"3.5\", \"50\": \"2.5\", \"52\": \"3.0\", \"62\": \"4.5\", \"63\": \"3.5\", \"68\": \"4.5\", \"73\": \"5.0\", \"80\": \"4.5\", \"103\": \"4.0\", \"119\": \"3.5\", \"122\": \"4.5\", \"139\": \"3.5\", \"205\": \"3.0\", \"209\": \"4.0\", \"212\": \"4.0\", \"246\": \"4.5\", \"249\": \"4.0\", \"256\": \"4.0\", \"261\": \"4.0\", \"279\": \"5.0\", \"292\": \"4.0\", \"305\": \"3.5\", \"328\": \"3.5\", \"331\": \"4.0\", \"339\": \"3.5\", \"352\": \"4.0\", \"376\": \"4.5\", \"380\": \"2.0\", \"393\": \"5.0\", \"408\": \"3.0\", \"414\": \"4.0\", \"448\": \"4.0\", \"489\": \"4.0\", \"517\": \"1.0\", \"522\": \"4.5\", \"525\": \"4.0\", \"526\": \"3.5\", \"534\": \"3.5\", \"551\": \"4.5\", \"561\": \"3.0\", \"564\": \"3.0\", \"567\": \"3.0\", \"573\": \"5.0\", \"582\": \"4.5\", \"586\": \"3.5\", \"596\": \"3.0\", \"599\": \"3.5\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -54,9 +54,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Hands Over the City (Le mani sulla città) (1963)"},
+                       "uuid": {"S":"Hands Over the City (Le mani sulla cittï¿½) (1963)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Campaign, The (2012)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'68': '3.0', '89': '2.5', '111': '3.0', '365': '3.5', '419': '4.0', '448': '4.0', '509': '3.0', '534': '3.5', '564': '4.5'}"}
+                       "movie_ratings": {"S":"{\"68\": \"3.0\", \"89\": \"2.5\", \"111\": \"3.0\", \"365\": \"3.5\", \"419\": \"4.0\", \"448\": \"4.0\", \"509\": \"3.0\", \"534\": \"3.5\", \"564\": \"4.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Brake (2012)"},
                        "genre": {"S":"Crime|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hope Springs (2012)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'292': '1.0'}"}
+                       "movie_ratings": {"S":"{\"292\": \"1.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Queen of Versailles, The (2012)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'525': '2.0'}"}
+                       "movie_ratings": {"S":"{\"525\": \"2.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"ParaNorman (2012)"},
                        "genre": {"S":"Adventure|Animation|Comedy"},
-                       "movie_ratings": {"S":"{'448': '3.0', '596': '4.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\", \"596\": \"4.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Diary of a Wimpy Kid: Dog Days (2012)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'483': '3.0'}"}
+                       "movie_ratings": {"S":"{\"483\": \"3.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Broken (2012)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"6 Days to Air: The Making of South Park (2011)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'249': '4.0'}"}
+                       "movie_ratings": {"S":"{\"249\": \"4.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Premium Rush (2012)"},
                        "genre": {"S":"Action|Thriller"},
-                       "movie_ratings": {"S":"{'249': '4.0', '414': '3.0', '448': '2.0', '483': '4.0', '534': '3.0'}"}
+                       "movie_ratings": {"S":"{\"249\": \"4.0\", \"414\": \"3.0\", \"448\": \"2.0\", \"483\": \"4.0\", \"534\": \"3.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Odd Life of Timothy Green, The (2012)"},
                        "genre": {"S":"Comedy|Drama|Fantasy"},
-                       "movie_ratings": {"S":"{'443': '5.0'}"}
+                       "movie_ratings": {"S":"{\"443\": \"5.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Lawless (2012)"},
                        "genre": {"S":"Crime|Drama"},
-                       "movie_ratings": {"S":"{'18': '4.0', '111': '3.5', '380': '4.0', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.0\", \"111\": \"3.5\", \"380\": \"4.0\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Piranha 3DD (a.k.a. Piranha DD) (2012)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'222': '3.5', '448': '1.5', '483': '1.5'}"}
+                       "movie_ratings": {"S":"{\"222\": \"3.5\", \"448\": \"1.5\", \"483\": \"1.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Prime Suspect 3 (1993)"},
                        "genre": {"S":"Crime|Drama|Mystery"},
-                       "movie_ratings": {"S":"{'517': '3.0'}"}
+                       "movie_ratings": {"S":"{\"517\": \"3.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Searching for Sugar Man (2012)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'18': '4.0', '105': '4.5', '414': '4.5', '462': '4.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.0\", \"105\": \"4.5\", \"414\": \"4.5\", \"462\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Prime Suspect 6: The Last Witness (2003)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'517': '3.0'}"}
+                       "movie_ratings": {"S":"{\"517\": \"3.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Prime Suspect: The Lost Child (1995)"},
                        "genre": {"S":"Drama|Mystery"},
-                       "movie_ratings": {"S":"{'517': '2.0'}"}
+                       "movie_ratings": {"S":"{\"517\": \"2.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Conception (2011)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Paradise Lost 3: Purgatory (2011)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'357': '4.0'}"}
+                       "movie_ratings": {"S":"{\"357\": \"4.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Words, The (2012)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'47': '4.0'}"}
+                       "movie_ratings": {"S":"{\"47\": \"4.0\"}"}
                    }
                }
            }

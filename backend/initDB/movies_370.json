@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Neon Bull (2015)"},
                        "genre": {"S":"Adventure"},
-                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"3.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Get a Job (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '4.0', '448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.0\", \"448\": \"2.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Keanu (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'365': '3.5', '448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"365\": \"3.5\", \"448\": \"1.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Me Him Her (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ice Age: The Great Egg-Scapade (2016)"},
                        "genre": {"S":"Adventure|Animation|Children|Comedy"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Everybody Wants Some (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'125': '4.0', '298': '3.5', '610': '5.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.0\", \"298\": \"3.5\", \"610\": \"5.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sing Street (2016)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'125': '3.5', '212': '4.0', '418': '4.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"3.5\", \"212\": \"4.0\", \"418\": \"4.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Zoom (2015)"},
                        "genre": {"S":"Animation|Comedy|Drama"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Paterson"},
                        "genre": {"S":"(no genres listed)"},
-                       "movie_ratings": {"S":"{'567': '4.5'}"}
+                       "movie_ratings": {"S":"{\"567\": \"4.5\"}"}
                    }
                }
            },
@@ -94,9 +94,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"The Huntsman Winter's War (2016)"},
+                       "uuid": {"S":"The Huntsman Winter\"s War (2016)"},
                        "genre": {"S":"Action|Adventure|Drama|Fantasy"},
-                       "movie_ratings": {"S":"{'50': '1.0', '448': '1.5', '567': '0.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"1.0\", \"448\": \"1.5\", \"567\": \"0.5\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Neighbors 2: Sorority Rising (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '2.0', '249': '3.0', '298': '0.5', '365': '4.5', '448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"2.0\", \"249\": \"3.0\", \"298\": \"0.5\", \"365\": \"4.5\", \"448\": \"3.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Project X (1968)"},
                        "genre": {"S":"Mystery|Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Trust (2016)"},
                        "genre": {"S":"Crime|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hush (2016)"},
                        "genre": {"S":"Thriller"},
-                       "movie_ratings": {"S":"{'306': '3.0', '567': '0.5', '610': '4.5'}"}
+                       "movie_ratings": {"S":"{\"306\": \"3.0\", \"567\": \"0.5\", \"610\": \"4.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jimmy Carr: Telling Jokes (2009)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jimmy Carr: Making People Laugh (2010)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'339': '2.5'}"}
+                       "movie_ratings": {"S":"{\"339\": \"2.5\"}"}
                    }
                }
            },
@@ -164,9 +164,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Texas - Doc Snyder hält die Welt in Atem (1993)"},
+                       "uuid": {"S":"Texas - Doc Snyder hï¿½lt die Welt in Atem (1993)"},
                        "genre": {"S":"Comedy|Western"},
-                       "movie_ratings": {"S":"{'18': '4.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.5\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"00 Schneider - Jagd auf Nihil Baxter (1994)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'18': '4.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Man Who Knew Infinity (2016)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Despite the Falling Snow (2016)"},
                        "genre": {"S":"Drama|Romance|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wizards of the Lost Kingdom II (1989)"},
                        "genre": {"S":"Action|Fantasy"},
-                       "movie_ratings": {"S":"{'448': '0.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"0.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Money Monster (2016)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.5', '567': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\", \"567\": \"2.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Barbershop: The Next Cut (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Finding Dory (2016)"},
                        "genre": {"S":"Adventure|Animation|Comedy"},
-                       "movie_ratings": {"S":"{'89': '5.0', '111': '4.5', '148': '3.0', '154': '2.5', '159': '4.5', '212': '3.5', '249': '4.0', '306': '4.0', '401': '3.0', '448': '4.0', '525': '3.0', '567': '1.5', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\", \"111\": \"4.5\", \"148\": \"3.0\", \"154\": \"2.5\", \"159\": \"4.5\", \"212\": \"3.5\", \"249\": \"4.0\", \"306\": \"4.0\", \"401\": \"3.0\", \"448\": \"4.0\", \"525\": \"3.0\", \"567\": \"1.5\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Boss (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '3.0', '306': '3.5', '448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"3.0\", \"306\": \"3.5\", \"448\": \"1.5\"}"}
                    }
                }
            }

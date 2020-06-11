@@ -5,7 +5,7 @@
                    "Item": {
                        "type": {"S":"user"},
                        "uuid": {"S":"Josephine"},
-                       "user_ratings": {"S":"{'Your Name (2016)':'5.0'}"},
+                       "user_ratings": {"S":"{\"Your Name (2016)\":\"5.0\"}"},
                        "real_user": {"BOOL":true}
                    }
                }
@@ -15,7 +15,7 @@
                    "Item": {
                        "type": {"S":"user"},
                        "uuid": {"S":"Victor"},
-                       "user_ratings": {"S":"{'Your Name (2016)':'5.0'}"},
+                       "user_ratings": {"S":"{\"Your Name (2016)\":\"5.0\"}"},
                        "real_user": {"BOOL":true}
                    }
                }
@@ -25,7 +25,7 @@
                    "Item": {
                        "type": {"S":"user"},
                        "uuid": {"S":"Pierre"},
-                       "user_ratings": {"S":"{'Your Name (2016)':'5.0'}"},
+                       "user_ratings": {"S":"{\"Your Name (2016)\":\"5.0\"}"},
                        "real_user": {"BOOL":true}
                    }
                }

@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Kizumonogatari Part 1: Tekketsu (2016)"},
                        "genre": {"S":"Action|Animation|Mystery"},
-                       "movie_ratings": {"S":"{'184': '4.0'}"}
+                       "movie_ratings": {"S":"{\"184\": \"4.0\"}"}
                    }
                }
            },
@@ -14,9 +14,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Steins;Gate the Movie: The Burden of Déjà vu (2013)"},
+                       "uuid": {"S":"Steins;Gate the Movie: The Burden of Dï¿½jï¿½ vu (2013)"},
                        "genre": {"S":"Animation|Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'184': '3.0'}"}
+                       "movie_ratings": {"S":"{\"184\": \"3.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Shin Godzilla (2016)"},
                        "genre": {"S":"Action|Adventure|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'380': '4.0'}"}
+                       "movie_ratings": {"S":"{\"380\": \"4.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Winnie Pooh (1969)"},
                        "genre": {"S":"Animation|Children"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Winnie the Pooh Goes Visiting (1971)"},
                        "genre": {"S":"Animation"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Your Name. (2016)"},
                        "genre": {"S":"Animation|Drama|Fantasy|Romance"},
-                       "movie_ratings": {"S":"{'105': '4.5', '125': '4.0', '184': '3.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.5\", \"125\": \"4.0\", \"184\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Winnie the Pooh and the Day of Concern (1972)"},
                        "genre": {"S":"Animation"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Comedy Central Roast of David Hasselhoff (2010)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"DC Super Hero Girls: Hero of the Year (2016)"},
                        "genre": {"S":"Animation"},
-                       "movie_ratings": {"S":"{'596': '4.0'}"}
+                       "movie_ratings": {"S":"{\"596\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hacksaw Ridge (2016)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'47': '3.0', '105': '4.5', '125': '4.0', '184': '4.5', '212': '4.5', '305': '4.0', '414': '4.0', '567': '3.0'}"}
+                       "movie_ratings": {"S":"{\"47\": \"3.0\", \"105\": \"4.5\", \"125\": \"4.0\", \"184\": \"4.5\", \"212\": \"4.5\", \"305\": \"4.0\", \"414\": \"4.0\", \"567\": \"3.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"David Cross: Making America Great Again (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'525': '3.0'}"}
+                       "movie_ratings": {"S":"{\"525\": \"3.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Over the Garden Wall (2013)"},
                        "genre": {"S":"Adventure|Animation|Drama"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wings, Legs and Tails (1986)"},
                        "genre": {"S":"Animation|Comedy"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Blair Witch (2016)"},
                        "genre": {"S":"Horror|Thriller"},
-                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"31 (2016)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.5\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"ARQ (2016)"},
                        "genre": {"S":"Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'305': '4.5'}"}
+                       "movie_ratings": {"S":"{\"305\": \"4.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Arrival (2016)"},
                        "genre": {"S":"Sci-Fi"},
-                       "movie_ratings": {"S":"{'18': '3.0', '21': '4.0', '62': '4.0', '68': '3.5', '98': '5.0', '125': '3.5', '154': '4.5', '184': '5.0', '248': '3.0', '249': '5.0', '252': '5.0', '279': '4.0', '305': '4.0', '331': '2.5', '339': '3.5', '352': '3.0', '380': '4.0', '400': '4.5', '414': '4.0', '433': '5.0', '462': '4.0', '511': '4.0', '561': '3.5', '567': '4.0', '599': '3.0', '610': '5.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.0\", \"21\": \"4.0\", \"62\": \"4.0\", \"68\": \"3.5\", \"98\": \"5.0\", \"125\": \"3.5\", \"154\": \"4.5\", \"184\": \"5.0\", \"248\": \"3.0\", \"249\": \"5.0\", \"252\": \"5.0\", \"279\": \"4.0\", \"305\": \"4.0\", \"331\": \"2.5\", \"339\": \"3.5\", \"352\": \"3.0\", \"380\": \"4.0\", \"400\": \"4.5\", \"414\": \"4.0\", \"433\": \"5.0\", \"462\": \"4.0\", \"511\": \"4.0\", \"561\": \"3.5\", \"567\": \"4.0\", \"599\": \"3.0\", \"610\": \"5.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Storks (2016)"},
                        "genre": {"S":"Animation|Children|Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5', '306': '3.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\", \"306\": \"3.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Maximum Ride (2016)"},
                        "genre": {"S":"Action|Adventure|Comedy|Fantasy|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Endless Poetry (2016)"},
                        "genre": {"S":"Drama|Fantasy"},
-                       "movie_ratings": {"S":"{'50': '3.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"3.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Girl with All the Gifts (2016)"},
                        "genre": {"S":"Drama|Horror|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'534': '5.0'}"}
+                       "movie_ratings": {"S":"{\"534\": \"5.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"All Roads Lead to Rome (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Amanda Knox (2016)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'525': '3.5'}"}
+                       "movie_ratings": {"S":"{\"525\": \"3.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dirty 30 (2016)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Gimme Danger (2016)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'462': '2.0'}"}
+                       "movie_ratings": {"S":"{\"462\": \"2.0\"}"}
                    }
                }
            }
