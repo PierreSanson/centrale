@@ -1,30 +1,7 @@
-.HomePage {
-  text-align: center;
-}
-
-.HomePage-logo {
+/* .HomePage-logo {
   animation: HomePage-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
-}
-
-.HomePage-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.HomePage-link {
-  color: #61dafb;
-}
-
-.content{
-  height:10000px;
 }
 
 @keyframes HomePage-logo-spin {
@@ -34,4 +11,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-
+import "./FilmSearch.css"
 const FilmSearch = () => {
 
   const [error, setError] = useState(null);
@@ -29,8 +29,6 @@ const FilmSearch = () => {
     setIsLoaded(false);
     fetchExample();
   }, [fetchAgain]);
-  
-  const sendDB = async(event) => {
 
     const Name_Year = item.Title+' ('+item.Year+')'
     await fetch("https://mev5r38l16.execute-api.eu-west-1.amazonaws.com/dev/movies", {
@@ -39,8 +37,6 @@ const FilmSearch = () => {
     });
   };
 
-
-
   const displayFilm = () => {
     if (error) {
       return <div>Error: {error.message}</div>;
@@ -48,28 +44,33 @@ const FilmSearch = () => {
       return <div>Loading...</div>;
     } else if (item.Title !== undefined) {
       return (
-        <ul>
-          {<ul>
-            <li key={item.Title}>{'Titre : ' + item.Title}</li>
-            <img src={item.Poster}></img>
-            <li key={item.Year}>{'Année : ' + item.Year}</li>
-            <li key={item.Genre}>{'Genre : ' + item.Genre}</li>
-            <li key={item.Director}>{'Réalisateur : ' + item.Director}</li>
-            <li key={item.Actors}>{'Acteurs : ' + item.Actors}</li>
-            <li key={item.Plot}>{'Résumé : ' + item.Plot}</li>
-            <li key={item.Runtime}>{'Durée : ' + item.Runtime}</li>
-            <li key={item.Rated}>{"Limitation d'âge : " + item.Rated}</li>
-          </ul>
-          }
-          <button onClick={sendDB}>Ajouter à la liste</button>
-        </ul>
+        <>
+          <div className="page-body">
+            <div className="page-header">
+              <div key={item.Title}>{item.Title}</div>
+            </div>
+            <div className="film-infos">
+              <img className="poster" src={item.Poster}></img>
+              <div className="film-text">
+                <div className="film-line"><div className="film-info-category">Année :</div><div>{item.Year}</div></div>
+                <div className="film-line"><div className="film-info-category">Genre :</div><div>{item.Genre}</div></div>
+                <div className="film-line"><div className="film-info-category">Réalisateur :</div><div>{item.Director}</div></div>
+                <div className="film-line"><div className="film-info-category">Acteurs :</div><div>{item.Actors}</div></div>
+                <div className="film-line"><div className="film-info-category">Résumé :</div><div>{item.Plot}</div></div>
+                <div className="film-line"><div className="film-info-category">Durée :</div><div>{item.Runtime}</div></div>
+                <div className="film-line"><div className="film-info-category">Limitation d'âge :</div><div>{item.Rated}</div></div>
+                <button onClick={sendDB}>Ajouter à la liste</button>
+              </div>
+            </div>
+          </div>
+        </>
       );
     }
     else {
       return (
-        <ul>
-          <label> Aucun résultat </label>
-        </ul>
+        <div className="page-body">
+          <div >Aucun résultat</div>
+        </div>
       )
     }
   };
@@ -83,12 +84,15 @@ const FilmSearch = () => {
 
 
   return (
-    <div>
-      <label>Titre (requis) : </label>
-      <input type="text" id="name" name="name"></input>
-      <label>    Année de sortie (optionnel) : </label>
-      <input type="text" id="year" name="year"></input>
-      <button onClick={getValue}>Rechercher un film</button>
+    <div className="content">
+      <div className="page-header">>Recherche de film</div>
+      <div className="search-bar">
+        <div className="search-title">Titre (requis) :</div>
+        <input className="search-zone" type="text" id="name" name="name"></input>
+        <div className="search-title">Année de sortie (optionnel) :</div>
+        <input className="search-zone year" type="text" id="year" name="year"></input>
+        <button onClick={getValue}>Rechercher un film</button>
+      </div>
       {displayFilm()}
     </div>
 
