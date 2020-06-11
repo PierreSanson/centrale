@@ -1,0 +1,42 @@
+
+.content{
+  margin-top: 130px;
+}
+
+.header-title{
+  display:flex;
+  justify-content: center;
+  background-color: darkred;
+  font-size: 70px;
+  color: white;
+}
+
+.header{
+  position: fixed;
+  top:0px;
+  left:0px;
+}
+
+.links-container{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: darkred;
+}
+
+.page-link{
+  color:white;
+  min-width: 200px;
+  height: 30px;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  transition:background-color 1s;
+  transition:color 1s;
+}
+
+.page-link:hover{
+  color:darkred;
+  background-color: white;
+}
