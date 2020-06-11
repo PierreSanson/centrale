@@ -74,7 +74,7 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"\"Tis the Season for Love (2015)"},
+                       "uuid": {"S":"'Tis the Season for Love (2015)"},
                        "genre": {"S":"Romance"},
                        "movie_ratings": {"S":"{\"21\": \"1.5\"}"}
                    }

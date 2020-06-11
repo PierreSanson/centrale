@@ -134,7 +134,7 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"\"Hellboy\": The Seeds of Creation (2004)"},
+                       "uuid": {"S":"Hellboy: The Seeds of Creation (2004)"},
                        "genre": {"S":"Action|Adventure|Comedy|Documentary|Fantasy"},
                        "movie_ratings": {"S":"{\"332\": \"4.0\"}"}
                    }

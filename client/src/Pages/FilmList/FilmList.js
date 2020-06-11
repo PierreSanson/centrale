@@ -6,7 +6,7 @@ const FilmList = () => {
   const [films, setFilms] = useState([]);
 
   const fetchFilmList = async () => {
-    const response = await fetch("https://k90b21t2k0.execute-api.eu-west-1.amazonaws.com/dev/movies");
+    const response = await fetch("https://mev5r38l16.execute-api.eu-west-1.amazonaws.com/dev/movies");
     const responseJson = await response.json();
     setFilms(responseJson);
     console.log(films)

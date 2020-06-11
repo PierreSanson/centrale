@@ -144,7 +144,7 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"\"Til There Was You (1997)"},
+                       "uuid": {"S":"'Til There Was You (1997)"},
                        "genre": {"S":"Drama|Romance"},
                        "movie_ratings": {"S":"{\"113\": \"3.0\", \"345\": \"5.0\"}"}
                    }

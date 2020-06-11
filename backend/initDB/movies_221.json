@@ -24,7 +24,7 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"\"Round Midnight (1986)"},
+                       "uuid": {"S":"'Round Midnight (1986)"},
                        "genre": {"S":"Drama|Musical"},
                        "movie_ratings": {"S":"{\"332\": \"3.5\", \"377\": \"3.5\"}"}
                    }

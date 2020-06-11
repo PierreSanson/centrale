@@ -244,7 +244,7 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"\"71 (2014)"},
+                       "uuid": {"S":"'71 (2014)"},
                        "genre": {"S":"Action|Drama|Thriller|War"},
                        "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }

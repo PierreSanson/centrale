@@ -144,7 +144,7 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"\"Salem\"s Lot (2004)"},
+                       "uuid": {"S":"Salem's Lot (2004)"},
                        "genre": {"S":"Drama|Horror|Mystery|Thriller"},
                        "movie_ratings": {"S":"{\"345\": \"5.0\"}"}
                    }

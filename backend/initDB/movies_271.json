@@ -124,7 +124,7 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Welcome to the Sticks (Bienvenue chez les Ch\"tis) (2008)"},
+                       "uuid": {"S":"Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)"},
                        "genre": {"S":"Comedy"},
                        "movie_ratings": {"S":"{\"318\": \"4.0\", \"543\": \"5.0\"}"}
                    }
