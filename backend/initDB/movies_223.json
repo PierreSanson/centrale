@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Shining Through (1992)"},
                        "genre": {"S":"Drama|Romance|Thriller|War"},
-                       "movie_ratings": {"S":"{'474': '1.5'}"}
+                       "movie_ratings": {"S":"{\"474\": \"1.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sidekicks (1992)"},
                        "genre": {"S":"Action|Adventure|Children|Comedy"},
-                       "movie_ratings": {"S":"{'307': '1.5', '599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"307\": \"1.5\", \"599\": \"1.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Heart in Winter, A (Un coeur en hiver) (1992)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'606': '3.5'}"}
+                       "movie_ratings": {"S":"{\"606\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Visions of Light: The Art of Cinematography (1992)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bad Boy Bubby (1993)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'405': '5.0', '416': '5.0', '606': '4.5'}"}
+                       "movie_ratings": {"S":"{\"405\": \"5.0\", \"416\": \"5.0\", \"606\": \"4.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Barbarians at the Gate (1993)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'28': '3.0', '599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"28\": \"3.0\", \"599\": \"2.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Fortress (1992)"},
                        "genre": {"S":"Action|Sci-Fi"},
-                       "movie_ratings": {"S":"{'580': '2.5'}"}
+                       "movie_ratings": {"S":"{\"580\": \"2.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Mr. Nanny (1993)"},
                        "genre": {"S":"Action|Children|Comedy"},
-                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"1.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Snapper, The (1993)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'462': '3.0'}"}
+                       "movie_ratings": {"S":"{\"462\": \"3.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sonatine (Sonachine) (1993)"},
                        "genre": {"S":"Action|Comedy|Crime|Drama"},
-                       "movie_ratings": {"S":"{'187': '5.0'}"}
+                       "movie_ratings": {"S":"{\"187\": \"5.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Stand, The (1994)"},
                        "genre": {"S":"Adventure|Drama|Fantasy|Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Darkman II: Return of Durant, The (1995)"},
                        "genre": {"S":"Action|Crime|Horror"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Freaked (1993)"},
                        "genre": {"S":"Comedy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Fist of Legend (Jing wu ying xiong) (1994)"},
                        "genre": {"S":"Action|Drama"},
-                       "movie_ratings": {"S":"{'140': '1.0', '380': '5.0', '438': '4.5', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"140\": \"1.0\", \"380\": \"5.0\", \"438\": \"4.5\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Major League II (1994)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'274': '3.5', '448': '2.0', '599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"274\": \"3.5\", \"448\": \"2.0\", \"599\": \"2.5\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"My Father the Hero (1994)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'68': '2.5', '599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"68\": \"2.5\", \"599\": \"2.0\"}"}
                    }
                }
            },
@@ -164,9 +164,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Pure Formality, A (Pura formalità, Una) (1994)"},
+                       "uuid": {"S":"Pure Formality, A (Pura formalitï¿½, Una) (1994)"},
                        "genre": {"S":"Crime|Film-Noir|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Langoliers, The (1995)"},
                        "genre": {"S":"Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'298': '3.0'}"}
+                       "movie_ratings": {"S":"{\"298\": \"3.0\"}"}
                    }
                }
            },
@@ -184,9 +184,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Last Wedding, The (Kivenpyörittäjän kylä) (1995)"},
+                       "uuid": {"S":"Last Wedding, The (Kivenpyï¿½rittï¿½jï¿½n kylï¿½) (1995)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'489': '3.0'}"}
+                       "movie_ratings": {"S":"{\"489\": \"3.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Last of the Dogmen (1995)"},
                        "genre": {"S":"Adventure|Western"},
-                       "movie_ratings": {"S":"{'28': '2.5'}"}
+                       "movie_ratings": {"S":"{\"28\": \"2.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Whisper of the Heart (Mimi wo sumaseba) (1995)"},
                        "genre": {"S":"Animation|Drama|Romance"},
-                       "movie_ratings": {"S":"{'105': '4.0', '298': '2.5', '483': '4.5', '509': '3.5', '523': '4.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.0\", \"298\": \"2.5\", \"483\": \"4.5\", \"509\": \"3.5\", \"523\": \"4.5\"}"}
                    }
                }
            },
@@ -214,9 +214,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Street Fighter II: The Animated Movie (Sutorîto Faitâ II gekijô-ban) (1994)"},
+                       "uuid": {"S":"Street Fighter II: The Animated Movie (Sutorï¿½to Faitï¿½ II gekijï¿½-ban) (1994)"},
                        "genre": {"S":"Action|Animation"},
-                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"1.5\"}"}
                    }
                }
            },
@@ -224,9 +224,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Summer's Tale, A (Conte d'été) (1996)"},
+                       "uuid": {"S":"Summer\"s Tale, A (Conte d\"ï¿½tï¿½) (1996)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'318': '5.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"5.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Late Shift, The (1996)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Pusher (1996)"},
                        "genre": {"S":"Crime|Thriller"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            }

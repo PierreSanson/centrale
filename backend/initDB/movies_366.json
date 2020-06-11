@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: The Runaway Bride (2007)"},
                        "genre": {"S":"Sci-Fi"},
-                       "movie_ratings": {"S":"{'210': '4.5', '248': '4.5', '380': '3.0', '525': '4.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"248\": \"4.5\", \"380\": \"3.0\", \"525\": \"4.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"A Perfect Day (2015)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Masked Avengers (1981)"},
                        "genre": {"S":"Action"},
-                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Return of the One-Armed Swordsman (1969)"},
                        "genre": {"S":"Action|Adventure"},
-                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.0\"}"}
                    }
                }
            },
@@ -44,9 +44,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"The Lord's Lantern in Budapest (1999)"},
+                       "uuid": {"S":"The Lord\"s Lantern in Budapest (1999)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hitchcock/Truffaut (2015)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The 5th Wave (2016)"},
                        "genre": {"S":"Adventure|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'365': '3.5', '448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"365\": \"3.5\", \"448\": \"1.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"A Very Murray Christmas (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'560': '2.5'}"}
+                       "movie_ratings": {"S":"{\"560\": \"2.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Chi-Raq (2015)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'318': '4.5', '610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.5\", \"610\": \"3.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Truth (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Just Jim (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Big Short, The (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'18': '4.0', '47': '3.0', '50': '3.0', '103': '5.0', '111': '5.0', '119': '5.0', '125': '3.5', '184': '5.0', '249': '4.5', '272': '4.5', '279': '3.5', '305': '3.0', '318': '4.5', '328': '4.0', '339': '4.5', '365': '2.5', '380': '3.0', '414': '5.0', '462': '3.5', '495': '5.0', '514': '4.0', '560': '4.5', '564': '3.5', '567': '3.0', '599': '3.0', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.0\", \"47\": \"3.0\", \"50\": \"3.0\", \"103\": \"5.0\", \"111\": \"5.0\", \"119\": \"5.0\", \"125\": \"3.5\", \"184\": \"5.0\", \"249\": \"4.5\", \"272\": \"4.5\", \"279\": \"3.5\", \"305\": \"3.0\", \"318\": \"4.5\", \"328\": \"4.0\", \"339\": \"4.5\", \"365\": \"2.5\", \"380\": \"3.0\", \"414\": \"5.0\", \"462\": \"3.5\", \"495\": \"5.0\", \"514\": \"4.0\", \"560\": \"4.5\", \"564\": \"3.5\", \"567\": \"3.0\", \"599\": \"3.0\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Applesauce (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Ridiculous 6 (2015)"},
                        "genre": {"S":"Comedy|Western"},
-                       "movie_ratings": {"S":"{'111': '3.0', '122': '3.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"3.0\", \"122\": \"3.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"John Mulaney: The Comeback Kid (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'525': '3.5'}"}
+                       "movie_ratings": {"S":"{\"525\": \"3.5\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Saw (2003)"},
                        "genre": {"S":"Crime|Horror"},
-                       "movie_ratings": {"S":"{'305': '5.0', '380': '4.0'}"}
+                       "movie_ratings": {"S":"{\"305\": \"5.0\", \"380\": \"4.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"North Pole: Open For Christmas (2015)"},
                        "genre": {"S":"Children|Fantasy"},
-                       "movie_ratings": {"S":"{'21': '2.0'}"}
+                       "movie_ratings": {"S":"{\"21\": \"2.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Mojave (2015)"},
                        "genre": {"S":"Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wizards of Waverly Place: The Movie (2009)"},
                        "genre": {"S":"Adventure|Children|Comedy|Drama|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"World of Tomorrow (2015)"},
                        "genre": {"S":"Animation|Comedy"},
-                       "movie_ratings": {"S":"{'560': '4.0', '567': '5.0'}"}
+                       "movie_ratings": {"S":"{\"560\": \"4.0\", \"567\": \"5.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Zoolander 2 (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'249': '3.0', '382': '2.5', '448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"249\": \"3.0\", \"382\": \"2.5\", \"448\": \"2.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"How to Be Single (2016)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'111': '4.5', '125': '3.0', '306': '2.5', '448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.5\", \"125\": \"3.0\", \"306\": \"2.5\", \"448\": \"2.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Blue Exorcist: The Movie (2012)"},
                        "genre": {"S":"Animation|Fantasy|Horror|Mystery"},
-                       "movie_ratings": {"S":"{'184': '4.0'}"}
+                       "movie_ratings": {"S":"{\"184\": \"4.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Devil Dog: The Hound of Hell (1978)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'462': '4.0'}"}
+                       "movie_ratings": {"S":"{\"462\": \"4.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"He Never Died (2015)"},
                        "genre": {"S":"Comedy|Drama|Horror"},
-                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.5\"}"}
                    }
                }
            }

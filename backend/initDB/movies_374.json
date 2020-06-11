@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Webmaster (1998)"},
                        "genre": {"S":"Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Infiltrator (2016)"},
                        "genre": {"S":"Crime|Drama"},
-                       "movie_ratings": {"S":"{'362': '4.0', '462': '3.5'}"}
+                       "movie_ratings": {"S":"{\"362\": \"4.0\", \"462\": \"3.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"War Dogs (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'62': '4.0', '89': '2.5', '111': '4.5', '125': '3.5', '249': '4.0', '305': '3.5', '380': '3.5', '414': '3.5'}"}
+                       "movie_ratings": {"S":"{\"62\": \"4.0\", \"89\": \"2.5\", \"111\": \"4.5\", \"125\": \"3.5\", \"249\": \"4.0\", \"305\": \"3.5\", \"380\": \"3.5\", \"414\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Vigilante Diaries (2016)"},
                        "genre": {"S":"Action"},
-                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Batman: The Killing Joke (2016)"},
                        "genre": {"S":"Action|Animation|Crime|Drama"},
-                       "movie_ratings": {"S":"{'380': '3.0'}"}
+                       "movie_ratings": {"S":"{\"380\": \"3.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bad Moms (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '4.5', '125': '3.5', '306': '3.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.5\", \"125\": \"3.5\", \"306\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hell or High Water (2016)"},
                        "genre": {"S":"Crime|Drama"},
-                       "movie_ratings": {"S":"{'18': '4.0', '47': '3.5', '125': '4.0', '279': '4.0', '414': '5.0', '567': '0.5', '599': '3.5', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.0\", \"47\": \"3.5\", \"125\": \"4.0\", \"279\": \"4.0\", \"414\": \"5.0\", \"567\": \"0.5\", \"599\": \"3.5\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Kingsglaive: Final Fantasy XV (2016)"},
                        "genre": {"S":"Action|Adventure|Animation|Drama|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'184': '3.5'}"}
+                       "movie_ratings": {"S":"{\"184\": \"3.5\"}"}
                    }
                }
            },
@@ -84,9 +84,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Don't Breathe (2016)"},
+                       "uuid": {"S":"Don\"t Breathe (2016)"},
                        "genre": {"S":"Thriller"},
-                       "movie_ratings": {"S":"{'125': '2.5', '306': '3.5', '380': '3.5', '567': '3.0', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"2.5\", \"306\": \"3.5\", \"380\": \"3.5\", \"567\": \"3.0\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Body (2015)"},
                        "genre": {"S":"Drama|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sharknado 4: The 4th Awakens (2016)"},
                        "genre": {"S":"Action|Adventure|Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Edge of Seventeen (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'212': '3.5', '414': '3.0'}"}
+                       "movie_ratings": {"S":"{\"212\": \"3.5\", \"414\": \"3.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Elle (2016)"},
                        "genre": {"S":"Thriller"},
-                       "movie_ratings": {"S":"{'125': '4.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Train to Busan (2016)"},
                        "genre": {"S":"Action|Thriller"},
-                       "movie_ratings": {"S":"{'125': '3.5'}"}
+                       "movie_ratings": {"S":"{\"125\": \"3.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Tom Segura: Mostly Stories (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '5.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"5.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Magnificent Seven (2016)"},
                        "genre": {"S":"Action|Western"},
-                       "movie_ratings": {"S":"{'18': '3.5', '119': '4.5', '125': '3.5', '414': '2.5', '596': '4.0', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.5\", \"119\": \"4.5\", \"125\": \"3.5\", \"414\": \"2.5\", \"596\": \"4.0\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Moonlight"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'462': '5.0'}"}
+                       "movie_ratings": {"S":"{\"462\": \"5.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Masterminds (2016)"},
                        "genre": {"S":"Action|Comedy|Crime"},
-                       "movie_ratings": {"S":"{'111': '4.5', '125': '4.0', '249': '3.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.5\", \"125\": \"4.0\", \"249\": \"3.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Kubo and the Two Strings (2016)"},
                        "genre": {"S":"Adventure|Animation|Children|Fantasy"},
-                       "movie_ratings": {"S":"{'125': '3.0', '212': '4.0', '252': '5.0', '318': '4.0', '401': '3.5', '414': '4.5'}"}
+                       "movie_ratings": {"S":"{\"125\": \"3.0\", \"212\": \"4.0\", \"252\": \"5.0\", \"318\": \"4.0\", \"401\": \"3.5\", \"414\": \"4.5\"}"}
                    }
                }
            },
@@ -194,9 +194,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Bridget Jones's Baby (2016)"},
+                       "uuid": {"S":"Bridget Jones\"s Baby (2016)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'517': '1.0'}"}
+                       "movie_ratings": {"S":"{\"517\": \"1.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Deepwater Horizon (2016)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'380': '3.5'}"}
+                       "movie_ratings": {"S":"{\"380\": \"3.5\"}"}
                    }
                }
            },
@@ -214,9 +214,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Miss Peregrine's Home for Peculiar Children (2016)"},
+                       "uuid": {"S":"Miss Peregrine\"s Home for Peculiar Children (2016)"},
                        "genre": {"S":"Fantasy"},
-                       "movie_ratings": {"S":"{'233': '1.5', '556': '4.0', '596': '3.5'}"}
+                       "movie_ratings": {"S":"{\"233\": \"1.5\", \"556\": \"4.0\", \"596\": \"3.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Girl on the Train (2016)"},
                        "genre": {"S":"Thriller"},
-                       "movie_ratings": {"S":"{'111': '4.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Accountant (2016)"},
                        "genre": {"S":"Crime|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'18': '3.5', '62': '4.0', '249': '3.5', '365': '2.0', '567': '1.0', '586': '4.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.5\", \"62\": \"4.0\", \"249\": \"3.5\", \"365\": \"2.0\", \"567\": \"1.0\", \"586\": \"4.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Imperium (2016)"},
                        "genre": {"S":"Crime|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            }

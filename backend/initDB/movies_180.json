@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Pink Panther, The (1963)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'36': '3.0', '50': '3.0', '168': '4.0', '221': '4.0', '387': '4.0', '388': '3.5', '448': '4.0', '474': '2.5', '509': '3.5', '517': '3.5', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"36\": \"3.0\", \"50\": \"3.0\", \"168\": \"4.0\", \"221\": \"4.0\", \"387\": \"4.0\", \"388\": \"3.5\", \"448\": \"4.0\", \"474\": \"2.5\", \"509\": \"3.5\", \"517\": \"3.5\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Pink Panther Strikes Again, The (1976)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'50': '3.0', '221': '4.0', '369': '3.5', '387': '3.5', '448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"50\": \"3.0\", \"221\": \"4.0\", \"369\": \"3.5\", \"387\": \"3.5\", \"448\": \"3.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Commando (1985)"},
                        "genre": {"S":"Action|Adventure"},
-                       "movie_ratings": {"S":"{'274': '3.5', '279': '3.0', '305': '3.0', '380': '5.0', '561': '3.5', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"274\": \"3.5\", \"279\": \"3.0\", \"305\": \"3.0\", \"380\": \"5.0\", \"561\": \"3.5\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dracula (1979)"},
                        "genre": {"S":"Horror|Romance"},
-                       "movie_ratings": {"S":"{'594': '4.5'}"}
+                       "movie_ratings": {"S":"{\"594\": \"4.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le) (1972)"},
                        "genre": {"S":"Comedy|Drama|Fantasy"},
-                       "movie_ratings": {"S":"{'50': '3.5', '74': '5.0', '89': '3.5', '156': '5.0', '387': '4.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"3.5\", \"74\": \"5.0\", \"89\": \"3.5\", \"156\": \"5.0\", \"387\": \"4.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Waco: The Rules of Engagement (1997)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ikiru (1952)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'140': '1.0', '387': '3.5', '474': '4.0', '490': '4.5', '567': '3.5', '606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"140\": \"1.0\", \"387\": \"3.5\", \"474\": \"4.0\", \"490\": \"4.5\", \"567\": \"3.5\", \"606\": \"4.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Comic Book Villains (2002)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'414': '2.5', '599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"414\": \"2.5\", \"599\": \"2.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Angel at My Table, An (1990)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -104,9 +104,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Handmaid's Tale, The (1990)"},
+                       "uuid": {"S":"Handmaid\"s Tale, The (1990)"},
                        "genre": {"S":"Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'91': '3.5'}"}
+                       "movie_ratings": {"S":"{\"91\": \"3.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Revolution OS (2001)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'182': '4.0'}"}
+                       "movie_ratings": {"S":"{\"182\": \"4.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Death in Venice (Morte a Venezia) (1971)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'156': '4.0', '606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"156\": \"4.0\", \"606\": \"4.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Medallion, The (2003)"},
                        "genre": {"S":"Action|Comedy|Crime|Fantasy"},
-                       "movie_ratings": {"S":"{'82': '3.5', '89': '5.0', '274': '1.0', '438': '3.0', '610': '1.0'}"}
+                       "movie_ratings": {"S":"{\"82\": \"3.5\", \"89\": \"5.0\", \"274\": \"1.0\", \"438\": \"3.0\", \"610\": \"1.0\"}"}
                    }
                }
            },
@@ -144,9 +144,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"My Boss's Daughter (2003)"},
+                       "uuid": {"S":"My Boss\"s Daughter (2003)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'82': '4.0', '274': '2.0', '307': '1.0', '382': '1.0'}"}
+                       "movie_ratings": {"S":"{\"82\": \"4.0\", \"274\": \"2.0\", \"307\": \"1.0\", \"382\": \"1.0\"}"}
                    }
                }
            },
@@ -154,9 +154,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Autumn Spring (Babí léto) (2001)"},
+                       "uuid": {"S":"Autumn Spring (Babï¿½ lï¿½to) (2001)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'182': '3.5'}"}
+                       "movie_ratings": {"S":"{\"182\": \"3.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Battle of Shaker Heights, The (2003)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                       "movie_ratings": {"S":"{\"414\": \"4.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dust (2001)"},
                        "genre": {"S":"Drama|Western"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Stoked: The Rise and Fall of Gator (2002)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'580': '2.0'}"}
+                       "movie_ratings": {"S":"{\"580\": \"2.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jeepers Creepers 2 (2003)"},
                        "genre": {"S":"Horror|Thriller"},
-                       "movie_ratings": {"S":"{'226': '1.0', '274': '2.0', '307': '1.5', '380': '3.0'}"}
+                       "movie_ratings": {"S":"{\"226\": \"1.0\", \"274\": \"2.0\", \"307\": \"1.5\", \"380\": \"3.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bollywood/Hollywood (2002)"},
                        "genre": {"S":"Comedy|Drama|Musical|Romance"},
-                       "movie_ratings": {"S":"{'414': '2.5'}"}
+                       "movie_ratings": {"S":"{\"414\": \"2.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Once Upon a Time in the Midlands (2002)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'414': '3.0'}"}
+                       "movie_ratings": {"S":"{\"414\": \"3.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dickie Roberts: Former Child Star (2003)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'82': '3.5', '169': '3.0', '274': '2.0', '298': '0.5', '307': '2.5'}"}
+                       "movie_ratings": {"S":"{\"82\": \"3.5\", \"169\": \"3.0\", \"274\": \"2.0\", \"298\": \"0.5\", \"307\": \"2.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Party Monster (2003)"},
                        "genre": {"S":"Comedy|Crime|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'307': '2.5'}"}
+                       "movie_ratings": {"S":"{\"307\": \"2.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Taking Sides (2001)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'309': '3.5'}"}
+                       "movie_ratings": {"S":"{\"309\": \"3.5\"}"}
                    }
                }
            }

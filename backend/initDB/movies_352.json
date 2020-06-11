@@ -4,9 +4,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"While We're Young (2014)"},
+                       "uuid": {"S":"While We\"re Young (2014)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Too Late for Tears (1949)"},
                        "genre": {"S":"Crime|Drama|Film-Noir|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'329': '4.0'}"}
+                       "movie_ratings": {"S":"{\"329\": \"4.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Insurgent (2015)"},
                        "genre": {"S":"Action|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'125': '3.0', '292': '3.5', '352': '2.0', '380': '3.0', '567': '0.5', '598': '5.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"3.0\", \"292\": \"3.5\", \"352\": \"2.0\", \"380\": \"3.0\", \"567\": \"0.5\", \"598\": \"5.0\"}"}
                    }
                }
            },
@@ -34,9 +34,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"La vérité si je mens ! (1997)"},
+                       "uuid": {"S":"La vï¿½ritï¿½ si je mens ! (1997)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'560': '3.5'}"}
+                       "movie_ratings": {"S":"{\"560\": \"3.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Amazing Screw-On Head (2006)"},
                        "genre": {"S":"Action|Adventure|Animation|Comedy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'89': '4.5', '393': '5.0', '599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\", \"393\": \"5.0\", \"599\": \"2.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Home (2015)"},
                        "genre": {"S":"Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'89': '2.0', '111': '4.5', '119': '3.5', '256': '3.5', '306': '3.0', '534': '4.0', '561': '1.0', '586': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"2.0\", \"111\": \"4.5\", \"119\": \"3.5\", \"256\": \"3.5\", \"306\": \"3.0\", \"534\": \"4.0\", \"561\": \"1.0\", \"586\": \"4.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Midnight Special (2015)"},
                        "genre": {"S":"Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'292': '2.0', '448': '3.0', '560': '2.0', '567': '2.5'}"}
+                       "movie_ratings": {"S":"{\"292\": \"2.0\", \"448\": \"3.0\", \"560\": \"2.0\", \"567\": \"2.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Gunman, The (2015)"},
                        "genre": {"S":"Action|Thriller"},
-                       "movie_ratings": {"S":"{'119': '4.0'}"}
+                       "movie_ratings": {"S":"{\"119\": \"4.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Furious 7 (2015)"},
                        "genre": {"S":"Action|Crime|Thriller"},
-                       "movie_ratings": {"S":"{'154': '0.5', '352': '1.0', '380': '3.0', '382': '3.5', '534': '4.0', '610': '4.5'}"}
+                       "movie_ratings": {"S":"{\"154\": \"0.5\", \"352\": \"1.0\", \"380\": \"3.0\", \"382\": \"3.5\", \"534\": \"4.0\", \"610\": \"4.5\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Final Girls (2015)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'382': '3.0'}"}
+                       "movie_ratings": {"S":"{\"382\": \"3.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Spring (2015)"},
                        "genre": {"S":"Horror|Romance|Sci-Fi"},
-                       "movie_ratings": {"S":"{'610': '4.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Power/Rangers (2015)"},
                        "genre": {"S":"Action|Adventure|Sci-Fi"},
-                       "movie_ratings": {"S":"{'393': '4.0'}"}
+                       "movie_ratings": {"S":"{\"393\": \"4.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"George Carlin: Life Is Worth Losing (2005)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Legend No. 17 (2013)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Love and Pigeons (1985)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Get Hard (2015)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'73': '3.5', '89': '2.5', '111': '5.0', '298': '1.5', '305': '3.5', '365': '3.0', '448': '2.0', '564': '4.0'}"}
+                       "movie_ratings": {"S":"{\"73\": \"3.5\", \"89\": \"2.5\", \"111\": \"5.0\", \"298\": \"1.5\", \"305\": \"3.5\", \"365\": \"3.0\", \"448\": \"2.0\", \"564\": \"4.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"That Sugar Film (2014)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'119': '4.5'}"}
+                       "movie_ratings": {"S":"{\"119\": \"4.5\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Saving Santa (2013)"},
                        "genre": {"S":"Animation|Children|Comedy"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Brain (1969)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Tom and Jerry: A Nutcracker Tale (2007)"},
                        "genre": {"S":"Animation|Comedy"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"What Men Talk About (2010)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Kill Me Three Times (2014)"},
                        "genre": {"S":"Thriller"},
-                       "movie_ratings": {"S":"{'89': '3.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"3.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Poker Night (2014)"},
                        "genre": {"S":"Action|Crime|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Reckless Kelly (1994)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Willy/Milly (1986)"},
                        "genre": {"S":"Comedy|Fantasy"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            }

@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"If I Were a Rich Man (2002)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'560': '3.0'}"}
+                       "movie_ratings": {"S":"{\"560\": \"3.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Last Shift (2014)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"F*ck You, Goethe 2 (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'50': '1.0'}"}
+                       "movie_ratings": {"S":"{\"50\": \"1.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Garam Masala (2005)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Life Eternal (2015)"},
                        "genre": {"S":"Comedy|Crime|Thriller"},
-                       "movie_ratings": {"S":"{'50': '2.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"2.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hotel Transylvania 2 (2015)"},
                        "genre": {"S":"Animation|Comedy"},
-                       "movie_ratings": {"S":"{'50': '2.0', '306': '3.5', '448': '2.5', '525': '3.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"2.0\", \"306\": \"3.5\", \"448\": \"2.5\", \"525\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Anti-Social (2015)"},
                        "genre": {"S":"Crime"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jump In! (2007)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Little Prince (2015)"},
                        "genre": {"S":"Animation|Fantasy"},
-                       "movie_ratings": {"S":"{'21': '1.5', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"21\": \"1.5\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Narcopolis (2014)"},
                        "genre": {"S":"Mystery|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ashby (2015)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'448': '2.5', '564': '3.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\", \"564\": \"3.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wonder Woman (2017)"},
                        "genre": {"S":"Action|Adventure|Fantasy"},
-                       "movie_ratings": {"S":"{'62': '3.5', '125': '3.5', '184': '2.5', '212': '4.0', '249': '4.5', '252': '4.0', '318': '3.5', '380': '3.0', '414': '4.5', '462': '2.0', '567': '1.5', '596': '4.5', '599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"62\": \"3.5\", \"125\": \"3.5\", \"184\": \"2.5\", \"212\": \"4.0\", \"249\": \"4.5\", \"252\": \"4.0\", \"318\": \"3.5\", \"380\": \"3.0\", \"414\": \"4.5\", \"462\": \"2.0\", \"567\": \"1.5\", \"596\": \"4.5\", \"599\": \"2.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Circle (2016)"},
                        "genre": {"S":"Drama|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'249': '2.5'}"}
+                       "movie_ratings": {"S":"{\"249\": \"2.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Silence (2016)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'249': '3.0', '567': '4.5'}"}
+                       "movie_ratings": {"S":"{\"249\": \"3.0\", \"567\": \"4.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bridge of Spies (2015)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'15': '3.0', '21': '4.0', '305': '4.0', '339': '4.0', '414': '4.0', '448': '3.5', '567': '1.0', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"15\": \"3.0\", \"21\": \"4.0\", \"305\": \"4.0\", \"339\": \"4.0\", \"414\": \"4.0\", \"448\": \"3.5\", \"567\": \"1.0\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hyena Road"},
                        "genre": {"S":"(no genres listed)"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Great Hypnotist (2014)"},
                        "genre": {"S":"Drama|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'123': '4.0'}"}
+                       "movie_ratings": {"S":"{\"123\": \"4.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Into the Grizzly Maze (2015)"},
                        "genre": {"S":"Action|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Human (2015)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -194,9 +194,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Chasuke's Journey (2015)"},
+                       "uuid": {"S":"Chasuke\"s Journey (2015)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"L.A. Slasher (2015)"},
                        "genre": {"S":"Comedy|Crime|Fantasy"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hail, Caesar! (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'50': '2.0', '111': '1.5', '279': '3.0', '318': '4.0', '448': '3.0', '462': '1.5', '560': '3.5', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"50\": \"2.0\", \"111\": \"1.5\", \"279\": \"3.0\", \"318\": \"4.0\", \"448\": \"3.0\", \"462\": \"1.5\", \"560\": \"3.5\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"How To Change The World (2015)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Er ist wieder da (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'50': '1.0', '153': '3.0', '305': '4.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"1.0\", \"153\": \"3.0\", \"305\": \"4.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Just Eat It: A Food Waste Story (2014)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'18': '4.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.0\"}"}
                    }
                }
            }

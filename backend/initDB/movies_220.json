@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Turning Point, The (1977)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Five Deadly Venoms (1978)"},
                        "genre": {"S":"Action"},
-                       "movie_ratings": {"S":"{'610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Last Hurrah for Chivalry (Hao xia) (1979)"},
                        "genre": {"S":"Action|Drama"},
-                       "movie_ratings": {"S":"{'610': '5.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"5.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Clonus Horror, The (1979)"},
                        "genre": {"S":"Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'3': '4.5', '448': '1.0'}"}
+                       "movie_ratings": {"S":"{\"3\": \"4.5\", \"448\": \"1.0\"}"}
                    }
                }
            },
@@ -44,9 +44,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Snake in the Eagle's Shadow (Se ying diu sau) (1978)"},
+                       "uuid": {"S":"Snake in the Eagle\"s Shadow (Se ying diu sau) (1978)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'599': '3.0', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.0\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hair (1979)"},
                        "genre": {"S":"Comedy|Drama|Musical"},
-                       "movie_ratings": {"S":"{'50': '3.0', '474': '3.0', '606': '3.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"3.0\", \"474\": \"3.0\", \"606\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Love at First Bite (1979)"},
                        "genre": {"S":"Comedy|Horror|Romance"},
-                       "movie_ratings": {"S":"{'89': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hitch Hikers Guide to the Galaxy, The (1981)"},
                        "genre": {"S":"Adventure|Comedy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'18': '3.5', '483': '4.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.5\", \"483\": \"4.5\"}"}
                    }
                }
            },
@@ -84,9 +84,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Smiley's People (1982)"},
+                       "uuid": {"S":"Smiley\"s People (1982)"},
                        "genre": {"S":"Drama|Mystery"},
-                       "movie_ratings": {"S":"{'599': '4.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Blue Thunder (1983)"},
                        "genre": {"S":"Action|Crime|Drama"},
-                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Day After, The (1983)"},
                        "genre": {"S":"Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Eddie Murphy Delirious (1983)"},
                        "genre": {"S":"Comedy|Documentary"},
-                       "movie_ratings": {"S":"{'105': '3.5', '298': '4.0', '357': '5.0', '573': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"3.5\", \"298\": \"4.0\", \"357\": \"5.0\", \"573\": \"5.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Norte, El (1984)"},
                        "genre": {"S":"Adventure|Drama"},
-                       "movie_ratings": {"S":"{'359': '3.5'}"}
+                       "movie_ratings": {"S":"{\"359\": \"3.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Twilight Zone: The Movie (1983)"},
                        "genre": {"S":"Fantasy|Horror|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'274': '4.0', '514': '2.0', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"274\": \"4.0\", \"514\": \"2.0\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Boy Meets Girl (1984)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cloak & Dagger (1984)"},
                        "genre": {"S":"Action|Adventure|Children|Crime|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'64': '3.5', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"64\": \"3.5\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ewok Adventure, The (a.k.a. Caravan of Courage: An Ewok Adventure) (1984)"},
                        "genre": {"S":"Adventure|Children|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '1.5', '610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"1.5\", \"610\": \"3.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Silent Night, Deadly Night (1984)"},
                        "genre": {"S":"Horror|Thriller"},
-                       "movie_ratings": {"S":"{'274': '3.5'}"}
+                       "movie_ratings": {"S":"{\"274\": \"3.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Times of Harvey Milk, The (1984)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'253': '4.5', '462': '4.5'}"}
+                       "movie_ratings": {"S":"{\"253\": \"4.5\", \"462\": \"4.5\"}"}
                    }
                }
            },
@@ -194,9 +194,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"What Have I Done to Deserve This? (¿Qué he hecho yo para merecer esto!!) (1984)"},
+                       "uuid": {"S":"What Have I Done to Deserve This? (ï¿½Quï¿½ he hecho yo para merecer esto!!) (1984)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Anne of Green Gables (1985)"},
                        "genre": {"S":"Children|Drama"},
-                       "movie_ratings": {"S":"{'330': '4.0', '357': '5.0', '605': '4.5'}"}
+                       "movie_ratings": {"S":"{\"330\": \"4.0\", \"357\": \"5.0\", \"605\": \"4.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Death of a Salesman (1985)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ewoks: The Battle for Endor (1985)"},
                        "genre": {"S":"Adventure|Children|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '2.5', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Police Story (Ging chaat goo si) (1985)"},
                        "genre": {"S":"Action|Comedy|Crime|Thriller"},
-                       "movie_ratings": {"S":"{'599': '3.5', '610': '5.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.5\", \"610\": \"5.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Quiet Earth, The (1985)"},
                        "genre": {"S":"Drama|Mystery|Sci-Fi"},
-                       "movie_ratings": {"S":"{'29': '4.0', '405': '4.5'}"}
+                       "movie_ratings": {"S":"{\"29\": \"4.0\", \"405\": \"4.5\"}"}
                    }
                }
            }

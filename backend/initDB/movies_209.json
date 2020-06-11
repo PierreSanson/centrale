@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Door in the Floor, The (2004)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'199': '2.5'}"}
+                       "movie_ratings": {"S":"{\"199\": \"2.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Notebook, The (2004)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'10': '5.0', '12': '5.0', '47': '3.5', '51': '5.0', '68': '3.0', '73': '3.0', '104': '4.0', '105': '3.5', '111': '2.5', '143': '4.0', '153': '1.0', '159': '4.0', '177': '3.5', '190': '3.0', '199': '2.5', '232': '5.0', '298': '1.0', '331': '4.0', '351': '4.0', '358': '4.5', '359': '4.5', '365': '2.0', '414': '3.5', '426': '3.5', '432': '5.0', '480': '3.5', '483': '4.0', '489': '5.0', '495': '5.0', '509': '3.5', '525': '3.5', '537': '1.5', '560': '2.5', '563': '3.5', '578': '5.0', '583': '2.0', '594': '4.0', '600': '3.0'}"}
+                       "movie_ratings": {"S":"{\"10\": \"5.0\", \"12\": \"5.0\", \"47\": \"3.5\", \"51\": \"5.0\", \"68\": \"3.0\", \"73\": \"3.0\", \"104\": \"4.0\", \"105\": \"3.5\", \"111\": \"2.5\", \"143\": \"4.0\", \"153\": \"1.0\", \"159\": \"4.0\", \"177\": \"3.5\", \"190\": \"3.0\", \"199\": \"2.5\", \"232\": \"5.0\", \"298\": \"1.0\", \"331\": \"4.0\", \"351\": \"4.0\", \"358\": \"4.5\", \"359\": \"4.5\", \"365\": \"2.0\", \"414\": \"3.5\", \"426\": \"3.5\", \"432\": \"5.0\", \"480\": \"3.5\", \"483\": \"4.0\", \"489\": \"5.0\", \"495\": \"5.0\", \"509\": \"3.5\", \"525\": \"3.5\", \"537\": \"1.5\", \"560\": \"2.5\", \"563\": \"3.5\", \"578\": \"5.0\", \"583\": \"2.0\", \"594\": \"4.0\", \"600\": \"3.0\"}"}
                    }
                }
            },
@@ -24,9 +24,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Two Brothers (Deux frères) (2004)"},
+                       "uuid": {"S":"Two Brothers (Deux frï¿½res) (2004)"},
                        "genre": {"S":"Adventure|Children|Drama"},
-                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"De-Lovely (2004)"},
                        "genre": {"S":"Drama|Musical"},
-                       "movie_ratings": {"S":"{'263': '4.0'}"}
+                       "movie_ratings": {"S":"{\"263\": \"4.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Day at the Races, A (1937)"},
                        "genre": {"S":"Comedy|Musical"},
-                       "movie_ratings": {"S":"{'387': '3.5', '448': '5.0', '474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"387\": \"3.5\", \"448\": \"5.0\", \"474\": \"3.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bob & Carol & Ted & Alice (1969)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'156': '3.5'}"}
+                       "movie_ratings": {"S":"{\"156\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Claymation Christmas Celebration, A (1987)"},
                        "genre": {"S":"Animation|Children|Comedy|Musical"},
-                       "movie_ratings": {"S":"{'21': '0.5', '387': '2.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"0.5\", \"387\": \"2.5\"}"}
                    }
                }
            },
@@ -74,9 +74,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Happenstance (Battement d'ailes du papillon, Le) (2001)"},
+                       "uuid": {"S":"Happenstance (Battement d\"ailes du papillon, Le) (2001)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Comandante (2003)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'420': '4.0'}"}
+                       "movie_ratings": {"S":"{\"420\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Undead (2003)"},
                        "genre": {"S":"Action|Comedy|Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'274': '3.5', '610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"274\": \"3.5\", \"610\": \"3.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Into the Woods (1991)"},
                        "genre": {"S":"Adventure|Comedy|Fantasy|Musical"},
-                       "movie_ratings": {"S":"{'357': '5.0'}"}
+                       "movie_ratings": {"S":"{\"357\": \"5.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Pirates of Silicon Valley (1999)"},
                        "genre": {"S":"Documentary|Drama"},
-                       "movie_ratings": {"S":"{'91': '4.0', '182': '4.5', '438': '3.5', '483': '4.0'}"}
+                       "movie_ratings": {"S":"{\"91\": \"4.0\", \"182\": \"4.5\", \"438\": \"3.5\", \"483\": \"4.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Manufacturing Consent: Noam Chomsky and the Media (1992)"},
                        "genre": {"S":"Documentary|War"},
-                       "movie_ratings": {"S":"{'187': '4.5', '462': '4.0'}"}
+                       "movie_ratings": {"S":"{\"187\": \"4.5\", \"462\": \"4.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Mayor of the Sunset Strip (2003)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'414': '3.5'}"}
+                       "movie_ratings": {"S":"{\"414\": \"3.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Killing Me Softly (2002)"},
                        "genre": {"S":"Drama|Mystery|Romance|Thriller"},
-                       "movie_ratings": {"S":"{'432': '4.0'}"}
+                       "movie_ratings": {"S":"{\"432\": \"4.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Philadelphia Experiment, The (1984)"},
                        "genre": {"S":"Adventure|Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Juice (1992)"},
                        "genre": {"S":"Action|Crime|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'484': '4.0'}"}
+                       "movie_ratings": {"S":"{\"484\": \"4.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Revenge of the Pink Panther (1978)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'387': '3.5', '448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"387\": \"3.5\", \"448\": \"3.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Angels with Dirty Faces (1938)"},
                        "genre": {"S":"Crime|Drama|Film-Noir|Thriller"},
-                       "movie_ratings": {"S":"{'177': '4.0', '474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"177\": \"4.0\", \"474\": \"3.5\"}"}
                    }
                }
            },
@@ -194,9 +194,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Zero de conduite (Zero for Conduct) (Zéro de conduite: Jeunes diables au collège) (1933)"},
+                       "uuid": {"S":"Zero de conduite (Zero for Conduct) (Zï¿½ro de conduite: Jeunes diables au collï¿½ge) (1933)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Taxi (1998)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'67': '5.0', '167': '3.0', '274': '2.0', '560': '3.5', '599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"67\": \"5.0\", \"167\": \"3.0\", \"274\": \"2.0\", \"560\": \"3.5\", \"599\": \"2.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Taxi 3 (2003)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'67': '4.5', '599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"67\": \"4.5\", \"599\": \"2.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Tokyo Godfathers (2003)"},
                        "genre": {"S":"Adventure|Animation|Drama"},
-                       "movie_ratings": {"S":"{'187': '4.0', '260': '3.0', '474': '4.0', '477': '3.5', '483': '5.0'}"}
+                       "movie_ratings": {"S":"{\"187\": \"4.0\", \"260\": \"3.0\", \"474\": \"4.0\", \"477\": \"3.5\", \"483\": \"5.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Our Hospitality (1923)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'177': '3.0', '474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"177\": \"3.0\", \"474\": \"3.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"All of Me (1984)"},
                        "genre": {"S":"Comedy|Fantasy"},
-                       "movie_ratings": {"S":"{'377': '1.5', '474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"377\": \"1.5\", \"474\": \"3.5\"}"}
                    }
                }
            }

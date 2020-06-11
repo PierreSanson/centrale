@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bros Before Hos (2013)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '3.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"3.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Slow Learners (2015)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Unforgiven (2013)"},
                        "genre": {"S":"Action|Crime|Drama"},
-                       "movie_ratings": {"S":"{'517': '0.5'}"}
+                       "movie_ratings": {"S":"{\"517\": \"0.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sex, Drugs & Taxation (2013)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sky High (2003)"},
                        "genre": {"S":"Action|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Confessions of a Dangerous Mind (2002)"},
                        "genre": {"S":"Comedy|Crime|Drama|Romance|Thriller"},
-                       "movie_ratings": {"S":"{'111': '4.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Goosebumps (2015)"},
                        "genre": {"S":"Adventure|Comedy|Horror"},
-                       "movie_ratings": {"S":"{'448': '2.5', '567': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\", \"567\": \"1.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Perfect Guy (2015)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Rock the Kasbah (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Freaks of Nature (2015)"},
                        "genre": {"S":"Comedy|Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'534': '4.5'}"}
+                       "movie_ratings": {"S":"{\"534\": \"4.5\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bone Tomahawk (2015)"},
                        "genre": {"S":"Horror|Western"},
-                       "movie_ratings": {"S":"{'122': '4.5', '610': '4.5'}"}
+                       "movie_ratings": {"S":"{\"122\": \"4.5\", \"610\": \"4.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Extraordinary Tales (2015)"},
                        "genre": {"S":"Animation|Horror|Mystery"},
-                       "movie_ratings": {"S":"{'318': '2.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"2.5\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Dressmaker (2015)"},
                        "genre": {"S":"Comedy|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Nowitzki: The Perfect Shot (2014)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'18': '3.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Trumbo (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'305': '4.0'}"}
+                       "movie_ratings": {"S":"{\"305\": \"4.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Our Lips Are Sealed (2000)"},
                        "genre": {"S":"Children|Comedy|Drama"},
-                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"3.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Idaho Transfer (1973)"},
                        "genre": {"S":"Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '0.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"0.5\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Witch Hunt (1999)"},
                        "genre": {"S":"Crime|Drama"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Concussion (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'47': '3.5', '448': '2.5', '567': '1.5'}"}
+                       "movie_ratings": {"S":"{\"47\": \"3.5\", \"448\": \"2.5\", \"567\": \"1.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Peanuts Movie, The (2015)"},
                        "genre": {"S":"Adventure|Animation|Children|Comedy"},
-                       "movie_ratings": {"S":"{'365': '1.5'}"}
+                       "movie_ratings": {"S":"{\"365\": \"1.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bloodsport: The Dark Kumite (1999)"},
                        "genre": {"S":"Action|Thriller"},
-                       "movie_ratings": {"S":"{'610': '0.5'}"}
+                       "movie_ratings": {"S":"{\"610\": \"0.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Formula of Love (1984)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"A Man from Boulevard des Capucines (1987)"},
                        "genre": {"S":"Comedy|Romance|Western"},
-                       "movie_ratings": {"S":"{'256': '4.0'}"}
+                       "movie_ratings": {"S":"{\"256\": \"4.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Adventures of Sherlock Holmes and Dr. Watson: The Hound of the Baskervilles (1981)"},
                        "genre": {"S":"Crime|Mystery"},
-                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Blue Mountain State: The Rise of Thadland (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'249': '3.0'}"}
+                       "movie_ratings": {"S":"{\"249\": \"3.0\"}"}
                    }
                }
            }

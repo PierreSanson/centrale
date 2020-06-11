@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Gaga: Five Foot Two (2017)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'111': '3.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"3.5\"}"}
                    }
                }
            },
@@ -14,9 +14,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Dave Chappelle: Killin' Them Softly (2000)"},
+                       "uuid": {"S":"Dave Chappelle: Killin\" Them Softly (2000)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'105': '4.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Front Cover (2016)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'596': '3.5'}"}
+                       "movie_ratings": {"S":"{\"596\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Paddington 2 (2017)"},
                        "genre": {"S":"Adventure|Animation|Children|Comedy"},
-                       "movie_ratings": {"S":"{'184': '5.0', '567': '3.5'}"}
+                       "movie_ratings": {"S":"{\"184\": \"5.0\", \"567\": \"3.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"2048: Nowhere to Run (2017)"},
                        "genre": {"S":"Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Male Hunt (1964)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'50': '3.0'}"}
+                       "movie_ratings": {"S":"{\"50\": \"3.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Death of Stalin (2017)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'380': '4.0'}"}
+                       "movie_ratings": {"S":"{\"380\": \"4.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Loving Vincent (2017)"},
                        "genre": {"S":"Animation|Crime|Drama"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Blue Planet II (2017)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'318': '5.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"5.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Christina P: Mother Inferior (2017)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '2.5', '111': '3.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"2.5\", \"111\": \"3.5\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jumanji: Welcome to the Jungle (2017)"},
                        "genre": {"S":"Action|Adventure|Children"},
-                       "movie_ratings": {"S":"{'62': '3.5', '184': '2.5', '212': '4.0', '380': '4.0', '514': '4.0', '596': '4.0'}"}
+                       "movie_ratings": {"S":"{\"62\": \"3.5\", \"184\": \"2.5\", \"212\": \"4.0\", \"380\": \"4.0\", \"514\": \"4.0\", \"596\": \"4.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dane Cook: Troublemaker (2014)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '4.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Mayhem (2017)"},
                        "genre": {"S":"Action|Horror"},
-                       "movie_ratings": {"S":"{'567': '1.0'}"}
+                       "movie_ratings": {"S":"{\"567\": \"1.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Emerald Green (2016)"},
                        "genre": {"S":"Adventure|Drama|Fantasy|Romance"},
-                       "movie_ratings": {"S":"{'210': '4.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wonder Wheel (2017)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'153': '3.0'}"}
+                       "movie_ratings": {"S":"{\"153\": \"3.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Creep 2 (2017)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'567': '1.5'}"}
+                       "movie_ratings": {"S":"{\"567\": \"1.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"LBJ (2017)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'462': '4.0'}"}
+                       "movie_ratings": {"S":"{\"462\": \"4.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Roman J. Israel, Esq. (2017)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'567': '1.5'}"}
+                       "movie_ratings": {"S":"{\"567\": \"1.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Darkest Hour (2017)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'205': '4.5', '414': '4.0', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"205\": \"4.5\", \"414\": \"4.0\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Star Wars: The Last Jedi (2017)"},
                        "genre": {"S":"Action|Adventure|Fantasy|Sci-Fi"},
-                       "movie_ratings": {"S":"{'62': '3.5', '98': '3.0', '153': '0.5', '210': '4.5', '249': '4.5', '380': '0.5', '414': '4.5', '514': '2.0', '515': '4.0', '567': '2.0', '586': '5.0', '596': '3.5'}"}
+                       "movie_ratings": {"S":"{\"62\": \"3.5\", \"98\": \"3.0\", \"153\": \"0.5\", \"210\": \"4.5\", \"249\": \"4.5\", \"380\": \"0.5\", \"414\": \"4.5\", \"514\": \"2.0\", \"515\": \"4.0\", \"567\": \"2.0\", \"586\": \"5.0\", \"596\": \"3.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"A Bad Moms Christmas (2017)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '3.5'}"}
+                       "movie_ratings": {"S":"{\"111\": \"3.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Shape of Water (2017)"},
                        "genre": {"S":"Adventure|Drama|Fantasy"},
-                       "movie_ratings": {"S":"{'210': '4.0', '212': '4.0', '233': '3.5', '296': '3.5', '305': '3.0', '414': '4.0', '567': '4.0', '599': '3.5'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.0\", \"212\": \"4.0\", \"233\": \"3.5\", \"296\": \"3.5\", \"305\": \"3.0\", \"414\": \"4.0\", \"567\": \"4.0\", \"599\": \"3.5\"}"}
                    }
                }
            },
@@ -224,9 +224,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Molly's Game (2017)"},
+                       "uuid": {"S":"Molly\"s Game (2017)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'414': '4.0'}"}
+                       "movie_ratings": {"S":"{\"414\": \"4.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wonder (2017)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'18': '3.0', '25': '5.0', '153': '4.0'}"}
+                       "movie_ratings": {"S":"{\"18\": \"3.0\", \"25\": \"5.0\", \"153\": \"4.0\"}"}
                    }
                }
            },
@@ -244,9 +244,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Daddy's Home 2 (2017)"},
+                       "uuid": {"S":"Daddy\"s Home 2 (2017)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'491': '4.0'}"}
+                       "movie_ratings": {"S":"{\"491\": \"4.0\"}"}
                    }
                }
            }

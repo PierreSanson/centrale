@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Shaun the Sheep Movie (2015)"},
                        "genre": {"S":"Adventure|Animation|Children|Comedy"},
-                       "movie_ratings": {"S":"{'256': '3.5', '517': '2.5'}"}
+                       "movie_ratings": {"S":"{\"256\": \"3.5\", \"517\": \"2.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Last Knights (2015)"},
                        "genre": {"S":"Action|Adventure"},
-                       "movie_ratings": {"S":"{'119': '4.0', '382': '3.5', '448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"119\": \"4.0\", \"382\": \"3.5\", \"448\": \"1.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Jinx: The Life and Deaths of Robert Durst (2015)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'2': '5.0'}"}
+                       "movie_ratings": {"S":"{\"2\": \"5.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Batman vs. Robin (2015)"},
                        "genre": {"S":"Action|Adventure|Animation"},
-                       "movie_ratings": {"S":"{'497': '3.0'}"}
+                       "movie_ratings": {"S":"{\"497\": \"3.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Libre et assoupi (2014)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'125': '3.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"3.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Woman in Gold (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'305': '4.0'}"}
+                       "movie_ratings": {"S":"{\"305\": \"4.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Iliza Shlesinger: Freezing Hot (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '3.5', '111': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"3.5\", \"111\": \"4.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Road Within (2014)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'125': '4.5'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Malibu Bikini Shop (1986)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'382': '1.0'}"}
+                       "movie_ratings": {"S":"{\"382\": \"1.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Tomorrowland (2015)"},
                        "genre": {"S":"Action|Adventure|Children|Mystery|Sci-Fi"},
-                       "movie_ratings": {"S":"{'103': '1.0', '256': '4.0', '298': '0.5', '408': '2.5', '448': '2.0', '534': '4.5', '610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"103\": \"1.0\", \"256\": \"4.0\", \"298\": \"0.5\", \"408\": \"2.5\", \"448\": \"2.0\", \"534\": \"4.5\", \"610\": \"3.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Let It Be Me (1995)"},
                        "genre": {"S":"(no genres listed)"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Buzzard (2015)"},
                        "genre": {"S":"Comedy|Drama|Horror"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Paul Blart: Mall Cop 2 (2015)"},
                        "genre": {"S":"Action|Comedy|Crime"},
-                       "movie_ratings": {"S":"{'21': '2.5', '119': '3.5', '448': '1.5', '534': '3.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"2.5\", \"119\": \"3.5\", \"448\": \"1.5\", \"534\": \"3.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Seve (2014)"},
                        "genre": {"S":"Documentary|Drama"},
-                       "movie_ratings": {"S":"{'448': '5.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"5.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Breathe (2014)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'567': '1.0'}"}
+                       "movie_ratings": {"S":"{\"567\": \"1.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Patlabor 2: The Movie (1993)"},
                        "genre": {"S":"Action|Animation|Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '3.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"3.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Da Sweet Blood of Jesus (2014)"},
                        "genre": {"S":"Comedy|Romance|Thriller"},
-                       "movie_ratings": {"S":"{'89': '4.5', '610': '2.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\", \"610\": \"2.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Longest Ride (2015)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'47': '2.5', '599': '1.0'}"}
+                       "movie_ratings": {"S":"{\"47\": \"2.5\", \"599\": \"1.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Girltrash: All Night Long (2014)"},
                        "genre": {"S":"Comedy|Crime|Drama"},
-                       "movie_ratings": {"S":"{'596': '3.5'}"}
+                       "movie_ratings": {"S":"{\"596\": \"3.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sword of Vengeance (2014)"},
                        "genre": {"S":"Action|Adventure|Drama"},
-                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Lovesick (2014)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Danny Collins (2015)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Even Stevens Movie (2003)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'89': '3.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"3.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Kite (2014)"},
                        "genre": {"S":"Action|Crime|Drama|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Man Up (2015)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'24': '4.0', '563': '3.5'}"}
+                       "movie_ratings": {"S":"{\"24\": \"4.0\", \"563\": \"3.5\"}"}
                    }
                }
            }

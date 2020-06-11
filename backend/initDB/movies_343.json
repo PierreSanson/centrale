@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jetsons: The Movie (1990)"},
                        "genre": {"S":"Animation|Children|Comedy|Musical|Sci-Fi"},
-                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ski School (1991)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"1.5\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dumb and Dumber To (2014)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '2.5', '448': '1.5', '610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"2.5\", \"448\": \"1.5\", \"610\": \"3.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Longest Week (2014)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'448': '1.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Miss Meadows (2014)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Too Many Cooks (2014)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5', '599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\", \"599\": \"1.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Painted Skin (2008)"},
                        "genre": {"S":"Action|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'509': '3.5'}"}
+                       "movie_ratings": {"S":"{\"509\": \"3.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Theory of Everything (2014)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'18': '4.0', '50': '2.0', '62': '4.5', '76': '2.0', '98': '4.0', '105': '4.0', '119': '5.0', '153': '2.5', '177': '3.0', '241': '3.5', '247': '4.0', '256': '4.5', '323': '4.0', '418': '4.5', '448': '3.5', '509': '4.5', '563': '3.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.0\", \"50\": \"2.0\", \"62\": \"4.5\", \"76\": \"2.0\", \"98\": \"4.0\", \"105\": \"4.0\", \"119\": \"5.0\", \"153\": \"2.5\", \"177\": \"3.0\", \"241\": \"3.5\", \"247\": \"4.0\", \"256\": \"4.5\", \"323\": \"4.0\", \"418\": \"4.5\", \"448\": \"3.5\", \"509\": \"4.5\", \"563\": \"3.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: The Time of the Doctor (2013)"},
                        "genre": {"S":"Adventure|Drama"},
-                       "movie_ratings": {"S":"{'210': '4.5', '308': '5.0', '380': '4.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"308\": \"5.0\", \"380\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Virunga (2014)"},
                        "genre": {"S":"Documentary|War"},
-                       "movie_ratings": {"S":"{'318': '4.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Madagascar Penguins in a Christmas Caper (2005)"},
                        "genre": {"S":"Animation|Comedy"},
-                       "movie_ratings": {"S":"{'21': '3.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"3.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Song of the Sea (2014)"},
                        "genre": {"S":"Animation|Children|Fantasy"},
-                       "movie_ratings": {"S":"{'105': '3.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"3.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"In the Heart of the Sea (2015)"},
                        "genre": {"S":"Action|Adventure|Drama"},
-                       "movie_ratings": {"S":"{'125': '3.5', '326': '4.5', '448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"125\": \"3.5\", \"326\": \"4.5\", \"448\": \"2.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hello Ladies: The Movie (2014)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jurassic World (2015)"},
                        "genre": {"S":"Action|Adventure|Drama|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'21': '4.0', '50': '1.5', '68': '4.0', '103': '4.0', '122': '4.0', '249': '3.5', '256': '4.0', '298': '3.0', '305': '3.0', '341': '4.0', '352': '3.0', '380': '3.0', '382': '4.0', '414': '3.5', '448': '2.5', '495': '3.5', '509': '3.5', '525': '3.5', '534': '3.5', '551': '1.0', '563': '3.5', '567': '2.0', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"4.0\", \"50\": \"1.5\", \"68\": \"4.0\", \"103\": \"4.0\", \"122\": \"4.0\", \"249\": \"3.5\", \"256\": \"4.0\", \"298\": \"3.0\", \"305\": \"3.0\", \"341\": \"4.0\", \"352\": \"3.0\", \"380\": \"3.0\", \"382\": \"4.0\", \"414\": \"3.5\", \"448\": \"2.5\", \"495\": \"3.5\", \"509\": \"3.5\", \"525\": \"3.5\", \"534\": \"3.5\", \"551\": \"1.0\", \"563\": \"3.5\", \"567\": \"2.0\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Watermark (2014)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'318': '5.0'}"}
+                       "movie_ratings": {"S":"{\"318\": \"5.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Citizenfour (2014)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'119': '4.0', '227': '4.0', '318': '4.5', '525': '3.0'}"}
+                       "movie_ratings": {"S":"{\"119\": \"4.0\", \"227\": \"4.0\", \"318\": \"4.5\", \"525\": \"3.0\"}"}
                    }
                }
            },
@@ -174,9 +174,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Asterix: The Land of the Gods (Astérix: Le domaine des dieux) (2014)"},
+                       "uuid": {"S":"Asterix: The Land of the Gods (Astï¿½rix: Le domaine des dieux) (2014)"},
                        "genre": {"S":"Animation"},
-                       "movie_ratings": {"S":"{'318': '4.0', '382': '3.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.0\", \"382\": \"3.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hit by Lightning (2014)"},
                        "genre": {"S":"Comedy|Crime|Romance"},
-                       "movie_ratings": {"S":"{'21': '2.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"2.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Horrible Bosses 2 (2014)"},
                        "genre": {"S":"Comedy|Crime"},
-                       "movie_ratings": {"S":"{'21': '3.5', '73': '4.0', '89': '4.0', '111': '3.5', '249': '4.0', '306': '4.0', '365': '3.5', '448': '2.0', '514': '4.0', '564': '5.0', '583': '2.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"3.5\", \"73\": \"4.0\", \"89\": \"4.0\", \"111\": \"3.5\", \"249\": \"4.0\", \"306\": \"4.0\", \"365\": \"3.5\", \"448\": \"2.0\", \"514\": \"4.0\", \"564\": \"5.0\", \"583\": \"2.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Double Trouble (1992)"},
                        "genre": {"S":"Action|Comedy|Crime|Romance"},
-                       "movie_ratings": {"S":"{'599': '1.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"1.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dragonheart 2: A New Beginning (2000)"},
                        "genre": {"S":"Action|Adventure|Comedy|Drama|Fantasy|Thriller"},
-                       "movie_ratings": {"S":"{'210': '4.5'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"La Belle Verte (1996)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Penguins of Madagascar (2014)"},
                        "genre": {"S":"Adventure|Animation|Children|Comedy"},
-                       "movie_ratings": {"S":"{'21': '3.0', '105': '3.5', '111': '3.5', '256': '3.5', '586': '5.0'}"}
+                       "movie_ratings": {"S":"{\"21\": \"3.0\", \"105\": \"3.5\", \"111\": \"3.5\", \"256\": \"3.5\", \"586\": \"5.0\"}"}
                    }
                }
            },
@@ -244,9 +244,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"'71 (2014)"},
+                       "uuid": {"S":"\"71 (2014)"},
                        "genre": {"S":"Action|Drama|Thriller|War"},
-                       "movie_ratings": {"S":"{'610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"4.0\"}"}
                    }
                }
            }

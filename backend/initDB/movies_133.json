@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Drowning by Numbers (1988)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'325': '4.0'}"}
+                       "movie_ratings": {"S":"{\"325\": \"4.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ernest Saves Christmas (1988)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'45': '1.0', '226': '3.5', '448': '1.0', '599': '1.0'}"}
+                       "movie_ratings": {"S":"{\"45\": \"1.0\", \"226\": \"3.5\", \"448\": \"1.0\", \"599\": \"1.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Feds (1988)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"1.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"For Keeps (1988)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'367': '3.0'}"}
+                       "movie_ratings": {"S":"{\"367\": \"3.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Frantic (1988)"},
                        "genre": {"S":"Crime|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'288': '3.0', '599': '3.0', '606': '3.5'}"}
+                       "movie_ratings": {"S":"{\"288\": \"3.0\", \"599\": \"3.0\", \"606\": \"3.5\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Gorillas in the Mist (1988)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'51': '3.5', '140': '3.5', '474': '3.5', '480': '3.5', '489': '4.5', '527': '3.0', '599': '3.0', '606': '3.5'}"}
+                       "movie_ratings": {"S":"{\"51\": \"3.5\", \"140\": \"3.5\", \"474\": \"3.5\", \"480\": \"3.5\", \"489\": \"4.5\", \"527\": \"3.0\", \"599\": \"3.0\", \"606\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Great Outdoors, The (1988)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'42': '5.0', '414': '3.0', '474': '1.5', '561': '3.5', '599': '1.5'}"}
+                       "movie_ratings": {"S":"{\"42\": \"5.0\", \"414\": \"3.0\", \"474\": \"1.5\", \"561\": \"3.5\", \"599\": \"1.5\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"High Spirits (1988)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Johnny Be Good (1988)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'42': '4.0', '414': '2.0'}"}
+                       "movie_ratings": {"S":"{\"42\": \"4.0\", \"414\": \"2.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Lady in White (a.k.a. The Mystery of the Lady in White) (1988)"},
                        "genre": {"S":"Horror|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'367': '3.0', '594': '0.5'}"}
+                       "movie_ratings": {"S":"{\"367\": \"3.0\", \"594\": \"0.5\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Lair of the White Worm (1988)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'3': '5.0', '51': '3.5', '313': '4.0', '387': '2.5'}"}
+                       "movie_ratings": {"S":"{\"3\": \"5.0\", \"51\": \"3.5\", \"313\": \"4.0\", \"387\": \"2.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Land Before Time, The (1988)"},
                        "genre": {"S":"Adventure|Animation|Children|Fantasy"},
-                       "movie_ratings": {"S":"{'20': '3.5', '234': '4.0', '274': '3.0', '318': '4.0', '414': '2.0', '477': '4.0', '479': '4.0', '509': '3.0', '599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"20\": \"3.5\", \"234\": \"4.0\", \"274\": \"3.0\", \"318\": \"4.0\", \"414\": \"2.0\", \"477\": \"4.0\", \"479\": \"4.0\", \"509\": \"3.0\", \"599\": \"2.5\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"License to Drive (1988)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'307': '2.0', '357': '2.5', '414': '2.5'}"}
+                       "movie_ratings": {"S":"{\"307\": \"2.0\", \"357\": \"2.5\", \"414\": \"2.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Little Nikita (1988)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Masquerade (1988)"},
                        "genre": {"S":"Mystery|Romance|Thriller"},
-                       "movie_ratings": {"S":"{'288': '1.0'}"}
+                       "movie_ratings": {"S":"{\"288\": \"1.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Milagro Beanfield War (1988)"},
                        "genre": {"S":"Comedy|Drama|Fantasy"},
-                       "movie_ratings": {"S":"{'325': '4.0', '479': '3.0'}"}
+                       "movie_ratings": {"S":"{\"325\": \"4.0\", \"479\": \"3.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Moon Over Parador (1988)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'414': '3.0'}"}
+                       "movie_ratings": {"S":"{\"414\": \"3.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"My Stepmother Is an Alien (1988)"},
                        "genre": {"S":"Comedy|Romance|Sci-Fi"},
-                       "movie_ratings": {"S":"{'448': '2.0', '474': '1.5', '520': '4.0', '543': '5.0', '580': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\", \"474\": \"1.5\", \"520\": \"4.0\", \"543\": \"5.0\", \"580\": \"3.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Night in the Life of Jimmy Reardon, A (1988)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'387': '2.0', '414': '3.0'}"}
+                       "movie_ratings": {"S":"{\"387\": \"2.0\", \"414\": \"3.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bagdad Cafe (Out of Rosenheim) (1987)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'260': '4.5', '275': '4.0', '603': '3.0', '606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"260\": \"4.5\", \"275\": \"4.0\", \"603\": \"3.0\", \"606\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Red Heat (1988)"},
                        "genre": {"S":"Action"},
-                       "movie_ratings": {"S":"{'249': '3.0', '380': '3.0', '599': '2.0'}"}
+                       "movie_ratings": {"S":"{\"249\": \"3.0\", \"380\": \"3.0\", \"599\": \"2.0\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Return of the Living Dead, The (1985)"},
                        "genre": {"S":"Comedy|Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'274': '3.5', '514': '3.0', '534': '4.5', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"274\": \"3.5\", \"514\": \"3.0\", \"534\": \"4.5\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Return to Snowy River (a.k.a. The Man From Snowy River II) (1988)"},
                        "genre": {"S":"Adventure|Drama|Western"},
-                       "movie_ratings": {"S":"{'140': '3.0', '307': '2.0'}"}
+                       "movie_ratings": {"S":"{\"140\": \"3.0\", \"307\": \"2.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Man from Snowy River, The (1982)"},
                        "genre": {"S":"Drama|Romance|Western"},
-                       "movie_ratings": {"S":"{'140': '5.0', '288': '2.0', '307': '2.5', '367': '4.0'}"}
+                       "movie_ratings": {"S":"{\"140\": \"5.0\", \"288\": \"2.0\", \"307\": \"2.5\", \"367\": \"4.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Running on Empty (1988)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'66': '4.0', '474': '4.5', '503': '4.5'}"}
+                       "movie_ratings": {"S":"{\"66\": \"4.0\", \"474\": \"4.5\", \"503\": \"4.5\"}"}
                    }
                }
            }

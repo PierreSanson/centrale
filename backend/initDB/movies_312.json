@@ -4,9 +4,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Flowers of War, The (Jin líng shí san chai) (2011)"},
+                       "uuid": {"S":"Flowers of War, The (Jin lï¿½ng shï¿½ san chai) (2011)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'339': '4.5'}"}
+                       "movie_ratings": {"S":"{\"339\": \"4.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Intouchables (2011)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'10': '5.0', '41': '4.0', '89': '2.5', '105': '5.0', '119': '4.5', '125': '4.0', '152': '3.0', '153': '3.0', '209': '4.0', '231': '2.0', '233': '3.5', '241': '4.5', '256': '5.0', '300': '4.0', '305': '5.0', '308': '1.0', '326': '5.0', '339': '4.5', '348': '5.0', '417': '5.0', '445': '5.0', '466': '4.5', '471': '4.5', '475': '5.0', '483': '4.5', '487': '3.5', '497': '2.0', '509': '3.5', '511': '5.0', '523': '4.0', '526': '5.0', '543': '5.0', '551': '5.0', '560': '3.0', '563': '3.5', '581': '4.5', '582': '5.0'}"}
+                       "movie_ratings": {"S":"{\"10\": \"5.0\", \"41\": \"4.0\", \"89\": \"2.5\", \"105\": \"5.0\", \"119\": \"4.5\", \"125\": \"4.0\", \"152\": \"3.0\", \"153\": \"3.0\", \"209\": \"4.0\", \"231\": \"2.0\", \"233\": \"3.5\", \"241\": \"4.5\", \"256\": \"5.0\", \"300\": \"4.0\", \"305\": \"5.0\", \"308\": \"1.0\", \"326\": \"5.0\", \"339\": \"4.5\", \"348\": \"5.0\", \"417\": \"5.0\", \"445\": \"5.0\", \"466\": \"4.5\", \"471\": \"4.5\", \"475\": \"5.0\", \"483\": \"4.5\", \"487\": \"3.5\", \"497\": \"2.0\", \"509\": \"3.5\", \"511\": \"5.0\", \"523\": \"4.0\", \"526\": \"5.0\", \"543\": \"5.0\", \"551\": \"5.0\", \"560\": \"3.0\", \"563\": \"3.5\", \"581\": \"4.5\", \"582\": \"5.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"One for the Money (2012)"},
                        "genre": {"S":"Action|Comedy|Crime"},
-                       "movie_ratings": {"S":"{'111': '3.0', '448': '1.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"3.0\", \"448\": \"1.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Innkeepers, The (2011)"},
                        "genre": {"S":"Horror|Thriller"},
-                       "movie_ratings": {"S":"{'599': '1.5', '610': '4.0'}"}
+                       "movie_ratings": {"S":"{\"599\": \"1.5\", \"610\": \"4.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Puss in Boots (Nagagutsu o haita neko) (1969)"},
                        "genre": {"S":"Adventure|Animation|Children|Comedy|Fantasy|Romance"},
-                       "movie_ratings": {"S":"{'432': '4.0'}"}
+                       "movie_ratings": {"S":"{\"432\": \"4.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Grave Encounters (2011)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'306': '2.0', '432': '4.0', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"306\": \"2.0\", \"432\": \"4.0\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Chronicle (2012)"},
                        "genre": {"S":"Action|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'68': '2.0', '125': '4.5', '249': '4.5', '298': '3.0', '305': '4.0', '365': '0.5', '448': '3.5', '610': '5.0'}"}
+                       "movie_ratings": {"S":"{\"68\": \"2.0\", \"125\": \"4.5\", \"249\": \"4.5\", \"298\": \"3.0\", \"305\": \"4.0\", \"365\": \"0.5\", \"448\": \"3.5\", \"610\": \"5.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Woman in Black, The (2012)"},
                        "genre": {"S":"Drama|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'318': '4.0', '351': '3.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.0\", \"351\": \"3.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Woman in Love (Rubbeldiekatz) (2011)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'50': '1.0'}"}
+                       "movie_ratings": {"S":"{\"50\": \"1.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Art of Getting By, The (2011)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'212': '4.0', '448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"212\": \"4.0\", \"448\": \"2.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"All Watched Over by Machines of Loving Grace (2011)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'50': '4.0', '318': '4.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"4.0\", \"318\": \"4.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Dylan Moran: Monster (2004)"},
                        "genre": {"S":"Comedy|Documentary"},
-                       "movie_ratings": {"S":"{'63': '5.0'}"}
+                       "movie_ratings": {"S":"{\"63\": \"5.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Safe House (2012)"},
                        "genre": {"S":"Action|Crime|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'249': '3.5', '305': '4.0', '448': '2.5', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"249\": \"3.5\", \"305\": \"4.0\", \"448\": \"2.5\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Vow, The (2012)"},
                        "genre": {"S":"Drama|Romance"},
-                       "movie_ratings": {"S":"{'73': '3.5', '503': '1.5', '509': '3.0'}"}
+                       "movie_ratings": {"S":"{\"73\": \"3.5\", \"503\": \"1.5\", \"509\": \"3.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Louis C.K.: Live at the Beacon Theater (2011)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'63': '5.0', '105': '4.5', '122': '5.0', '280': '4.0', '298': '4.0', '415': '4.5', '487': '1.0', '495': '5.0', '522': '5.0', '573': '5.0'}"}
+                       "movie_ratings": {"S":"{\"63\": \"5.0\", \"105\": \"4.5\", \"122\": \"5.0\", \"280\": \"4.0\", \"298\": \"4.0\", \"415\": \"4.5\", \"487\": \"1.0\", \"495\": \"5.0\", \"522\": \"5.0\", \"573\": \"5.0\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Pitfall (Otoshiana) (1962)"},
                        "genre": {"S":"Crime|Drama|Fantasy"},
-                       "movie_ratings": {"S":"{'318': '3.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"3.5\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Monsieur Lazhar (2011)"},
                        "genre": {"S":"Children|Comedy|Drama"},
-                       "movie_ratings": {"S":"{'89': '5.0', '483': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\", \"483\": \"4.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"For a Good Time, Call... (2012)"},
                        "genre": {"S":"Comedy|Drama|Romance"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Janie Jones (2010)"},
                        "genre": {"S":"Drama|Musical"},
-                       "movie_ratings": {"S":"{'599': '2.5'}"}
+                       "movie_ratings": {"S":"{\"599\": \"2.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Journey 2: The Mysterious Island (2012)"},
                        "genre": {"S":"Action|Adventure|Comedy|Sci-Fi|IMAX"},
-                       "movie_ratings": {"S":"{'567': '0.5'}"}
+                       "movie_ratings": {"S":"{\"567\": \"0.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Perfect Sense (2011)"},
                        "genre": {"S":"Drama|Romance|Sci-Fi"},
-                       "movie_ratings": {"S":"{'125': '4.5', '560': '4.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.5\", \"560\": \"4.0\"}"}
                    }
                }
            },
@@ -214,9 +214,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Rollo and the Woods Sprite (Rölli ja metsänhenki) (2001)"},
+                       "uuid": {"S":"Rollo and the Woods Sprite (Rï¿½lli ja metsï¿½nhenki) (2001)"},
                        "genre": {"S":"Children|Fantasy"},
-                       "movie_ratings": {"S":"{'489': '2.0'}"}
+                       "movie_ratings": {"S":"{\"489\": \"2.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Atomic Brain, The (1963)"},
                        "genre": {"S":"Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'377': '3.5'}"}
+                       "movie_ratings": {"S":"{\"377\": \"3.5\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ghost Rider: Spirit of Vengeance (2012)"},
                        "genre": {"S":"Action|Fantasy|Thriller"},
-                       "movie_ratings": {"S":"{'332': '2.0', '380': '2.0', '489': '0.5', '567': '1.5', '596': '2.0'}"}
+                       "movie_ratings": {"S":"{\"332\": \"2.0\", \"380\": \"2.0\", \"489\": \"0.5\", \"567\": \"1.5\", \"596\": \"2.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Prayers for Bobby (2009)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'596': '3.5'}"}
+                       "movie_ratings": {"S":"{\"596\": \"3.5\"}"}
                    }
                }
            }

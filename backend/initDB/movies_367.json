@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Parasyte: Part 1 (2014)"},
                        "genre": {"S":"Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'125': '4.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Parasyte: Part 2 (2015)"},
                        "genre": {"S":"Horror|Sci-Fi"},
-                       "movie_ratings": {"S":"{'125': '4.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"A Cosmic Christmas (1977)"},
                        "genre": {"S":"(no genres listed)"},
-                       "movie_ratings": {"S":"{'514': '4.0'}"}
+                       "movie_ratings": {"S":"{\"514\": \"4.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Nocturnal Animals"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'306': '3.0'}"}
+                       "movie_ratings": {"S":"{\"306\": \"3.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Lumberjack Man (2015)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -54,9 +54,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Daddy's Home (2015)"},
+                       "uuid": {"S":"Daddy\"s Home (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'89': '1.5', '111': '4.0', '249': '3.5', '298': '0.5', '365': '2.5', '564': '4.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"1.5\", \"111\": \"4.0\", \"249\": \"3.5\", \"298\": \"0.5\", \"365\": \"2.5\", \"564\": \"4.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sisters (2015)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'73': '2.0', '111': '4.0', '125': '3.0', '298': '0.5', '365': '2.0', '448': '2.0', '583': '4.0'}"}
+                       "movie_ratings": {"S":"{\"73\": \"2.0\", \"111\": \"4.0\", \"125\": \"3.0\", \"298\": \"0.5\", \"365\": \"2.0\", \"448\": \"2.0\", \"583\": \"4.0\"}"}
                    }
                }
            },
@@ -74,9 +74,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"'Tis the Season for Love (2015)"},
+                       "uuid": {"S":"\"Tis the Season for Love (2015)"},
                        "genre": {"S":"Romance"},
-                       "movie_ratings": {"S":"{'21': '1.5'}"}
+                       "movie_ratings": {"S":"{\"21\": \"1.5\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Kung Fu Panda 3 (2016)"},
                        "genre": {"S":"Action|Adventure|Animation"},
-                       "movie_ratings": {"S":"{'50': '2.0', '89': '4.0', '448': '3.0', '561': '3.5', '567': '2.0', '586': '5.0', '596': '4.0', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"2.0\", \"89\": \"4.0\", \"448\": \"3.0\", \"561\": \"3.5\", \"567\": \"2.0\", \"586\": \"5.0\", \"596\": \"4.0\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Spellbound (2011)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Unicorn City (2012)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Standoff (2016)"},
                        "genre": {"S":"Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Swelter (2014)"},
                        "genre": {"S":"Action|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Pride and Prejudice and Zombies (2016)"},
                        "genre": {"S":"Comedy|Horror|Romance|Thriller"},
-                       "movie_ratings": {"S":"{'125': '4.5'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.5\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Garm Wars: The Last Druid (2014)"},
                        "genre": {"S":"Action|Sci-Fi|Thriller"},
-                       "movie_ratings": {"S":"{'125': '2.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"2.0\"}"}
                    }
                }
            },
@@ -154,9 +154,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"The Devil's Candy (2015)"},
+                       "uuid": {"S":"The Devil\"s Candy (2015)"},
                        "genre": {"S":"Horror"},
-                       "movie_ratings": {"S":"{'567': '2.0'}"}
+                       "movie_ratings": {"S":"{\"567\": \"2.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Close Range (2015)"},
                        "genre": {"S":"Action|Crime"},
-                       "movie_ratings": {"S":"{'448': '3.0', '610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"3.0\", \"610\": \"3.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Sherlock: The Abominable Bride (2016)"},
                        "genre": {"S":"Action|Crime|Drama|Mystery|Thriller"},
-                       "movie_ratings": {"S":"{'18': '4.0', '41': '1.0', '62': '5.0', '105': '5.0', '111': '4.5', '212': '3.0', '414': '4.0', '523': '5.0', '564': '3.5', '596': '3.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.0\", \"41\": \"1.0\", \"62\": \"5.0\", \"105\": \"5.0\", \"111\": \"4.5\", \"212\": \"3.0\", \"414\": \"4.0\", \"523\": \"5.0\", \"564\": \"3.5\", \"596\": \"3.5\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Love Bug (1997)"},
                        "genre": {"S":"Adventure|Children|Comedy|Fantasy"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Doctor Who: The Husbands of River Song (2015)"},
                        "genre": {"S":"Comedy|Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'210': '4.5', '380': '4.0'}"}
+                       "movie_ratings": {"S":"{\"210\": \"4.5\", \"380\": \"4.0\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Moonwalkers (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'448': '2.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Tomorrow (2015)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'318': '4.5'}"}
+                       "movie_ratings": {"S":"{\"318\": \"4.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Anacleto: Agente secreto (2015)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'534': '4.0'}"}
+                       "movie_ratings": {"S":"{\"534\": \"4.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Wiener-Dog (2016)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'462': '3.0'}"}
+                       "movie_ratings": {"S":"{\"462\": \"3.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ride Along 2 (2016)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'448': '1.5', '564': '4.0', '567': '0.5'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.5\", \"564\": \"4.0\", \"567\": \"0.5\"}"}
                    }
                }
            }

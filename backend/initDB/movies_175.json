@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Animals are Beautiful People (1974)"},
                        "genre": {"S":"Comedy|Documentary"},
-                       "movie_ratings": {"S":"{'398': '5.0'}"}
+                       "movie_ratings": {"S":"{\"398\": \"5.0\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Car Wash (1976)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'310': '4.5', '448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"310\": \"4.5\", \"448\": \"3.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Destry Rides Again (1939)"},
                        "genre": {"S":"Comedy|Western"},
-                       "movie_ratings": {"S":"{'177': '4.0', '474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"177\": \"4.0\", \"474\": \"3.5\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Intervista (1987)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'606': '4.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"4.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Live Wire (1992)"},
                        "genre": {"S":"Action"},
-                       "movie_ratings": {"S":"{'594': '4.0'}"}
+                       "movie_ratings": {"S":"{\"594\": \"4.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Shenandoah (1965)"},
                        "genre": {"S":"Drama|War|Western"},
-                       "movie_ratings": {"S":"{'474': '4.0'}"}
+                       "movie_ratings": {"S":"{\"474\": \"4.0\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Oscar (1991)"},
                        "genre": {"S":"Comedy|Crime|Mystery|Romance"},
-                       "movie_ratings": {"S":"{'448': '1.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"1.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"6th Man, The (Sixth Man, The) (1997)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'217': '2.0', '307': '1.0'}"}
+                       "movie_ratings": {"S":"{\"217\": \"2.0\", \"307\": \"1.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Railway Children, The (1970)"},
                        "genre": {"S":"Children|Drama"},
-                       "movie_ratings": {"S":"{'448': '4.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"4.0\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Two Mules for Sister Sara (1970)"},
                        "genre": {"S":"Comedy|War|Western"},
-                       "movie_ratings": {"S":"{'28': '3.0', '448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"28\": \"3.0\", \"448\": \"3.0\"}"}
                    }
                }
            },
@@ -104,9 +104,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Winchester '73 (1950)"},
+                       "uuid": {"S":"Winchester \"73 (1950)"},
                        "genre": {"S":"Western"},
-                       "movie_ratings": {"S":"{'177': '4.0'}"}
+                       "movie_ratings": {"S":"{\"177\": \"4.0\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Man with the Movie Camera, The (Chelovek s kino-apparatom) (1929)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'105': '5.0', '387': '3.0', '474': '2.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\", \"387\": \"3.0\", \"474\": \"2.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Objective, Burma! (1945)"},
                        "genre": {"S":"War"},
-                       "movie_ratings": {"S":"{'474': '3.0'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.0\"}"}
                    }
                }
            },
@@ -134,9 +134,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"This Boy's Life (1993)"},
+                       "uuid": {"S":"This Boy\"s Life (1993)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'480': '4.5', '599': '2.5', '606': '3.0'}"}
+                       "movie_ratings": {"S":"{\"480\": \"4.5\", \"599\": \"2.5\", \"606\": \"3.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Barton Fink (1991)"},
                        "genre": {"S":"Drama|Thriller"},
-                       "movie_ratings": {"S":"{'18': '4.5', '23': '5.0', '74': '3.5', '103': '4.5', '182': '4.5', '187': '4.0', '298': '3.0', '318': '3.5', '387': '3.5', '462': '4.0', '474': '3.5', '599': '4.5', '606': '4.0', '610': '4.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.5\", \"23\": \"5.0\", \"74\": \"3.5\", \"103\": \"4.5\", \"182\": \"4.5\", \"187\": \"4.0\", \"298\": \"3.0\", \"318\": \"3.5\", \"387\": \"3.5\", \"462\": \"4.0\", \"474\": \"3.5\", \"599\": \"4.5\", \"606\": \"4.0\", \"610\": \"4.5\"}"}
                    }
                }
            },
@@ -154,9 +154,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Belle époque (1992)"},
+                       "uuid": {"S":"Belle ï¿½poque (1992)"},
                        "genre": {"S":"Comedy|Romance"},
-                       "movie_ratings": {"S":"{'414': '5.0', '483': '5.0'}"}
+                       "movie_ratings": {"S":"{\"414\": \"5.0\", \"483\": \"5.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Flight of the Phoenix, The (1965)"},
                        "genre": {"S":"Action|Adventure|Drama"},
-                       "movie_ratings": {"S":"{'140': '4.0', '590': '4.0'}"}
+                       "movie_ratings": {"S":"{\"140\": \"4.0\", \"590\": \"4.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"From the Terrace (1960)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'606': '3.0'}"}
+                       "movie_ratings": {"S":"{\"606\": \"3.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Long, Hot Summer, The (1958)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'309': '4.0'}"}
+                       "movie_ratings": {"S":"{\"309\": \"4.0\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Man of Aran (1934)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'289': '3.5'}"}
+                       "movie_ratings": {"S":"{\"289\": \"3.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Music Box (1989)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'474': '3.5'}"}
+                       "movie_ratings": {"S":"{\"474\": \"3.5\"}"}
                    }
                }
            },
@@ -214,9 +214,9 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"Trial, The (Procès, Le) (1962)"},
+                       "uuid": {"S":"Trial, The (Procï¿½s, Le) (1962)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'59': '5.0', '156': '5.0', '330': '4.5', '410': '5.0', '469': '5.0'}"}
+                       "movie_ratings": {"S":"{\"59\": \"5.0\", \"156\": \"5.0\", \"330\": \"4.5\", \"410\": \"5.0\", \"469\": \"5.0\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Unforgiven, The (1960)"},
                        "genre": {"S":"Drama|Western"},
-                       "movie_ratings": {"S":"{'91': '3.5', '140': '4.5', '221': '5.0', '311': '4.0', '387': '3.0', '580': '3.0'}"}
+                       "movie_ratings": {"S":"{\"91\": \"3.5\", \"140\": \"4.5\", \"221\": \"5.0\", \"311\": \"4.0\", \"387\": \"3.0\", \"580\": \"3.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Good Burger (1997)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'88': '0.5', '274': '3.5'}"}
+                       "movie_ratings": {"S":"{\"88\": \"0.5\", \"274\": \"3.5\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Jubilee (1977)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'387': '3.0'}"}
+                       "movie_ratings": {"S":"{\"387\": \"3.0\"}"}
                    }
                }
            }

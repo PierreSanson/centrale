@@ -13,7 +13,7 @@ module.exports.handle = async event => {
         type: 'movie',
         uuid: data.uuid,
         genre: data.genre,
-        ratings: null,
+        movie_ratings: null,
     }
 
     await dynamoDb.put({

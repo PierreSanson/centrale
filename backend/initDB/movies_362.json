@@ -6,7 +6,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"12 Chairs (1971)"},
                        "genre": {"S":"Adventure|Comedy"},
-                       "movie_ratings": {"S":"{'105': '4.5'}"}
+                       "movie_ratings": {"S":"{\"105\": \"4.5\"}"}
                    }
                }
            },
@@ -16,7 +16,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Steve Jobs: The Man in the Machine (2015)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'601': '4.0'}"}
+                       "movie_ratings": {"S":"{\"601\": \"4.0\"}"}
                    }
                }
            },
@@ -26,7 +26,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Green Room (2015)"},
                        "genre": {"S":"(no genres listed)"},
-                       "movie_ratings": {"S":"{'560': '4.0', '567': '3.0', '599': '3.0'}"}
+                       "movie_ratings": {"S":"{\"560\": \"4.0\", \"567\": \"3.0\", \"599\": \"3.0\"}"}
                    }
                }
            },
@@ -36,7 +36,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Beasts of No Nation (2015)"},
                        "genre": {"S":"Drama|War"},
-                       "movie_ratings": {"S":"{'339': '3.0', '567': '3.0'}"}
+                       "movie_ratings": {"S":"{\"339\": \"3.0\", \"567\": \"3.0\"}"}
                    }
                }
            },
@@ -46,7 +46,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Bloodsucking Bastards (2015)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -56,7 +56,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Saving Christmas (2014)"},
                        "genre": {"S":"Children|Comedy"},
-                       "movie_ratings": {"S":"{'514': '0.5'}"}
+                       "movie_ratings": {"S":"{\"514\": \"0.5\"}"}
                    }
                }
            },
@@ -66,7 +66,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Oscar (1967)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'105': '5.0'}"}
+                       "movie_ratings": {"S":"{\"105\": \"5.0\"}"}
                    }
                }
            },
@@ -76,7 +76,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Iron Man & Hulk: Heroes United (2013)"},
                        "genre": {"S":"Action|Adventure|Animation"},
-                       "movie_ratings": {"S":"{'550': '3.0'}"}
+                       "movie_ratings": {"S":"{\"550\": \"3.0\"}"}
                    }
                }
            },
@@ -86,7 +86,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Knock Knock (2015)"},
                        "genre": {"S":"Crime|Horror|Thriller"},
-                       "movie_ratings": {"S":"{'50': '1.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"1.5\"}"}
                    }
                }
            },
@@ -96,7 +96,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Blue Planet (2001)"},
                        "genre": {"S":"Documentary"},
-                       "movie_ratings": {"S":"{'251': '5.0', '525': '4.5'}"}
+                       "movie_ratings": {"S":"{\"251\": \"5.0\", \"525\": \"4.5\"}"}
                    }
                }
            },
@@ -106,7 +106,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cornered! (2009)"},
                        "genre": {"S":"Comedy|Horror"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            },
@@ -116,7 +116,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Demolition (2016)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'62': '4.0', '125': '4.0', '365': '1.5', '448': '3.0'}"}
+                       "movie_ratings": {"S":"{\"62\": \"4.0\", \"125\": \"4.0\", \"365\": \"1.5\", \"448\": \"3.0\"}"}
                    }
                }
            },
@@ -126,7 +126,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Cigarette Burns (2005)"},
                        "genre": {"S":"Horror|Thriller"},
-                       "movie_ratings": {"S":"{'610': '3.0'}"}
+                       "movie_ratings": {"S":"{\"610\": \"3.0\"}"}
                    }
                }
            },
@@ -136,7 +136,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Our Brand Is Crisis (2015)"},
                        "genre": {"S":"Comedy|Drama"},
-                       "movie_ratings": {"S":"{'382': '3.5', '448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"382\": \"3.5\", \"448\": \"2.0\"}"}
                    }
                }
            },
@@ -146,7 +146,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"High Rise (2015)"},
                        "genre": {"S":"Action|Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'125': '2.5', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"125\": \"2.5\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -156,7 +156,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Night Before (2015)"},
                        "genre": {"S":"Comedy"},
-                       "movie_ratings": {"S":"{'111': '4.5', '125': '4.0', '249': '3.5', '365': '5.0'}"}
+                       "movie_ratings": {"S":"{\"111\": \"4.5\", \"125\": \"4.0\", \"249\": \"3.5\", \"365\": \"5.0\"}"}
                    }
                }
            },
@@ -166,7 +166,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Into the Forest (2015)"},
                        "genre": {"S":"Drama|Sci-Fi"},
-                       "movie_ratings": {"S":"{'448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"448\": \"2.0\"}"}
                    }
                }
            },
@@ -176,7 +176,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Editor (2015)"},
                        "genre": {"S":"Comedy|Horror|Mystery"},
-                       "movie_ratings": {"S":"{'89': '5.0'}"}
+                       "movie_ratings": {"S":"{\"89\": \"5.0\"}"}
                    }
                }
            },
@@ -186,7 +186,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Everest (2015)"},
                        "genre": {"S":"Adventure|Drama|Thriller"},
-                       "movie_ratings": {"S":"{'50': '2.0', '305': '3.0', '326': '4.0', '339': '4.0', '448': '3.0', '567': '2.5'}"}
+                       "movie_ratings": {"S":"{\"50\": \"2.0\", \"305\": \"3.0\", \"326\": \"4.0\", \"339\": \"4.0\", \"448\": \"3.0\", \"567\": \"2.5\"}"}
                    }
                }
            },
@@ -196,7 +196,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"The Brand New Testament (2015)"},
                        "genre": {"S":"(no genres listed)"},
-                       "movie_ratings": {"S":"{'125': '4.5', '318': '3.5'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.5\", \"318\": \"3.5\"}"}
                    }
                }
            },
@@ -206,7 +206,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Spotlight (2015)"},
                        "genre": {"S":"Thriller"},
-                       "movie_ratings": {"S":"{'18': '4.5', '68': '4.5', '119': '4.5', '153': '3.5', '184': '4.5', '196': '5.0', '247': '5.0', '249': '4.5', '305': '3.0', '326': '4.5', '414': '5.0', '462': '4.5', '495': '5.0', '514': '4.0', '525': '3.5', '567': '2.5', '596': '4.0', '599': '3.5', '610': '3.5'}"}
+                       "movie_ratings": {"S":"{\"18\": \"4.5\", \"68\": \"4.5\", \"119\": \"4.5\", \"153\": \"3.5\", \"184\": \"4.5\", \"196\": \"5.0\", \"247\": \"5.0\", \"249\": \"4.5\", \"305\": \"3.0\", \"326\": \"4.5\", \"414\": \"5.0\", \"462\": \"4.5\", \"495\": \"5.0\", \"514\": \"4.0\", \"525\": \"3.5\", \"567\": \"2.5\", \"596\": \"4.0\", \"599\": \"3.5\", \"610\": \"3.5\"}"}
                    }
                }
            },
@@ -216,7 +216,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Pawn Sacrifice (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'567': '2.5'}"}
+                       "movie_ratings": {"S":"{\"567\": \"2.5\"}"}
                    }
                }
            },
@@ -226,7 +226,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Hardcore Henry (2015)"},
                        "genre": {"S":"Action|Adventure|Sci-Fi"},
-                       "movie_ratings": {"S":"{'125': '4.5', '414': '3.0'}"}
+                       "movie_ratings": {"S":"{\"125\": \"4.5\", \"414\": \"3.0\"}"}
                    }
                }
            },
@@ -236,7 +236,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Burnt (2015)"},
                        "genre": {"S":"Drama"},
-                       "movie_ratings": {"S":"{'21': '2.5', '298': '1.5', '448': '2.0'}"}
+                       "movie_ratings": {"S":"{\"21\": \"2.5\", \"298\": \"1.5\", \"448\": \"2.0\"}"}
                    }
                }
            },
@@ -246,7 +246,7 @@
                        "type": {"S":"movie"},
                        "uuid": {"S":"Ryuzo and the Seven Henchmen (2015)"},
                        "genre": {"S":"Action|Comedy"},
-                       "movie_ratings": {"S":"{'89': '4.5'}"}
+                       "movie_ratings": {"S":"{\"89\": \"4.5\"}"}
                    }
                }
            }
