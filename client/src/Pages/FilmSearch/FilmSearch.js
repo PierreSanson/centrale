@@ -30,7 +30,7 @@ const FilmSearch = () => {
     fetchExample();
   }, [fetchAgain]);
 
-    const Name_Year = item.Title+' ('+item.Year+')'
+    const sendDB = async (event) => {
     await fetch("https://mev5r38l16.execute-api.eu-west-1.amazonaws.com/dev/movies", {
       method: "post",
       body: JSON.stringify({ 'Name_Year': item.Title + ' (' + item.Year + ')', "genre": item.Genre }),
