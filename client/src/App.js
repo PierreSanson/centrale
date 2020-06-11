@@ -5,6 +5,7 @@ import FilmList from "./Pages/FilmList/FilmList";
 import FilmPage from "./Pages/FilmPage/FilmPage";
 import FilmSearch from "./Pages/FilmSearch/FilmSearch";
 import SuggestionPage from "./Pages/SuggestionPage/SuggestionPage";
+import MyRatingsPage from "./Pages/MyRatingsPage/MyRatingsPage";
 import "./App.css"
 
 function App() {
@@ -58,6 +59,7 @@ function App() {
             <Link className="page-link" to="/films">Liste des films</Link>
             <Link className="page-link" to="/searchandadd">Recherche films</Link>
             {user ? <Link className="page-link" to="/recommendations">Mes recommendations</Link> : null}
+            {user ? <Link className="page-link" to="/ratings">Mes notes</Link> : null}
             <div>
               <select
                 value={(user || { uuid: "" }).uuid}
@@ -89,6 +91,7 @@ function App() {
           <Route exact path="/films/:filmId" render={(props) => <FilmPage {...props} user={user} updateNote={updateNote} />} />
           <Route exact path="/films" render={(props) => <FilmList {...props} />} />
           <Route exact path="/recommendations" render={(props) => <SuggestionPage {...props} user={user} />} />
+          <Route exact path="/ratings" render={(props) => <MyRatingsPage {...props} user={user} />} />
           <Route exact path="/searchandadd">
             <FilmSearch />
           </Route>
