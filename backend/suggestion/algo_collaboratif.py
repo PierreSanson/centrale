@@ -27,6 +27,9 @@ def suggestion(current_user,dic_users): #utilisateur courant, dictionnaires, lis
     #Transformer les notes de str en float
     dic_users=str_to_float(dic_users)
 
+    #Moyenne du l'utilisateur courant qui servira à la fin
+    moy_current_user=moy_user=moy_dic(dic_users[current_user])
+
     #Créer la liste des films
     dic_movies={}
     for user in dic_users :
@@ -62,12 +65,20 @@ def suggestion(current_user,dic_users): #utilisateur courant, dictionnaires, lis
 
     #Sélection des meilleurs films pour l'user courant
     recommandations={}
-    somme=sum(abs(voisins[user]) for user in voisins)
     for movie in [movie for movie in dic_users[current_user] if dic_users[current_user][movie]==0]:
+        somme=0
         recommandations[movie]=0
         for user in voisins:
-            recommandations[movie]+=voisins[user]*dic_users[user][movie]
-        recommandations[movie]/=somme
+            if dic_users[user][movie]!=0:
+                recommandations[movie]+=voisins[user]*dic_users[user][movie]
+                print(recommandations[movie])
+                somme+=abs(voisins[user])
+        if somme!=0:
+            print(recommandations[movie])
+            print(somme)
+            recommandations[movie]=moy_current_user+recommandations[movie]/somme
+        else:
+            recommandations[movie]=0
 
     #Sélectionner des films recommandés : trier recommandations par score décroissante et en garder que 10 par ex
     meilleures_recommandations=meilleur_score(recommandations,10)
@@ -79,13 +90,15 @@ def suggestion(current_user,dic_users): #utilisateur courant, dictionnaires, lis
         result['score'].append(meilleures_recommandations[movie])
     result=pd.DataFrame(result)
 
-    print('je suis là')
     #Créer objet de type JSON
-    result.to_json ('.\Export_DataFrame.json')
+    result.to_json ('.\Collaboratif_p.json')
 
     return result
 
 
-dic_users['jo']={'Howl`s Moving Castle (Hauru no ugoku shiro) (2004)':'3','WALL·E (2008)':'4','Iron Man (2008)':'3','My Neighbor Totoro (Tonari no Totoro) (1988)':'3','Amelie (Fabuleux destin d`Amélie Poulain, Le) (2001)':'3.5','Inception (2010)':'5','Toy Story (1995)':'4.5','Prestige, The (2006)':'5','Mask, The (1994)':'3','Back to the Future Part III (1990)':'4','Django Unchained (2012)':'3','Spirited Away (Sen to Chihiro no kamikakushi) (2001)':'5','Pirates of the Caribbean: The Curse of the Black Pearl (2003)':'5'}
-dic_users['bb']={'The Lego Batman Movie (2017)':'3.5','The Boss Baby (2017)':'4.5','Princess and the Frog, The (2009)':'5','Princess Diaries 2: Royal Engagement, The (2004)':'3.5','Finding Nemo (2003)':'4','WALL·E (2008)':'4',}
-print(suggestion("bb",dic_users))
+dic_users['victor']={'Howl`s Moving Castle (Hauru no ugoku shiro) (2004)':'3','Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko) (1994)':'4.5','My Neighbor Totoro (Tonari no Totoro) (1988)':'4','Spirited Away (Sen to Chihiro no kamikakushi) (2001)':'5','Your Name. (2016)':'5',"Kiki's Delivery Service (Majo no takkyûbin) (1989)":'3.5'}
+dic_users['josephine']={'The Boss Baby (2017)':'4.5','Coco (2017)':'3.5',  'Shrek the Third (2007)':'4.5','Incredibles 2 (2018)':'4','Princess and the Frog, The (2009)':'5','Finding Nemo (2003)':'4','WALL·E (2008)':'4'}
+dic_users['pierre']={'Spider-Man 2 (2004)':'4','Inception (2010)':'4','Captain America: The First Avenger (2011)':'3.5','Superman/Batman: Public Enemies (2009)':'2','Star Wars: The Last Jedi (2017)':'4.5', 'Matrix Reloaded, The (2003)':'4','Lord of the Rings: The Return of the King, The (2003)':'3','Avengers: Infinity War - Part I (2018)':'5', 'Iron Man 3 (2013)':'3.5','Thor: Ragnarok (2017)':'5'}
+# print(suggestion("pierre",dic_users))
+
+
