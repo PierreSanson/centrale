@@ -19,6 +19,8 @@ module.exports.handle = async event => {
         FilterExpression: 'real_user = :true',
     }).promise();
 
+    console.log(result)
+
     return {
         statusCode: 200,
         headers: {
