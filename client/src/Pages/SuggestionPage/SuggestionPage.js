@@ -13,7 +13,7 @@ const SuggestionPage = (props) => {
     <div className="content">
       <div className="filmlist-header">
         <div className="page-header">
-          >Mes recommendations
+          >Mes recommandations
         </div>
         <div className="page-body">
           <div className="films-container">

@@ -57,8 +57,8 @@ function App() {
           <div className="links-container">
             <Link className="page-link" to="/">Accueil</Link>
             <Link className="page-link" to="/films">Liste des films</Link>
-            <Link className="page-link" to="/searchandadd">Recherche films</Link>
-            {user ? <Link className="page-link" to="/recommendations">Mes recommendations</Link> : null}
+            <Link className="page-link" to="/searchandadd">Ajout de films</Link>
+            {user ? <Link className="page-link" to="/recommendations">Mes recommandations</Link> : null}
             {user ? <Link className="page-link" to="/ratings">Mes notes</Link> : null}
             <div>
               <select

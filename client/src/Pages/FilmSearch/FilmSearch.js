@@ -85,7 +85,7 @@ const FilmSearch = () => {
 
   return (
     <div className="content">
-      <div className="page-header">>Recherche de film</div>
+      <div className="page-header">>Ajout de films</div>
       <div className="search-bar">
         <div className="search-title">Titre (requis) :</div>
         <input className="search-zone" type="text" id="name" name="name"></input>
