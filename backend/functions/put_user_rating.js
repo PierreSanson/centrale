@@ -65,6 +65,17 @@ module.exports.handle = async event => {
     final_user_ratings = JSON.stringify(final_user_ratings)
     user_item.Item.user_ratings = final_user_ratings
 
+    
+    const old_rated_movies = user_item.Item.rated_movies
+    if(old_rated_movies.includes(movieID)){
+        user_item.Item.rated_movies = old_rated_movies
+    }else{
+        let new_rated_movies = old_rated_movies + ";" + movieID
+        user_item.Item.rated_movies = new_rated_movies
+    }
+    
+
+
     // On finit par remplacer les anciennes données par les données avec les notes actualisées
     await dynamoDb.put({
         TableName: process.env.tableName,

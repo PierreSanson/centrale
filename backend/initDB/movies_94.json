@@ -34,7 +34,7 @@
                "PutRequest": {
                    "Item": {
                        "type": {"S":"movie"},
-                       "uuid": {"S":"\"night Mother (1986)"},
+                       "uuid": {"S":"'night Mother (1986)"},
                        "genre": {"S":"Drama"},
                        "movie_ratings": {"S":"{\"474\": \"3.0\"}"}
                    }

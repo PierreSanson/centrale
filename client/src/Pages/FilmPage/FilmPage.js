@@ -9,7 +9,7 @@ const FilmPage = (props) => {
   const fetchAvgRating = async () => {
     console.log("je fetch l'avg")
     console.log(filmId)
-    const response = await fetch("https://mev5r38l16.execute-api.eu-west-1.amazonaws.com/dev/average", {
+    const response = await fetch("https://nfy6mb7k13.execute-api.eu-west-1.amazonaws.com/dev/average", {
       method: "post",
       body: filmId
     });

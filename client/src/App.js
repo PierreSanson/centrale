@@ -13,7 +13,7 @@ function App() {
   const [usersList, setUsersList] = useState([]);
 
   const fetchUsersList = async () => {
-    const response = await fetch("https://mev5r38l16.execute-api.eu-west-1.amazonaws.com/dev/users");
+    const response = await fetch("https://nfy6mb7k13.execute-api.eu-west-1.amazonaws.com/dev/users");
     const responseJson = await response.json();
     setUsersList(responseJson);
     if (user) {
@@ -36,7 +36,7 @@ function App() {
   };
 
   const updateNote = async (movieID, rating) => {
-    await fetch("https://mev5r38l16.execute-api.eu-west-1.amazonaws.com/dev/users", {
+    await fetch("https://nfy6mb7k13.execute-api.eu-west-1.amazonaws.com/dev/users", {
       method: "put",
       body: JSON.stringify({
         userID: user.uuid,

@@ -20,16 +20,15 @@ const SuggestionPage = (props) => {
             <div className="title-suggestion">
             Les films que j'ai notés :
             </div>
-            {user.user_ratings.slice(1,-1).split(',')
-              .slice(0, 10)
+            {user.rated_movies.split(';')
               .map((film) => (
                 <Link
-                  to={`/films/${film.slice(1,-7)}`}
+                  to={`/films/${film}`}
                   key={film.uuid}
                   className="filmlink"
                 >
                   <div className="film-box">
-                    {film.slice(1,-7)}
+                    {film}
                   </div>
                 </Link>
               ))}
