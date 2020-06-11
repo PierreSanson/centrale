@@ -28,17 +28,15 @@ const FilmSearch = () => {
   useEffect(() => {
     setIsLoaded(false);
     fetchExample();
-    // The useEffect hook will retrigger every time an element in the dependency array changes.
-    // changes = strict egality, so beware when mutating objects
   }, [fetchAgain]);
   
   const sendDB = async(event) => {
+
     const Name_Year = item.Title+' ('+item.Year+')'
     await fetch("https://k90b21t2k0.execute-api.eu-west-1.amazonaws.com/dev/movies", {
       method: "post",
       body: JSON.stringify({ 'Name_Year': item.Title + ' (' + item.Year + ')', "genre": item.Genre }),
     });
-    //    event.preventDefault();
   };
 
 
