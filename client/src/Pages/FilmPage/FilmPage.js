@@ -72,7 +72,7 @@ const FilmPage = (props) => {
                 <div className="film-line"><div className="film-info-category">Résumé :</div><div>{item.Plot}</div></div>
                 <div className="film-line"><div className="film-info-category">Durée :</div><div>{item.Runtime}</div></div>
                 <div className="film-line"><div className="film-info-category">Limitation d'âge :</div><div>{item.Rated}</div></div>
-                <div className="film-line"><div className="film-info-category">Note moyenne des utilisateurs :</div><div>{AvgRating}</div></div>
+                <div className="film-line"><div className="film-info-category">Note moyenne :</div><div>{AvgRating}</div></div>
                 {user
                   ? (
                     <><div className="rating-panel">

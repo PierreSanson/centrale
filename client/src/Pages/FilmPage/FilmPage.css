@@ -22,4 +22,5 @@
 .film-info-category{
   font-weight: bold;
   margin-right: 15px;
+  min-width: 150px;
 }
