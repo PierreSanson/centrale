@@ -52,7 +52,7 @@ function App() {
       <div>
         <div className="header">
           <div className="header-title">
-            J'aime la cinématographie et vous ?
+            Ressources de films
           </div>
           <div className="links-container">
             <Link className="page-link" to="/">Accueil</Link>

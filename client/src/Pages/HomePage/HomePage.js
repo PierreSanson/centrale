@@ -10,7 +10,7 @@ const HomePage = () => {
         >Accueil
       </div>
       <div className="page-body">
-        Ceci est la page d'accueil
+        Site réalisé par : Joséphine Saint-Joanis, Pierre Sanson, Victor Collodel
       </div>
     </div>
   );
